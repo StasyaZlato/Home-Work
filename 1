@@ -28,6 +28,32 @@ def opentext(fname):
 
 
 def first_letter(letter):
+    fname = input('введите название файла: ')
     text = opentext(fname)
-    for i in range (len(text)):
-        if text
+    words_letter = []
+    for i in range(len(text)):
+        if text[i].startswith(letter) == True:
+            words_letter.append(text[i])
+        else:
+            continue
+    return words_letter
+
+
+#Задание3
+# questions()
+#1 спрашивае букву, имя файла и число
+#2 распечатывает результат работы first_letter(letter), есди длина слов больше опр. числа
+
+
+def questions():
+    letter = input('введите первую букву: ')
+    number = int(input('введите число: '))
+    words = first_letter(letter)
+    result = []
+    for i in range(len(words)):
+        if len(words[i]) > number:
+            result.append(words[i])
+        else:
+            continue
+    return result
+print (questions())
