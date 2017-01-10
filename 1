@@ -1,0 +1,33 @@
+#Задание1
+# opentext(fname)
+#1 открывает файл с названием fname
+#2 переводить текст в нижний регистр
+#3 делить на слова
+#4 удалить знаки препинания
+#5 возвращать массив всех словоформ
+
+
+def opentext(fname):
+    with open(fname, 'r', encoding = 'utf-8') as f:
+        text = f.readlines()
+        for line in text:
+            line = line.split()
+        list_ = []
+        for i in range (0, len(line)):
+            a = line[i]
+            a = a.lower()
+            a = a.strip('.,?!";:"*()')
+            list_.append(a)
+    return list_
+
+
+#Задание2
+# first_letter(letter)
+#1 возвращает массив слов из текста, которые начинаются на букву letter
+#2 использовать функцию opentext(fname)!!!
+
+
+def first_letter(letter):
+    text = opentext(fname)
+    for i in range (len(text)):
+        if text
