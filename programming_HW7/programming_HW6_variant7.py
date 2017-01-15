@@ -25,7 +25,6 @@ def un_forms():
         if text[i].startswith('un') == True:
             words_un.append(text[i])
         else:
-
             continue
     return words_un
 
