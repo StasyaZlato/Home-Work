@@ -1,0 +1,89 @@
+#1 открыть файл с корпусом, подсчитать число строк,
+#1 открыть другой файл, записать туда число строк
+
+def openfile():
+    with open('test2_corpus.xml', 'r', encoding = 'utf-8') as f:
+        lines = f.readlines()
+    return lines
+
+def count():
+    lines = openfile()
+    q = 0
+    for line in lines:
+        q += 1
+    return q
+
+def file_result():
+    with open('test2_quantity.txt', 'w', encoding = 'utf-8') as k:
+        k.write(str(count()))
+    return k
+
+        
+#2 создать словарь, ключи - строки с морф. разбором (type), значения - кол-во вхождений
+#2 распечатать ключи (БЕЗ значений) в открытый для записи файл
+
+import re
+
+def dict_(reg):
+    lines = openfile()
+    n = []
+    freq = {}
+    for line in lines:
+        m = re.search(reg, line)
+        if m:
+            s = m.group(2)
+            n.append(s)
+    for i in n:
+        quan = n.count(i)
+        freq[i] = quan
+    return freq
+
+def file_dict():
+    with open('test2_keys.txt', 'a', encoding = 'utf-8') as f:
+        reg1 = '<w lemma=(.*?) type="(.*?)"'
+        freq = dict_(reg1)
+        m = freq.keys()
+        for key in m:
+            f.write(key)
+            f.write('\n')
+    return f
+
+file_dict()
+file_result()
+
+
+#3 найти и подсчитать все вхождения прилагательных во мн.ч. (type="l.f.")
+#3 результат в открытый для записи файл, разбор - число вхождений - одна строка
+#3 преобразовать содержимое корпуса в формат csv
+#3 очистить от тэгов
+
+
+
+def file_adj():
+    with open('test2_adj.txt', 'a', encoding = 'utf-8') as f:
+        reg2 = '<w lemma=(.*?) type="(l.f.*?)"'
+        freq = dict_(reg2)
+        m = freq.keys()
+        for key in m:
+            f.write(key)
+            f.write(' - ')
+            f.write(str(freq[key]))
+            f.write('\n')
+        return f
+
+file_adj()
+
+def make_csv():
+    with open('test2_corpus.xml', 'r', encoding = 'utf-8') as f:
+        text = f.read()
+    with open('test2_corp_csv.csv', 'w', encoding = 'utf-8') as k:
+        k.write(text)
+    return k
+
+#def body():
+    #text = k.read()
+    #a = '<body>*</body>'
+    
+    
+
+make_csv()
