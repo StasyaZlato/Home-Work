@@ -1,0 +1,131 @@
+#comprehensions
+#import re
+#list comprehension
+#a = [1, 2, 3, 4, 5, 6, 7, 8]
+#b = []
+#for i in a:
+    #b.append(i**2)
+#print (b)
+
+#new_b = [i**2 for i in a]
+#print (new_b)
+
+
+#words = ['Mary', 'John', 'Jake', 'Tim']
+#new_words = [w.upper() for w in words]
+#print (new_words)
+
+
+#b = []
+#for i in a:
+    #if i < 10 and i % 2 == 0:
+        #b.append(i**2)
+#print (b)
+
+#new_b = [i**2 for i in a if i < 10 and i % 2 == 0]
+#print (new_b)
+
+
+#words += ['Kate', 'Tom', 'Stasy', 'Mary']
+#other_words = [w.upper() for w in words if re.search('[sS]', w)]
+#print (other_words)
+
+
+#dict comprehension
+
+#d = {"корова":"му", "собака":"гав", "кот":"мяу", "утка":"кря"}
+#sounds = {d[key]: key for key in d if len(key)>4}
+#print (sounds)
+
+#Массив массивов
+
+#BIG = [a, new_b, words]
+#print (BIG)
+
+#flat = []
+#for arr in BIG:
+    #for item in arr:
+        #flat.append(item)
+#print (flat)
+
+#flat=[item for arr in BIG for item in arr]
+#print (flat)
+
+
+#Форматирование строк
+
+#s = 'Hello, world! That\'s for all folks!'
+#print(s.upper())
+#print(s.lower())
+#print(s.capitalize())
+#print(s.title())
+#d = 'Hello, {}!'
+#print (d.format('John'))
+#name = 'Mary'
+#print (d.format(name))
+#print(d.format(input('Введите имя: ')))
+
+#print('Привет, {} {}!'.format('Петя', 'Иванов'))
+
+#print('Привет, {1} {0}!'.format('Петя', 'Иванов'))
+
+
+#arr = [21, 45, 100, 4, 4, 3, 87]
+#template = 'Возраст: {}'
+#for i in arr:
+    #print(template.format(i))
+
+#arr = [21, 45, 100, 4, 4, 3, 87]
+#template = 'Возраст: {:>10}'
+#for i in arr:
+    #print(template.format(i))
+
+
+print('{:+>10}'.format('text'))
+print('{:+^10}'.format('text'))
+print('{:+<10}'.format('text'))
+print('{:>10}'.format('text'))
+print('{:<10}'.format('text'))
+print('{:^10}'.format('text'))
+
+pi = 3.14159265358979323
+print ('Ваше число {:.2f}'.format(pi))
+#1 функция align_right()
+#1 получает на вход массив слов
+#1 печатает их в столбик с выравниваем справа
+
+def align_right(arr):
+    for i in arr:
+        print ('{:>40}'.format(i))
+
+arr = ['abba', 'assa', 'adda', 'affa']
+align_right(arr)
+
+
+#2 функция tokenize()
+#2 получает текст
+#2 возвращает массив токенов в нижнем регистре без знаков препинания
+#2 использовать list comprehension
+
+def tokenize(text):
+    tokens = text.split()
+    tokens1 = [t.strip('.,?!":;*()-— ') for t in tokens]
+    tokens2 = [t.lower() for t in tokens1]
+    return tokens2
+text = 'Инициатива публикации лучших дисциплин исходила в том числе от Студсовета. Чуть ранее представители Студенческого совета получили возможность использовать результаты СОП при обсуждении возникающих проблем и спорных моментов. Теперь все студенты смогут использовать опубликованную информацию  —  агрегированное мнение своих предшественников — при формировании собственной индивидуальной образовательной траектории.'
+print(tokenize(text))
+
+
+#3 функция tabulate()
+#3 получает массив кортежей из 3 элементов
+#3 распечатывает в виде таблицы
+
+def tabulate(a):
+    for i in len(a):
+        print('{:<10}'.format(a[i][1]))
+        print('{:^10}'.format(a[i][2]))
+        print('{:>10}'.format(a[i][3]))
+
+a = [(1,2,3), (3,4,5)]
+tabulate(a)
+    
