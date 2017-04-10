@@ -1,0 +1,28 @@
+#1 вложенные папки, сост. предложение
+
+import os
+import shutil
+import re
+
+#s = input('Пожалуйста, введите предложение (без знаков препинания!) \n')
+#sent = s.split()
+#b = '\\'.join(sent)
+#os.makedirs(b)
+
+#2 вводим число n, создать n папок (1, 2, ..., n), в каждой папке создать i файлов (i - номер папки)
+
+#n = int(input('Пожалуйста, введите натуральное число \n'))
+#for i in range(1,n+1):
+    #os.mkdir(str(i))
+    #for a in range(i):
+        #name = str(i) + '\\' + str(a+1) + '.txt'
+        #file = open(name, 'w', encoding = 'utf-8')
+        #file.write('Hello!')
+
+#4 сколько в заданной папке файлов с разными расширениями?
+
+a = os.listdir('.')
+b = []
+c = '\..*?'
+b = [c for i in a if c in i ]
+print (b)
