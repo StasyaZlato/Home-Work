@@ -1,0 +1,27 @@
+Ошибки и исключения
+try:
+  dic[j+1] +=1
+ except KeyError:
+  dic[j] = 1
+  
+  
+  Задание
+  # получаем путь к папке
+# находим все txt файлы (в т.ч. в подпапках)
+# собираем словарь, в кот. для всех словоформ из всех текстов записано кол-во вхождений
+# распечатываем 10 самых частотных словоформ
+
+import os
+
+def find_txt(path):
+    txt = []
+    for root, dirs, files in os.walk(path):
+        for f in files:
+            if '.txt' in f:
+                txt.append(f)
+    return txt
+
+def create_dict(path):
+    a = find_txt(path)
+    for i in a:
+        words = [word.strip(' ,.?!-:;').lower() for word in a.read().split()]
