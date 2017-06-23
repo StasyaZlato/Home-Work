@@ -106,6 +106,7 @@ def text_without_tegs(f):
        #         sent[line] = b
     
     #return sent
+    # он не хочет выводить предложения с биграмами, поэтому просто список биграм
 
 def bigr(path):
     files = list_files(path)
