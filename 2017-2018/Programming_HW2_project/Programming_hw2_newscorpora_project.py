@@ -336,8 +336,8 @@ def plain():
     url = 'https://gg12.ru/category/novosti/page'
     last = last_page()
     # i - по количеству страниц в архиве
-    #for i in range(1, last+1):
-    for i in [1,2]:
+    for i in range(1, last+1):
+    #for i in [1,2]:
         # url каждой страницы вполне ищется при добавлении "page№" или "page/№" в конце ссылки 
         url1 = url + str(i)
         refs = find_news_URL(url1)
