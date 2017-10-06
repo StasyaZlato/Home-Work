@@ -1,3 +1,9 @@
+
+# coding: utf-8
+
+# In[ ]:
+
+
 # импортируем все, что нужно
 
 import urllib.request # для работы с сайтами
@@ -7,10 +13,13 @@ import csv # табличка
 import time # чтобы поставить перерывы между обращениями к серверу
 
 
+# In[ ]:
+
+
 # создаем папки 
 
 def make_folders():
-    directory = 'C:\\Users\\1\\Yoshkar-Ola'
+    directory = os.path.join('.', 'Yoshkar-Ola')
     if not os.path.exists(directory):
         os.makedirs(directory) # создаем корневую директорию
     directories = [directory + '\\plain', directory + '\\mystem-xml', directory + '\\mystem-plain']
@@ -27,6 +36,9 @@ def make_folders():
     print('Директории созданы.')
 
 
+# In[ ]:
+
+
 # функция, скачивающая любую страницу
 
 def download(pageUrl):
@@ -37,7 +49,21 @@ def download(pageUrl):
     except:
         print('Error at ', pageUrl) 
 
- 
+
+# In[ ]:
+
+
+# функция, удаляющая из строки html символы
+
+def del_html(a):
+    import html
+    a = html.unescape(a)
+    return a
+
+
+# In[ ]:
+
+
 # ф-я, ищущая на странице новостей ссылки на отдельные статьи
 
 def find_news_URL(url_main):
@@ -50,6 +76,9 @@ def find_news_URL(url_main):
         reference = re.sub('" rel="bookmark">', '', ref1)
         references.append(reference) # кидаем в итоговый массив
     return references
+
+
+# In[ ]:
 
 
 # ф-я, ищущая номер последней страницы архива новостей 
@@ -65,6 +94,9 @@ def last_page():
         i1 = re.sub(reg_pages, '\1', i) # вычленяем только число между тегами
         nums.append(int(i1))
     return max(nums) # страница с максимальным номером - и есть последняя
+
+
+# In[ ]:
 
 
 # mystem принимает только файлы с названием на латинице. Мне лень переделывать красивую функцию, 
@@ -111,6 +143,9 @@ def transliter(string):
     return string
 
 
+# In[ ]:
+
+
 # ф-я, проходящая по всем папкам директории и достающая оттуда все файлы
 
 def list_files(path):
@@ -122,11 +157,13 @@ def list_files(path):
     return files_list
 
 
-# ф-я, определяющая будущее название файла
-# и путь к нему
+# In[ ]:
+
+
+# ф-я, определяющая будущее название файла и путь к нему
 
 def path_html(url, html):
-    path_base = 'C:\\Users\\1\\Yoshkar-Ola\\plain' 
+    path_base = os.path.join('.', 'Yoshkar-Ola\\plain')
     metadata = meta(url, html) # ищем данные для определения пути
     date = metadata['created']
     date_f = date.split('.') 
@@ -141,7 +178,11 @@ def path_html(url, html):
     return(path)
 
 
+# In[ ]:
+
+
 # ф-я, вытаскивающая из html инфу для начала файла
+
 
 def inf(file, URL, html):
     metadata = meta(URL, html)
@@ -152,6 +193,9 @@ def inf(file, URL, html):
         f.write('@topic ' + metadata['topic'] + '\n')
         f.write('@url ' + URL + '\n' + '\n')
         f.close()
+
+
+# In[ ]:
 
 
 # ф-я, очищающая html от тегов и иже с ними
@@ -202,9 +246,11 @@ def clean(text):
     # обрезаем пробелообразные символы в начале и в конце
     hc = hc.strip()
     # убираем html-символы 
-    import html
-    hc = html.unescape(hc)
+    hc = del_html(hc)
     return hc
+
+
+# In[ ]:
 
 
 # Ф-я, инвертирующая словарь
@@ -214,9 +260,13 @@ def invert_dic(d):
     return inverted_dic
 
 
+# In[ ]:
+
+
 # ф-я, вытаскивающая метаданные из html
 
 def meta(URL, html):
+    html = del_html(html)
     reg_author = re.compile('<div class="entry-meta">(.*?)<span class="author vcard">(.*?)</a>', re.DOTALL) # регулярка для автора
     reg_title = re.compile('<h1 class="entry-title">(.*?)</h1>', re.DOTALL) # регулярка для заголовка
     reg_created = re.compile('<div class="entry-meta">.*?<time.*?>(.*?)</time>', re.DOTALL) # регулярка для даты
@@ -240,17 +290,26 @@ def meta(URL, html):
     return dic_meta
 
 
+# In[ ]:
+
+
 # ф-я, создающая csv таблицу
 
 def csv_meta_base():
-    file = 'C:\\Users\\1\\Yoshkar-Ola\\metadata.csv'
+    file = os.path.join('.', 'Yoshkar-Ola\\metadata.csv')
     # заливаем все переменные в список
     data = [['path', 'author', 'sex', 'birthday', 'header', 'created', 'sphere', 'genre_fi', 'type', 'topic', 'chronotop', 'style', 'audience_age', 'audience_level', 'audience_size', 'source', 'publication', 'publisher', 'publ_year', 'medium', 'country', 'region', 'language']]
     # воспользуемся модулем csv
-    with open(file, 'w', newline = '') as f:
-        writer = csv.writer(f, delimiter = '\t')
-        writer.writerows(data)
-    print('Шаблон таблицы csv создан.')
+    if not os.path.exists(file):
+        with open(file, 'w', newline = '') as f:
+            writer = csv.writer(f, delimiter = '\t')
+            writer.writerows(data)
+        print('Шаблон таблицы csv создан.')
+    else:
+        print('Таблица с метаданными уже существует.')
+
+
+# In[ ]:
 
 
 # Ф-я, заполняющая строки таблицы
@@ -263,9 +322,12 @@ def meta_csv(ref, html, file): # ref - ссылка, html - текст html, fil
     inv_meta = invert_dic(metadata)
     meta_list.extend(inv_meta.keys())
     meta_csv.append(meta_list)
-    with open('C:\\Users\\1\\Yoshkar-Ola\\metadata.csv', 'a', newline = '') as f:
+    with open(os.path.join('.', 'Yoshkar-Ola\\metadata.csv'), 'a', newline = '') as f:
         writer = csv.writer(f, delimiter = '\t')
         writer.writerows(meta_csv)
+
+
+# In[ ]:
 
 
 # ф-я, заливающая обработанные html в соотв. папки директории plain
@@ -274,7 +336,8 @@ def plain():
     url = 'https://gg12.ru/category/novosti/page'
     last = last_page()
     # i - по количеству страниц в архиве
-    for i in range(1, last+1):
+    #for i in range(1, last+1):
+    for i in [1,2]:
         # url каждой страницы вполне ищется при добавлении "page№" или "page/№" в конце ссылки 
         url1 = url + str(i)
         refs = find_news_URL(url1)
@@ -297,8 +360,8 @@ def plain():
                 print('Error at ', ref)
     print('Выкачка файлов в папку plain завершена. Таблица csv заполнена.')
 
-# при последней проверке в ошибку уходила единственная страница с ломаным заголовком - в заголовок 
-# умудрились запихнуть весь текст статьи, программа ломалась
+
+# In[ ]:
 
 
 # После первой обработки всего массива файлов в mystem оказалось, что часть файлов выпадают в ошибку. 
@@ -322,6 +385,9 @@ def rename_file(directory):
     print('Файлы в директории переименованы.')
 
 
+# In[ ]:
+
+
 # Убираем строки с метаданными из файлов mystem папок
 
 def cut_meta(path):
@@ -335,52 +401,63 @@ def cut_meta(path):
         f.close()
 
 
+# In[ ]:
+
+
 # Размечаем майстемом в формате plain text
 
 def mystem_plain():
-    path_base = 'C:\\Users\\1\\Yoshkar-Ola\\plain'
+    path_base = os.path.join('.', 'Yoshkar-Ola\\plain')
     files = list_files(path_base) # берем все файлы директории plain
     #создаем на всякий случай файл, в который уйдут названия всех файлов с ошибками
-    with open('C:\\Users\\1\\Yoshkar-Ola\\errors_mystem.txt', 'a', encoding='utf-8') as n: 
+    with open(os.path.join('.', 'Yoshkar-Ola\\errors_mystem.txt'), 'a', encoding='utf-8') as n: 
         n.write('Ф-я mystem_plain(). Ошибки при обработке следующих файлов: ' + '\n')
         n.close()
     for f in files:
         try:
             f_path_new = f.replace('plain', 'mystem-plain')
             if not os.path.exists(f_path_new): # обрабатываем все файлы mystem, если еще нет
-                os.system("C:\\Users\\1\\mystem.exe -cid " + f + ' ' + f_path_new)
+                mystem_path = os.path.join('.', 'mystem.exe')
+                os.system(mystem_path + " -cid " + f + ' ' + f_path_new)
                 cut_meta(f_path_new)
         except FileNotFoundError: # собственно единственная ошибка, которая возникала (кажется) из-за имени файла
             print('Ошибка при обработке файла ' + f)
-            with open('C:\\Users\\1\\Yoshkar-Ola\\errors_mystem.txt', 'a', encoding='utf-8') as n:
+            with open(os.path.join('.', 'Yoshkar-Ola\\errors_mystem.txt'), 'a', encoding='utf-8') as n:
                 n.write(f + '\n')
                 n.close()
     print('Обработка mystem файлов из директории plain в формате plain text завершена.')
 
 
+# In[ ]:
+
+
 # ф-я, обрабатывающая все файлы директории plain в mystem в формате xml
 
 def mystem_xml():
-    path_base = 'C:\\Users\\1\\Yoshkar-Ola\\plain'
+    path_base = os.path.join('.', 'Yoshkar-Ola\\plain')
     files = list_files(path_base)
     for f in files:
         try:
             f_path_new_txt = f.replace('plain', 'mystem-xml')
             f_path_new_xml = f_path_new_txt.replace('txt', 'xml')
             if not os.path.exists(f_path_new_xml):
-                os.system("C:\\Users\\1\\mystem.exe -cid --format xml " + f + ' ' + f_path_new_xml)
+                mystem_path = os.path.join('.', 'mystem.exe')
+                os.system(mystem_path + " -cid --format xml " + f + ' ' + f_path_new_xml)
                 cut_meta(f_path_new_xml)
         except FileNotFoundError:
             print('Ошибка при обработке файла ' + f)
-            # эти файлы уже не добавляем в файл с ошибками mystem, потому что в обеих функциях mystem ругается на одни и те же файлы
+# эти файлы уже не добавляем в файл с ошибками mystem, потому что в обеих функциях mystem ругается на одни и те же файлы
     print('Обработка mystem файлов из директории plain в формате xml завершена.')
+
+
+# In[ ]:
 
 
 # т.к. несколько файлов все равно может улететь в ошибку после mystem, и я не знаю, что с ними делать - вроде все норм - удалим их,
 # чтобы во всех директориях было равное количество файлов. Для этого воспользуемся созданным файлом с названиями файлов-ошибок
 
 def delete_error_files():
-    with open('C:\\Users\\1\\Yoshkar-Ola\\errors_mystem.txt', 'r', encoding='utf-8') as f:
+    with open(os.path.join('.', 'Yoshkar-Ola\\errors_mystem.txt'), 'r', encoding='utf-8') as f:
         errors = f.read()
         errors_l = errors.split('\n') # считываем файл с ошибками, отсекая перенос на другую строку! (я просто рассплитила по переносам)
     for error in errors_l: 
@@ -388,6 +465,9 @@ def delete_error_files():
             os.remove(os.path.join(error))
             print('Файл ' + error + ' удален.')
     print('Файлы, на которых mystem ломается, удалены.')
+
+
+# In[ ]:
 
 
 # На всякий случай считаем слова
@@ -405,6 +485,9 @@ def count_words(directory):
     return words
 
 
+# In[ ]:
+
+
 # Т.к. папки создавались в большом количестве, но многие остались пустыми (напр., за декабрь 2017), удаляем пустые папки
 # Пустых папок много, т.к. сайт газеты новый, и там есть статьи только начиная с конца 2016 года + 1 статья за 2014
 
@@ -416,38 +499,30 @@ def delete_empty_dirs(directory):
             if not os.listdir(a):
                 os.rmdir(a)
                 print('Директория ' + a + ' удалена')
-                
 
-def clean_html_signs_in_text(directory): # появились после создания информационной шапки - были в некоторых заголовках
-    files = list_files(directory)
-    for f in files:
-        with open(f, 'r', encoding = 'utf-8') as k: # открываем и читаем
-            text = k.read()
-            k.close()
-        import html
-        text_clean = html.unescape(text) # редактируем
-        with open(f, 'w', encoding = 'utf-8') as k:
-            k.write(text_clean)
-            k.close
-    print('HTML символы из файлов удалены')
+
+# In[ ]:
 
 
 def main():
     make_folders()
     csv_meta_base()
     plain()
-    directory = 'C:\\Users\\1\\Yoshkar-Ola'
-    directory1 = 'C:\\Users\\1\\Yoshkar-Ola\\plain'
-    clean_html_signs_in_text(directory1)
+    directory = os.path.join('.', 'Yoshkar-Ola')
+    directory1 = os.path.join(directory, 'plain')
     rename_file(directory1)
     mystem_plain()
     mystem_xml()
     delete_error_files()
-    os.remove('C:\\Users\\1\\Yoshkar-Ola\\errors_mystem.txt')
+    os.remove(os.path.join('.', 'Yoshkar-Ola\\errors_mystem.txt'))
     delete_empty_dirs(directory)
     print('Все пустые директории удалены.')
     print('Количество слов в корпусе ' + str(count_words(directory1)))
     print('Готово.')
 
 
+# In[ ]:
+
+
 main()
+
