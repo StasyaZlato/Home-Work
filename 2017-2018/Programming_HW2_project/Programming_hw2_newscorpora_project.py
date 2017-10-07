@@ -1,7 +1,7 @@
 
 # coding: utf-8
 
-# In[ ]:
+# In[381]:
 
 
 # импортируем все, что нужно
@@ -13,7 +13,7 @@ import csv # табличка
 import time # чтобы поставить перерывы между обращениями к серверу
 
 
-# In[ ]:
+# In[382]:
 
 
 # создаем папки 
@@ -36,7 +36,7 @@ def make_folders():
     print('Директории созданы.')
 
 
-# In[ ]:
+# In[383]:
 
 
 # функция, скачивающая любую страницу
@@ -50,7 +50,7 @@ def download(pageUrl):
         print('Error at ', pageUrl) 
 
 
-# In[ ]:
+# In[384]:
 
 
 # функция, удаляющая из строки html символы
@@ -61,7 +61,7 @@ def del_html(a):
     return a
 
 
-# In[ ]:
+# In[385]:
 
 
 # ф-я, ищущая на странице новостей ссылки на отдельные статьи
@@ -78,7 +78,7 @@ def find_news_URL(url_main):
     return references
 
 
-# In[ ]:
+# In[386]:
 
 
 # ф-я, ищущая номер последней страницы архива новостей 
@@ -96,7 +96,7 @@ def last_page():
     return max(nums) # страница с максимальным номером - и есть последняя
 
 
-# In[ ]:
+# In[387]:
 
 
 # mystem принимает только файлы с названием на латинице. Мне лень переделывать красивую функцию, 
@@ -136,14 +136,16 @@ def transliter(string):
                        'э':'e',
                        'ю':'yu',
                        'я':'ya',
-                       ' ':'_'} # словарь кириллица VS латиница
+                       '\s':'_'} # словарь кириллица VS латиница
     string = string.lower() # Приведем строку к нижнему регистру, потому что иначе аббревиатуры будут выглядеть некрасиво
     for cyrillic, latin in dic_alph_cyr_lat.items():
         string = string.replace(cyrillic, latin)
     return string
+string = 'Вася привет\tсказал Ване\nпривет, Ваня'
+print(transliter(string))
 
 
-# In[ ]:
+# In[388]:
 
 
 # ф-я, проходящая по всем папкам директории и достающая оттуда все файлы
@@ -157,13 +159,14 @@ def list_files(path):
     return files_list
 
 
-# In[ ]:
+# In[389]:
 
 
 # ф-я, определяющая будущее название файла и путь к нему
 
 def path_html(url, html):
-    path_base = os.path.join('.', 'Yoshkar-Ola\\plain')
+    base_dir = os.path.abspath('.') # чтобы корректно отображалось в csv файле
+    path_base = os.path.join(base_dir, 'Yoshkar-Ola\\plain')
     metadata = meta(url, html) # ищем данные для определения пути
     date = metadata['created']
     date_f = date.split('.') 
@@ -175,10 +178,13 @@ def path_html(url, html):
     if title.count('\\') > 0: # почему-то регуляркой backslash не захотел убираться, прописываем отдельно
         title = title.replace('\\', '')
     path = path_base + '\\' + date_year + '\\' + str(date_month) + '\\' + title + '.txt'
+    path1 = path[:-4]
+    if len(path1) > 251:
+        path = path1[:251] + '.txt'
     return(path)
 
 
-# In[ ]:
+# In[390]:
 
 
 # ф-я, вытаскивающая из html инфу для начала файла
@@ -195,7 +201,7 @@ def inf(file, URL, html):
         f.close()
 
 
-# In[ ]:
+# In[391]:
 
 
 # ф-я, очищающая html от тегов и иже с ними
@@ -250,7 +256,7 @@ def clean(text):
     return hc
 
 
-# In[ ]:
+# In[392]:
 
 
 # Ф-я, инвертирующая словарь
@@ -260,7 +266,7 @@ def invert_dic(d):
     return inverted_dic
 
 
-# In[ ]:
+# In[393]:
 
 
 # ф-я, вытаскивающая метаданные из html
@@ -290,7 +296,7 @@ def meta(URL, html):
     return dic_meta
 
 
-# In[ ]:
+# In[394]:
 
 
 # ф-я, создающая csv таблицу
@@ -309,7 +315,7 @@ def csv_meta_base():
         print('Таблица с метаданными уже существует.')
 
 
-# In[ ]:
+# In[395]:
 
 
 # Ф-я, заполняющая строки таблицы
@@ -327,7 +333,7 @@ def meta_csv(ref, html, file): # ref - ссылка, html - текст html, fil
         writer.writerows(meta_csv)
 
 
-# In[ ]:
+# In[396]:
 
 
 # ф-я, заливающая обработанные html в соотв. папки директории plain
@@ -337,7 +343,6 @@ def plain():
     last = last_page()
     # i - по количеству страниц в архиве
     for i in range(1, last+1):
-    #for i in [1,2]:
         # url каждой страницы вполне ищется при добавлении "page№" или "page/№" в конце ссылки 
         url1 = url + str(i)
         refs = find_news_URL(url1)
@@ -354,14 +359,14 @@ def plain():
                         f.write(html_clean)
                         f.close()
                     meta_csv(ref, html, file)
-                    # делаем паузу между запросами
+                        # делаем паузу между запросами
                 time.sleep(2)
             except:
                 print('Error at ', ref)
     print('Выкачка файлов в папку plain завершена. Таблица csv заполнена.')
 
 
-# In[ ]:
+# In[397]:
 
 
 # После первой обработки всего массива файлов в mystem оказалось, что часть файлов выпадают в ошибку. 
@@ -371,21 +376,24 @@ def plain():
 
 def rename_file(directory):
     files = list_files(directory)
-    regex= re.compile('[\?#%&\*,\|:\"«»<>/№;!–-—`]') # еще раз пропишу все символы
+    regex= re.compile('[\?#%&\*,\|:\"\“\”«»<>/№;!–-—`…]') # еще раз пропишу все символы
     for f in files:
         list_n = f.split('\\')
         name = list_n[-1]
+        new_name = re.sub('__', '_', name)
+        new_name = re.sub(' ', '_', new_name)
+        new_name = re.sub('\.\.', '.', new_name)
+        new_name = re.sub('_\.', '.', new_name)
         if re.search(regex, name) != None: 
-            new_name = re.sub(regex, '', name)
-            new_name = re.sub('__', '_', new_name)
-            list_n1 = list_n[:-1]
-            list_n1.append(new_name)
-            new_name_path = '\\'.join(list_n1)
-            os.rename(f, new_name_path)
+            new_name = re.sub(regex, '', new_name)
+        list_n1 = list_n[:-1]
+        list_n1.append(new_name)
+        new_name_path = '\\'.join(list_n1)
+        os.rename(f, new_name_path)
     print('Файлы в директории переименованы.')
 
 
-# In[ ]:
+# In[398]:
 
 
 # Убираем строки с метаданными из файлов mystem папок
@@ -393,20 +401,28 @@ def rename_file(directory):
 def cut_meta(path):
     with open(path, 'r', encoding = 'utf-8') as f: 
         text = f.readlines()
-        text_wm_l = text[6:]
-        text_wm = ''.join(text_wm_l)
+        if text[0].startswith('<?xml version="1.0" encoding="utf-8"?>'):
+            text_wm_l1 = text[:2]
+            text_wm_l2 = text[8:]
+            text_wm_l1.extend(text_wm_l2)
+            text_wm = ''.join(text_wm_l1)
+        else:
+            text_wm_l = text[6:]
+            text_wm = ''.join(text_wm_l)
         f.close()
     with open(path, 'w', encoding = 'utf-8') as f:
         f.write(text_wm)
         f.close()
 
 
-# In[ ]:
+# In[399]:
 
 
 # Размечаем майстемом в формате plain text
 
 def mystem_plain():
+    #root_dir = os.path.abspath('.')
+   # path_base = os.path.join(root_dir, 'Yoshkar-Ola\\plain')
     path_base = os.path.join('.', 'Yoshkar-Ola\\plain')
     files = list_files(path_base) # берем все файлы директории plain
     #создаем на всякий случай файл, в который уйдут названия всех файлов с ошибками
@@ -428,7 +444,7 @@ def mystem_plain():
     print('Обработка mystem файлов из директории plain в формате plain text завершена.')
 
 
-# In[ ]:
+# In[400]:
 
 
 # ф-я, обрабатывающая все файлы директории plain в mystem в формате xml
@@ -450,7 +466,7 @@ def mystem_xml():
     print('Обработка mystem файлов из директории plain в формате xml завершена.')
 
 
-# In[ ]:
+# In[401]:
 
 
 # т.к. несколько файлов все равно может улететь в ошибку после mystem, и я не знаю, что с ними делать - вроде все норм - удалим их,
@@ -467,7 +483,7 @@ def delete_error_files():
     print('Файлы, на которых mystem ломается, удалены.')
 
 
-# In[ ]:
+# In[402]:
 
 
 # На всякий случай считаем слова
@@ -485,7 +501,25 @@ def count_words(directory):
     return words
 
 
-# In[ ]:
+# In[420]:
+
+
+def csv_clean():
+    with open(os.path.join('.', 'Yoshkar-Ola\\metadata.csv'), 'r', encoding = 'utf-8') as k:
+        lines = k.readlines()
+        for line in lines[1:]:
+            line1 = line.split('\t')
+            path = line1[0]
+            if not os.path.exists(path):
+                lines.remove(line)
+        k.close()
+    with open(os.path.join('.', 'Yoshkar-Ola\\metadata.csv'), 'w', encoding = 'utf-8') as k:
+        k.write(''.join(lines))
+        k.close()
+    print('Файлы, удаленные из директории plain, удалены из csv-таблицы.')
+
+
+# In[404]:
 
 
 # Т.к. папки создавались в большом количестве, но многие остались пустыми (напр., за декабрь 2017), удаляем пустые папки
@@ -501,7 +535,7 @@ def delete_empty_dirs(directory):
                 print('Директория ' + a + ' удалена')
 
 
-# In[ ]:
+# In[427]:
 
 
 def main():
@@ -515,6 +549,7 @@ def main():
     mystem_xml()
     delete_error_files()
     os.remove(os.path.join('.', 'Yoshkar-Ola\\errors_mystem.txt'))
+    csv_clean()
     delete_empty_dirs(directory)
     print('Все пустые директории удалены.')
     print('Количество слов в корпусе ' + str(count_words(directory1)))
