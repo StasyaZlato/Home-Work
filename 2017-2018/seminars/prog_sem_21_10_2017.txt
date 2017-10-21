@@ -1,0 +1,38 @@
+делаем библиотеку:
+
+def sum(a,b):
+  return a+b
+print('This is my lib')
+
+чтобы вызывать только нужную функцию и не вызывать принт --> используем 
+if __name__ == '__main__':
+  ...
+NB!!! Почитать про __name__ и т.д.
+debug = True - отладка; при изменении кода сразу изменяется файл
+debug = False - при изменении кода файл изменится только после перезапуска
+
+делаем папку с шаблонами в той же папке, где программа
+
+from flask import Flask
+from flask import request
+from flask import render_template
+import random
+app = Flask(__name__, template_folder='templates')
+
+@app.route('/')
+def index():
+    prizes = ['Car', 'Elephant', 'Washing machine', 'Hamster']
+    prize = random.choice(prizes)
+    return render_template('main.html', prize = prize)
+
+@app.route('/hi')
+def hi():
+    if 'name' in request.args and 'surname' in request.args:
+        name = request.args["name"]
+        surname = request.args["surname"]
+        return '<html><body><strong>Hi, {} {}!</strong></body></html>'.format(name, surname)
+    # дальше в адресной строке к localhost:5000 добавляем /hi?name=Anastasia
+    else:
+        return '<strong>Скажите, как Вас зовут</strong>'
+if __name__ == '__main__':
+    app.run(debug=True)
