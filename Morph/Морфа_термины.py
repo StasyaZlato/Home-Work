@@ -28,7 +28,7 @@ ent1 = Text(root, font="14",width=3, height=1)
 
 
 def list_of_terms():
-    with open(r'C:\Users\1\Documents\HSE\linguistics\KILR_and_programming\МОРФА_ЭКЗ\термины.txt', 'r', encoding='utf-8') as f:
+    with open(r'термины.txt', 'r', encoding='utf-8') as f:
         terms = f.read()
         list_of_terms = terms.split('\n\n')
         f.close()
