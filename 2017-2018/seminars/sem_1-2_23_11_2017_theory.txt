@@ -61,3 +61,5 @@ id --> object --> img
 answers: id --> object_id --> answer (objectid указывает на строчку в questions - name)
 questions: id --> name --> img
 SELECT * FROM answers JOIN questions ON answers.object_id=questions.id --> склеиваем таблицы
+
+с помощью встроенных процедур можно использовать регулярки и иже с ними
