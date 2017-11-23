@@ -15,3 +15,41 @@ SELECT __sth__ FROM __table__ WHERE __condition__
 * - все / name adress - sth
 owners - from
 id > 1 ... - where
+Firefox --> SQLite manager (дополнение) --> через панель меню, инструменты открываем
+Первичный ключ - чтобы запись идентифицировалась по ее id
+автоинкримент - автозаполнение (пред. +1)
+
+import sqlite3
+
+conn = sqlite3.connect('ну прост.sqlite')
+c = conn.cursor()
+
+
+place = input('Введите место сбора данных: ')
+text = input('Введите текст: ')
+informant = input('Введите информанта: ')
+c.execute('INSERT INTO тексты (city, text, informant) VALUES(?, ?, ?)', [place, text, informant])
+
+conn.commit()
+c.execute('SELECT * FROM тексты')
+results = c.fetchall()
+for result in results:
+    print("id:{}\n".format(result[0]))
+    print("place:{}\n".format(result[1]))
+    print("text:{}\n".format(result[2]))
+    print("informant:{}\n".format(result[3]))
+    print('---'*10)
+
+print(results)
+
+
+SQL ин...? (инъерция?) 
+
+
+Сайт - id, владелец, кличка
+
+id = request.args['id']
+c.execute('SELECT * FROM cats WHERE id = 2')
+
+cats.ru/?id=2;DROP TABLE CATS --> при запросе через конкатенацию удаляется вся информация из таблицы
+Через знаки вопроса такого не будет :))
