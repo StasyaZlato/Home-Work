@@ -53,3 +53,11 @@ c.execute('SELECT * FROM cats WHERE id = 2')
 
 cats.ru/?id=2;DROP TABLE CATS --> при запросе через конкатенацию удаляется вся информация из таблицы
 Через знаки вопроса такого не будет :))
+
+id --> object_id --> answer 
+id --> object --> img
+
+Нормализация:
+answers: id --> object_id --> answer (objectid указывает на строчку в questions - name)
+questions: id --> name --> img
+SELECT * FROM answers JOIN questions ON answers.object_id=questions.id --> склеиваем таблицы
