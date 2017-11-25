@@ -1,0 +1,65 @@
+Базы данных
+реляционные - данные хранятся в таблицах
+нереляционные
+СУБД - система управления базами данных (библиотеки для работы с БД)
+MySQL, PgSQL, SQL server, Oracle, SQLite, Access - реляционные СУБД
+чтобы управлять БД, используется язык SQL (полный по Тьюрингу, декларативный - не надо описывать каждое действие, 
+пишешь цель - а программа сама подбирает способ )
+команды SQL: DDL (data definition language, для управления структурой БД), DML (data modulation language - для управления самими данными)
+в каждом пункте - по четыре команды для CRUD (create, read, update, delete)
+Create, alter, drop - DDL
+Insert, select, update, delete - DML !!! (нужно, чтобы работать с БД в питоне)
+
+структура команды select:
+SELECT __sth__ FROM __table__ WHERE __condition__
+* - все / name adress - sth
+owners - from
+id > 1 ... - where
+Firefox --> SQLite manager (дополнение) --> через панель меню, инструменты открываем
+Первичный ключ - чтобы запись идентифицировалась по ее id
+автоинкримент - автозаполнение (пред. +1)
+
+import sqlite3
+
+conn = sqlite3.connect('ну прост.sqlite')
+c = conn.cursor()
+
+
+place = input('Введите место сбора данных: ')
+text = input('Введите текст: ')
+informant = input('Введите информанта: ')
+c.execute('INSERT INTO тексты (city, text, informant) VALUES(?, ?, ?)', [place, text, informant])
+
+conn.commit()
+c.execute('SELECT * FROM тексты')
+results = c.fetchall()
+for result in results:
+    print("id:{}\n".format(result[0]))
+    print("place:{}\n".format(result[1]))
+    print("text:{}\n".format(result[2]))
+    print("informant:{}\n".format(result[3]))
+    print('---'*10)
+
+print(results)
+
+
+SQL ин...? (инъерция?) 
+
+
+Сайт - id, владелец, кличка
+
+id = request.args['id']
+c.execute('SELECT * FROM cats WHERE id = 2')
+
+cats.ru/?id=2;DROP TABLE CATS --> при запросе через конкатенацию удаляется вся информация из таблицы
+Через знаки вопроса такого не будет :))
+
+id --> object_id --> answer 
+id --> object --> img
+
+Нормализация:
+answers: id --> object_id --> answer (objectid указывает на строчку в questions - name)
+questions: id --> name --> img
+SELECT * FROM answers JOIN questions ON answers.object_id=questions.id --> склеиваем таблицы
+
+с помощью встроенных процедур можно использовать регулярки и иже с ними
