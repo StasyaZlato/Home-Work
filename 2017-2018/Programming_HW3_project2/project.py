@@ -78,13 +78,10 @@ def get_data():
     return data
 
 
-# Собираем все данные и впихиваем (невпихуемое) в json
-# а если посмотреть исходный код страницы, так там так красиво, так красиво! Даже с отступами:)
-@app.route('/json')
-def data_json():
-    conn = sqlite3.connect(os.path.join(r'D:\HSE\linguistics\KILR_and_programming\flask\project2', 'stats1.sqlite'))
+def get_data_json():
+    conn = sqlite3.connect(os.path.join('.', 'stats1.sqlite'))
     c = conn.cursor()
-    c.execute('SELECT * FROM users INNER JOIN answers ON users.id_user = answers.id_user ORDER BY id_user')
+    c.execute('SELECT * FROM users INNER JOIN answers ON users.id = answers.id_user ORDER BY id_user')
     answers = c.fetchall()
     answers1 = []
     data_simple = []
@@ -110,6 +107,14 @@ def data_json():
     data_json = json.dumps(data_simple, indent=2, ensure_ascii=False, separators=(',', ': '))
     with open(os.path.join('.\\templates', 'infa.json'), 'w', encoding='utf-8') as f:
         f.write(data_json)
+    return
+
+
+# Собираем все данные и впихиваем (#невпихуемое#) в json
+# а если посмотреть исходный код страницы, так там так красиво, так красиво! Даже с отступами:)
+@app.route('/json')
+def data_json():
+    get_data_json()
     return render_template('infa.json')
 
 
@@ -191,8 +196,8 @@ def barchart_create():
 
 
 # статистика в виде столбчатых диаграмм
-@app.route('/barchart')
-def barchart():
+@app.route('/stats')
+def stats():
     barchart_create()
     temp = '''<body>
     <table width="100%">
@@ -200,7 +205,10 @@ def barchart():
             <a href="{{ url1 }}" title="Нажмите сюда, если хотите перейти на страницу анкеты" style="text-decoration: none">Анкета</a>
         </th><th>
             <a href="http://127.0.0.1:5000/stats" title="Нажмите сюда, если хотите посмотреть статистику ответов" style="text-decoration: none">Статистика</a>
-        </th><th>JSON</th><th>Поиск</th></tr>
+        </th><th>
+            <a href="http://127.0.0.1:5000/json" title="Нажмите сюда, если хотите посмотреть или скачать данные исследования в формате json" style="text-decoration: none" target="_blank">JSON</a>
+        </th><th>
+            <a href="http://127.0.0.1:5000/search" title="Нажмите сюда для поиска по полученным данным" style="text-decoration: none">Поиск</a></th></tr>
     </table>
     <hr/>'''
     with open(os.path.join('.\\templates', 'bars.html'), 'r', encoding='utf-8') as f:
@@ -212,24 +220,49 @@ def barchart():
     return render_template('bars.html')
 
 
-# Страница со статистикой (таблица / любое визуальное представление)
-@app.route('/stats')
-def stats():
-    barchart_create()
-    return render_template('stats.html')
+# # Страница со статистикой (таблица / любое визуальное представление)
+# @app.route('/stats')
+# def stats():
+#     barchart_create()
+#     return render_template('stats.html')
 
 
 # Страница с поиском по данным
-# @app.route('/search')
-# def search():
-#
-#     return
+@app.route('/search')
+def search():
+    if request.args:
+        global question
+        question = request.args['search']
+        return redirect('results')
+    return render_template('search.html')
 
 # Страница с результатами поиска
-# @app.route('/results')
-# def results():
-#
-#     return
+@app.route('/results')
+def results():
+    conn = sqlite3.connect(os.path.join('.', 'stats1.sqlite'))
+    c = conn.cursor()
+    c.execute('''SELECT id_user, age, language, native_city, current_city, colour1, colour2, colour3, colour4, colour5, colour6  
+                FROM users 
+                INNER JOIN answers ON users.id = answers.id_user 
+                WHERE age = "{0}" 
+                OR language = "{0}" 
+                OR native_city = "{0}" 
+                OR current_city = "{0}" 
+                OR colour1 = "{0}" 
+                OR colour2 = "{0}" 
+                OR colour3 = "{0}" 
+                OR colour4 = "{0}" 
+                OR colour5 = "{0}" 
+                OR colour6 = "{0}"
+                ORDER BY id_user'''.format(question))
+    data = c.fetchall()
+    t = len(data)
+    return render_template('result.html', data=data, t=t)
+
+
+@app.errorhandler(NameError)
+def name_error(error):
+    return redirect(url_for('index'))
 
 
 if __name__ == '__main__':

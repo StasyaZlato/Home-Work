@@ -31,7 +31,7 @@ def bd_1_colour_quest():
 def bd_users():
     # conn = sqlite3.connect('stats.sqlite')
     # c = conn.cursor()
-    c.execute('CREATE TABLE IF NOT EXISTS users (id_user INTEGER PRIMARY KEY AUTOINCREMENT, name VARCHAR, age INTEGER, language VARCHAR, native_city VARCHAR, current_city VARCHAR)')
+    c.execute('CREATE TABLE IF NOT EXISTS users (id INTEGER PRIMARY KEY AUTOINCREMENT, name VARCHAR, age INTEGER, language VARCHAR, native_city VARCHAR, current_city VARCHAR)')
     return
 
 def bd_answers():

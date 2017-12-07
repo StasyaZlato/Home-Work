@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Поиск</title>
+</head>
+    <body>
+        <table width="100%">
+            <tr><th>
+                <a href="http://127.0.0.1:5000/" title="Нажмите сюда, если хотите перейти на страницу анкеты" style="text-decoration: none">Анкета</a>
+            </th><th>
+            <a href="http://127.0.0.1:5000/stats" title="Нажмите сюда, если хотите посмотреть статистику ответов" style="text-decoration: none">Статистика</a>
+        </th><th>
+            <a href="http://127.0.0.1:5000/json" title="Нажмите сюда, если хотите посмотреть или скачать данные исследования в формате json" style="text-decoration: none" target="_blank">JSON</a>
+        </th><th>
+            <a href="http://127.0.0.1:5000/search" title="Нажмите сюда для поиска по полученным данным" style="text-decoration: none">Поиск</a>
+        </th></tr>
+        </table>
+        <hr/>
+    <form>
+        <p align="center">Введите запрос для поиска по данным: </p>
+        <p align="center"><label><input name="search" type="text"></label></p>
+        <p align="center"><input type="submit" value="Отправить"></p>
+    </form>
+        <p></p>
+        <table align="right" width="40%">
+    <tr><th><p align="justify"><b>!</b> Обратите внимание, что в поле поиска можно вводить возраст, место проживания / рождения информанта (в И.п. без предлога), родной язык, а также ответы (в формате rose / red / orange).
+        Так, хорошим запросом будет являться "Москва" или "rose" (соответственно для поиска информантов, родившихся / живущих в Москве или ответивших хотя бы на один вопрос "розовый"), а плохим - "в Москве" или "розовый".</p>
+    </th></tr></table>
+    </body>
+</html>

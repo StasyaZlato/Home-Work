@@ -119,6 +119,22 @@
         "colour5": "orange",
         "colour6": "red"
       }
+    },
+    {
+      "id": 8,
+      "name": "Вика",
+      "age": 13,
+      "lang": "русский",
+      "native_city": "Курск",
+      "current_city": "Курский",
+      "answers": {
+        "colour1": "red",
+        "colour2": "rose",
+        "colour3": "rose",
+        "colour4": "rose",
+        "colour5": "orange",
+        "colour6": "red"
+      }
     }
   ]
 ]

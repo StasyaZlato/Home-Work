@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Результаты поиска</title>
+</head>
+    <body>
+        <table width="100%">
+            <tr><th>
+                <a href="http://127.0.0.1:5000/" title="Нажмите сюда, если хотите перейти на страницу анкеты" style="text-decoration: none">Анкета</a>
+            </th><th>
+            <a href="http://127.0.0.1:5000/stats" title="Нажмите сюда, если хотите посмотреть статистику ответов" style="text-decoration: none">Статистика</a>
+        </th><th>
+            <a href="http://127.0.0.1:5000/json" title="Нажмите сюда, если хотите посмотреть или скачать данные исследования в формате json" style="text-decoration: none" target="_blank">JSON</a>
+        </th><th>
+            <a href="http://127.0.0.1:5000/search" title="Нажмите сюда для поиска по полученным данным" style="text-decoration: none">Поиск</a>
+        </th></tr>
+        </table>
+        <hr/>
+        <table width="100%" border="1">
+            <tr>
+                <th>id</th>
+                <th>возраст</th>
+                <th>родной язык</th>
+                <th>место рождения</th>
+                <th>место проживания</th>
+                <th>цвет1<p><img src="{{url_for('static', filename='colour1.jpg')}}" width="20" height="10"/></p></th>
+                <th>цвет2<p><img src="{{url_for('static', filename='colour2.jpg')}}" width="20" height="10"/></p></th>
+                <th>цвет3<p><img src="{{url_for('static', filename='colour3.jpg')}}" width="20" height="10"/></p></th>
+                <th>цвет4<p><img src="{{url_for('static', filename='colour4.jpg')}}" width="20" height="10"/></p></th>
+                <th>цвет5<p><img src="{{url_for('static', filename='colour5.jpg')}}" width="20" height="10"/></p></th>
+                <th>цвет6<p><img src="{{url_for('static', filename='colour6.jpg')}}" width="20" height="10"/></p></th>
+            </tr>
+            {% for i in range(t) %}
+                <tr>
+                {% for item in data[i] %}
+                    <th> {{ item }}</th>
+                {% endfor %}
+                </tr>
+            {% endfor %}
+        </table>
+    </body>
+
+</html>
