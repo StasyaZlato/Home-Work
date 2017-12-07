@@ -17,10 +17,11 @@ from bokeh.embed import components, file_html
 from bokeh.resources import CDN
 
 
-
 # Цвета
 
+
 app = Flask(__name__)
+
 
 # Главная страница с анкетой
 @app.route('/')
@@ -46,9 +47,11 @@ def index():
     return render_template('questions.html')
 
 
-@app.route('/sorry')
-def sorry():
-    return render_template('sad_smile.html')
+# ловим и убиваем на корню ошибку при "пустом вводе"
+# (если отправить форму, не заполняя)
+@app.errorhandler(400)
+def page_not_found(error):
+    return render_template('400.html'), 400
 
 
 # редирект после заполнения анкеты
@@ -150,6 +153,7 @@ def barchart_create():
         f.write(html)
     return p
 
+
 # статистика в виде столбчатых диаграмм
 @app.route('/barchart')
 def barchart():
@@ -158,7 +162,9 @@ def barchart():
     <table width="100%">
         <tr><th>
             <a href="{{ url1 }}" title="Нажмите сюда, если хотите перейти на страницу анкеты" style="text-decoration: none">Анкета</a>
-        </th><th>Статистика</th><th>JSON</th><th>Поиск</th></tr>
+        </th><th>
+            <a href="http://127.0.0.1:5000/stats" title="Нажмите сюда, если хотите посмотреть статистику ответов" style="text-decoration: none">Статистика</a>
+        </th><th>JSON</th><th>Поиск</th></tr>
     </table>
     <hr/>'''
     with open(os.path.join('.\\templates', 'bars.html'), 'r', encoding='utf-8') as f:
@@ -170,39 +176,26 @@ def barchart():
     return render_template('bars.html')
 
 
-
-
-# def barchart_create():
-#     data = [1, 2, 3]
-#     output_file(os.path.join('.\\templates', "bars.html"))
-#     colours = ['rose', 'red', 'orange']
-#     p = figure(x_range=colours, plot_height=250, title="colour1")
-#     p.vbar(x=colours, top=data, width=0.9)
-#     p.xgrid.grid_line_color = None
-#     p.y_range.start = 0
-#     return
-
-
-
 # Страница со статистикой (таблица / любое визуальное представление)
 @app.route('/stats')
 def stats():
     barchart_create()
     return render_template('stats.html')
-#
-# # Страница с json
-# @app.route('/json')
-# def json():
-#
-#     return
-#
-# # Страница с поиском по данным
+
+
+# Страница с json
+@app.route('/json')
+def json():
+
+    return
+
+# Страница с поиском по данным
 # @app.route('/search')
 # def search():
 #
 #     return
-#
-# # Страница с результатами поиска
+
+# Страница с результатами поиска
 # @app.route('/results')
 # def results():
 #
