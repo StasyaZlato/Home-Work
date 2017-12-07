@@ -4,16 +4,15 @@ import sqlite3
 import re
 import json
 import os
-import random
 
 """чтобы программа заработала, придется установить библиотеку bokeh для визуализации графиков,
 но уж больно красиво с ним выходит"""
 
 from bokeh.io import output_file
-from bokeh.layouts import gridplot
+from bokeh.layouts import gridplot, column
 from bokeh.plotting import figure
 from bokeh.models import ColumnDataSource
-from bokeh.embed import components, file_html
+from bokeh.embed import file_html
 from bokeh.resources import CDN
 
 
@@ -41,7 +40,8 @@ def index():
         gamma4 = request.args['gamma4']
         gamma5 = request.args['gamma5']
         gamma6 = request.args['gamma6']
-        c.execute('INSERT INTO answers (colour1, colour2, colour3, colour4, colour5, colour6) VALUES (?, ?, ?, ?, ?, ?)', [gamma1, gamma2, gamma3, gamma4, gamma5, gamma6])
+        c.execute('INSERT INTO answers (colour1, colour2, colour3, colour4, colour5, colour6) VALUES (?, ?, ?, ?, ?, ?)',
+                  [gamma1, gamma2, gamma3, gamma4, gamma5, gamma6])
         conn.commit()
         return redirect(url_for('thanks'))
     return render_template('questions.html')
@@ -60,9 +60,9 @@ def thanks():
     return render_template('thanks.html')
 
 
-# забираем данные из базы данных
+# забираем данные из базы данных (в виде, готовом для графика)
 def get_data():
-    conn = sqlite3.connect(os.path.join(r'D:\HSE\linguistics\KILR_and_programming\flask\project2', 'stats1.sqlite'))
+    conn = sqlite3.connect(os.path.join('.', 'stats1.sqlite'))
     c = conn.cursor()
     colours = ['colour1', 'colour2', 'colour3', 'colour4', 'colour5', 'colour6']
     data = {}
@@ -70,12 +70,47 @@ def get_data():
         c.execute('SELECT ' + colour + ' FROM answers')
         mass = c.fetchall()
         mass1 = [mass[i][0] for i in range(len(mass))]
-        count_col = {}
-        count_col['rose'] = mass1.count('rose')
-        count_col['orange'] = mass1.count('orange')
-        count_col['red'] = mass1.count('red')
+        count_col = {'rose': mass1.count('rose'), 'orange': mass1.count('orange'), 'red': mass1.count('red')}
+        # count_col['rose'] = mass1.count('rose')
+        # count_col['orange'] = mass1.count('orange')
+        # count_col['red'] = mass1.count('red')
         data[colour] = count_col
     return data
+
+
+# Собираем все данные и впихиваем (невпихуемое) в json
+# а если посмотреть исходный код страницы, так там так красиво, так красиво! Даже с отступами:)
+@app.route('/json')
+def data_json():
+    conn = sqlite3.connect(os.path.join(r'D:\HSE\linguistics\KILR_and_programming\flask\project2', 'stats1.sqlite'))
+    c = conn.cursor()
+    c.execute('SELECT * FROM users INNER JOIN answers ON users.id_user = answers.id_user ORDER BY id_user')
+    answers = c.fetchall()
+    answers1 = []
+    data_simple = []
+    for i in answers:
+        dic = {'id': i[0],
+               'name': i[1],
+               'age': i[2],
+               'lang': i[3],
+               'native_city': i[4],
+               'current_city': i[5],
+               'answers': {'colour1': i[7],
+                            'colour2': i[8],
+                            'colour3': i[9],
+                            'colour4': i[10],
+                            'colour5': i[11],
+                            'colour6': i[12]}}
+        answers1.append(dic)
+    c.execute('SELECT * FROM colours_quest')
+    pics = c.fetchall()
+    dic = {pics[i][1]: pics[i][2] for i in range(len(pics))}
+    data_simple.append(dic)
+    data_simple.append(answers1)
+    data_json = json.dumps(data_simple, indent=2, ensure_ascii=False, separators=(',', ': '))
+    with open(os.path.join('.\\templates', 'infa.json'), 'w', encoding='utf-8') as f:
+        f.write(data_json)
+    return render_template('infa.json')
 
 
 # Собственно построение диаграммок
@@ -101,7 +136,7 @@ def barchart_create():
 
     p1 = figure(x_range=colours, y_range=(0, max(data1) + 1), plot_height=250, title="Colour1",
                 toolbar_location=None, tools="")
-    p1.vbar(x='colours', top='data1', width=0.9, color='color', legend="colours", source=source1)
+    p1.vbar(x='colours', top='data1', width=0.4, color='color', legend="colours", source=source1)
     p1.xgrid.grid_line_color = None
     p1.y_range.start = 0
     p1.legend.orientation = "horizontal"
@@ -109,7 +144,7 @@ def barchart_create():
 
     p2 = figure(x_range=colours, y_range=(0, max(data2) + 1), plot_height=250, title="Colour2",
                 toolbar_location=None, tools="")
-    p2.vbar(x='colours', top='data2', width=0.9, color='color', legend="colours", source=source2)
+    p2.vbar(x='colours', top='data2', width=0.4, color='color', legend="colours", source=source2)
     p2.xgrid.grid_line_color = None
     p2.y_range.start = 0
     p2.legend.orientation = "horizontal"
@@ -117,7 +152,7 @@ def barchart_create():
 
     p3 = figure(x_range=colours, y_range=(0, max(data3) + 1), plot_height=250, title="Colour3",
                 toolbar_location=None, tools="")
-    p3.vbar(x='colours', top='data3', width=0.9, color='color', legend="colours", source=source3)
+    p3.vbar(x='colours', top='data3', width=0.4, color='color', legend="colours", source=source3)
     p3.xgrid.grid_line_color = None
     p3.y_range.start = 0
     p3.legend.orientation = "horizontal"
@@ -125,7 +160,7 @@ def barchart_create():
 
     p4 = figure(x_range=colours, y_range=(0, max(data4) + 1), plot_height=250, title="Colour4",
                 toolbar_location=None, tools="")
-    p4.vbar(x='colours', top='data4', width=0.9, color='color', legend="colours", source=source4)
+    p4.vbar(x='colours', top='data4', width=0.4, color='color', legend="colours", source=source4)
     p4.xgrid.grid_line_color = None
     p4.y_range.start = 0
     p4.legend.orientation = "horizontal"
@@ -133,7 +168,7 @@ def barchart_create():
 
     p5 = figure(x_range=colours, y_range=(0, max(data5) + 1), plot_height=250, title="Colour5",
                 toolbar_location=None, tools="")
-    p5.vbar(x='colours', top='data5', width=0.9, color='color', legend="colours", source=source5)
+    p5.vbar(x='colours', top='data5', width=0.4, color='color', legend="colours", source=source5)
     p5.xgrid.grid_line_color = None
     p5.y_range.start = 0
     p5.legend.orientation = "horizontal"
@@ -141,13 +176,14 @@ def barchart_create():
 
     p6 = figure(x_range=colours, y_range=(0, max(data6) + 1), plot_height=250, title="Colour6",
                 toolbar_location=None, tools="")
-    p6.vbar(x='colours', top='data6', width=0.9, color='color', legend="colours", source=source6)
+    p6.vbar(x='colours', top='data6', width=0.4, color='color', legend="colours", source=source6)
     p6.xgrid.grid_line_color = None
     p6.y_range.start = 0
     p6.legend.orientation = "horizontal"
     p6.legend.location = "top_center"
 
-    p = gridplot([[p1, p2], [p3, p4], [p5, p6]])
+    # p = gridplot([[p1, p2], [p3, p4], [p5, p6]], sizing_mode='scale_width')
+    p = column(p1, p2, p3, p4, p5, p6, sizing_mode='scale_width')
     html = file_html(p, CDN, "Столбчатая диаграмма")
     with open(os.path.join('.\\templates', 'bars.html'), 'w', encoding='utf-8') as f:
         f.write(html)
@@ -169,8 +205,8 @@ def barchart():
     <hr/>'''
     with open(os.path.join('.\\templates', 'bars.html'), 'r', encoding='utf-8') as f:
         bars_html = f.read()
-    if re.search(temp, bars_html) == None:
-        bars_html = bars_html.replace('<body>',temp)
+    if re.search(temp, bars_html) is None:
+        bars_html = bars_html.replace('<body>', temp)
     with open(os.path.join('.\\templates', 'bars.html'), 'w', encoding='utf-8') as k:
         k.write(bars_html)
     return render_template('bars.html')
@@ -182,12 +218,6 @@ def stats():
     barchart_create()
     return render_template('stats.html')
 
-
-# Страница с json
-@app.route('/json')
-def json():
-
-    return
 
 # Страница с поиском по данным
 # @app.route('/search')
@@ -204,4 +234,3 @@ def json():
 
 if __name__ == '__main__':
     app.run(debug=True)
-

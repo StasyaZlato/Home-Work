@@ -7,8 +7,12 @@
     <body bgcolor="#FFF5EE">
         <table width="100%">
             <tr><th>
-                <a href="{{ url1 }}" title="Нажмите сюда, если хотите перейти на страницу анкеты" style="text-decoration: none">Анкета</a>
-            </th><th>Статистика</th><th>JSON</th><th>Поиск</th></tr>
+                <a href="http://127.0.0.1:5000/" title="Нажмите сюда, если хотите перейти на страницу анкеты" style="text-decoration: none">Анкета</a>
+            </th><th>
+            <a href="http://127.0.0.1:5000/stats" title="Нажмите сюда, если хотите посмотреть статистику ответов" style="text-decoration: none">Статистика</a>
+        </th><th>
+            <a href="http://127.0.0.1:5000/json" title="Нажмите сюда, если хотите посмотреть или скачать данные исследования в формате json" style="text-decoration: none" target="_blank">JSON</a>
+        </th><th>Поиск</th></tr>
         </table>
         <hr/>
         <img src="{{url_for('static', filename='img5.jpg')}}" width="100%" />
@@ -24,17 +28,17 @@
             <hr/>
             Пожалуйста, для каждой картинки выберите подходящий вариант.
             <table>
-                <tr><th><img src="{{url_for('static', filename='img1.jpg')}}"/></th>
+                <tr><th><img src="{{url_for('static', filename='colour1.jpg')}}"/></th>
                     <th align="left"><label> <input name="gamma1" type="radio" value="red"> Красный</label><br><label> <input name="gamma1" type="radio" value="rose"> Розовый</label><br><label> <input name="gamma1" type="radio" value="orange"> Оранжевый</label><br></th></tr>
-                <tr><th><img src="{{url_for('static', filename='img3.jpg')}}"/></th>
+                <tr><th><img src="{{url_for('static', filename='colour2.jpg')}}"/></th>
                     <th align="left"><label> <input name="gamma2" type="radio" value="red"> Красный</label><br><label> <input name="gamma2" type="radio" value="rose"> Розовый</label><br><label> <input name="gamma2" type="radio" value="orange"> Оранжевый</label><br></th></tr>
-                <tr><th><img src="{{url_for('static', filename='img4.jpg')}}"/></th>
+                <tr><th><img src="{{url_for('static', filename='colour3.jpg')}}"/></th>
                     <th align="left"><label> <input name="gamma3" type="radio" value="red"> Красный</label><br><label> <input name="gamma3" type="radio" value="rose"> Розовый</label><br><label> <input name="gamma3" type="radio" value="orange"> Оранжевый</label><br></th></tr>
-                <tr><th><img src="{{url_for('static', filename='img6.jpg')}}"/></th>
+                <tr><th><img src="{{url_for('static', filename='colour4.jpg')}}"/></th>
                     <th align="left"><label> <input name="gamma4" type="radio" value="red"> Красный</label><br><label> <input name="gamma4" type="radio" value="rose"> Розовый</label><br><label> <input name="gamma4" type="radio" value="orange"> Оранжевый</label><br></th></tr>
-                <tr><th><img src="{{url_for('static', filename='img7.jpg')}}"/></th>
+                <tr><th><img src="{{url_for('static', filename='colour5.jpg')}}"/></th>
                     <th align="left"><label> <input name="gamma5" type="radio" value="red"> Красный</label><br><label> <input name="gamma5" type="radio" value="rose"> Розовый</label><br><label> <input name="gamma5" type="radio" value="orange"> Оранжевый</label><br></th></tr>
-<tr>            <th><img src="{{url_for('static', filename='img8.jpg')}}"/></th>
+                <tr><th><img src="{{url_for('static', filename='colour6.jpg')}}"/></th>
                     <th align="left"><label> <input name="gamma6" type="radio" value="red"> Красный</label><br><label> <input name="gamma6" type="radio" value="rose"> Розовый</label><br><label> <input name="gamma6" type="radio" value="orange"> Оранжевый</label><br></th></tr>
             </table>
             <input type="submit" value="Отправить">

@@ -1,0 +1,124 @@
+[
+  {
+    "Цвет1": "colour1.jpg",
+    "Цвет2": "colour2.jpg",
+    "Цвет3": "colour3.jpg",
+    "Цвет4": "colour4.jpg",
+    "Цвет5": "colour5.jpg",
+    "Цвет6": "colour6.jpg"
+  },
+  [
+    {
+      "id": 1,
+      "name": "Nessy",
+      "age": 18,
+      "lang": "русский",
+      "native_city": "Курск",
+      "current_city": "Москва",
+      "answers": {
+        "colour1": "rose",
+        "colour2": "red",
+        "colour3": "orange",
+        "colour4": "rose",
+        "colour5": "red",
+        "colour6": "rose"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Ana",
+      "age": 18,
+      "lang": "русский",
+      "native_city": "Москва",
+      "current_city": "Москва",
+      "answers": {
+        "colour1": "rose",
+        "colour2": "orange",
+        "colour3": "red",
+        "colour4": "rose",
+        "colour5": "rose",
+        "colour6": "red"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Ника",
+      "age": 12,
+      "lang": "русский",
+      "native_city": "Курск",
+      "current_city": "Йошкар-Ола",
+      "answers": {
+        "colour1": "orange",
+        "colour2": "red",
+        "colour3": "orange",
+        "colour4": "rose",
+        "colour5": "red",
+        "colour6": "rose"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Mary",
+      "age": 12,
+      "lang": "русский",
+      "native_city": "Улан-Удэ",
+      "current_city": "Москва",
+      "answers": {
+        "colour1": "red",
+        "colour2": "orange",
+        "colour3": "rose",
+        "colour4": "rose",
+        "colour5": "rose",
+        "colour6": "red"
+      }
+    },
+    {
+      "id": 5,
+      "name": "катя",
+      "age": 25,
+      "lang": "Русский",
+      "native_city": "Питер",
+      "current_city": "Питер",
+      "answers": {
+        "colour1": "orange",
+        "colour2": "orange",
+        "colour3": "rose",
+        "colour4": "rose",
+        "colour5": "red",
+        "colour6": "red"
+      }
+    },
+    {
+      "id": 6,
+      "name": "Лиса",
+      "age": 30,
+      "lang": "русский",
+      "native_city": "Тверская область",
+      "current_city": "село Микряково респ. Марий-Эл",
+      "answers": {
+        "colour1": "orange",
+        "colour2": "rose",
+        "colour3": "red",
+        "colour4": "rose",
+        "colour5": "red",
+        "colour6": "red"
+      }
+    },
+    {
+      "id": 7,
+      "name": "Мира",
+      "age": 5,
+      "lang": "русский",
+      "native_city": "Молдовия",
+      "current_city": "Москва",
+      "answers": {
+        "colour1": "orange",
+        "colour2": "red",
+        "colour3": "rose",
+        "colour4": "rose",
+        "colour5": "orange",
+        "colour6": "red"
+      }
+    }
+  ]
+]
