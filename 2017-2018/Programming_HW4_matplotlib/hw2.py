@@ -95,7 +95,6 @@ def plot_all():
     # plt.scatter(x, y, c='orange')
     plt.bar(x3, y3)
     plt.title('Диаграмма для букв', color = 'black', family = 'fantasy', fontsize = 'small')
-
               
     plt.show()
 
@@ -195,7 +194,7 @@ def main(page_url):
     # plot_bar(find_parts_of_speech(), 'Диаграмма для частей речи')
     # plot_bar_and_graph(count_let())
     # plot_bar_and_graph(find_parts_of_speech(), 'Диаграмма и график для частей речи (мосты!)')
-    plot_all()
+    plot_all() # все эти штуки на одном листе - правда, надписи друг на друга наезжают из-за масштаба:((
 
 
 url = 'http://wiki.dothraki.org/Vocabulary'
