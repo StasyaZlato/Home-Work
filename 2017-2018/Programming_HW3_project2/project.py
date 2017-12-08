@@ -202,7 +202,7 @@ def stats():
     temp = '''<body>
     <table width="100%">
         <tr><th>
-            <a href="{{ url1 }}" title="Нажмите сюда, если хотите перейти на страницу анкеты" style="text-decoration: none">Анкета</a>
+            <a href="http://127.0.0.1:5000" title="Нажмите сюда, если хотите перейти на страницу анкеты" style="text-decoration: none">Анкета</a>
         </th><th>
             <a href="http://127.0.0.1:5000/stats" title="Нажмите сюда, если хотите посмотреть статистику ответов" style="text-decoration: none">Статистика</a>
         </th><th>
