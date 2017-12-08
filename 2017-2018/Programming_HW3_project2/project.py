@@ -6,7 +6,7 @@ import json
 import os
 
 """чтобы программа заработала, придется установить библиотеку bokeh для визуализации графиков,
-но уж больно красиво с ним выходит"""
+но уж больно красиво с ним выходит:))"""
 
 from bokeh.io import output_file
 from bokeh.layouts import gridplot, column
@@ -16,7 +16,7 @@ from bokeh.embed import file_html
 from bokeh.resources import CDN
 
 
-# Цвета
+# Исследование на семантику цветов - красная гамма
 
 
 app = Flask(__name__)
@@ -78,6 +78,7 @@ def get_data():
     return data
 
 
+# забираем из бд сведенную таблицу с пользователями и их ответами; записываем в файл json
 def get_data_json():
     conn = sqlite3.connect(os.path.join('.', 'stats1.sqlite'))
     c = conn.cursor()
@@ -110,7 +111,7 @@ def get_data_json():
     return
 
 
-# Собираем все данные и впихиваем (#невпихуемое#) в json
+# Собираем все данные и впихиваем (#невпихуемое#) в json (на самом деле, отображаем готовый json на сайте)
 # а если посмотреть исходный код страницы, так там так красиво, так красиво! Даже с отступами:)
 @app.route('/json')
 def data_json():
@@ -118,7 +119,7 @@ def data_json():
     return render_template('infa.json')
 
 
-# Собственно построение диаграммок
+# Собственно построение диаграммок (мур)
 def barchart_create():
     output_file(os.path.join('.\\templates', 'bars.html'))
     colours = ['rose', 'red', 'orange']
@@ -186,8 +187,8 @@ def barchart_create():
     p6.y_range.start = 0
     p6.legend.orientation = "horizontal"
     p6.legend.location = "top_center"
-
-    # p = gridplot([[p1, p2], [p3, p4], [p5, p6]], sizing_mode='scale_width')
+    # запиливаем графики в форму колонки, задаем изменение размера графика 
+    # в зависимости от размера окна и забираем готовый html
     p = column(p1, p2, p3, p4, p5, p6, sizing_mode='scale_width')
     html = file_html(p, CDN, "Столбчатая диаграмма")
     with open(os.path.join('.\\templates', 'bars.html'), 'w', encoding='utf-8') as f:
@@ -220,13 +221,6 @@ def stats():
     return render_template('bars.html')
 
 
-# # Страница со статистикой (таблица / любое визуальное представление)
-# @app.route('/stats')
-# def stats():
-#     barchart_create()
-#     return render_template('stats.html')
-
-
 # Страница с поиском по данным
 @app.route('/search')
 def search():
@@ -235,6 +229,7 @@ def search():
         question = request.args['search']
         return redirect('results')
     return render_template('search.html')
+
 
 # Страница с результатами поиска
 @app.route('/results')
