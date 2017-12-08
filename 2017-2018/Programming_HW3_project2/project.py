@@ -71,9 +71,6 @@ def get_data():
         mass = c.fetchall()
         mass1 = [mass[i][0] for i in range(len(mass))]
         count_col = {'rose': mass1.count('rose'), 'orange': mass1.count('orange'), 'red': mass1.count('red')}
-        # count_col['rose'] = mass1.count('rose')
-        # count_col['orange'] = mass1.count('orange')
-        # count_col['red'] = mass1.count('red')
         data[colour] = count_col
     return data
 
