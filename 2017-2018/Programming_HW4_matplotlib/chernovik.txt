@@ -1,0 +1,4974 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<body class="mediawiki ltr ns-0 ns-subject page-Vocabulary skin-monobook">
+
+
+
+
+<table id="toc" class="toc"><tr><td>
+<ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</ul>
+</li>
+
+
+</ul>
+</td></tr></table>
+<h2> <span class="mw-headline" id="Vocabulary_List"> Vocabulary List </span></h2>
+<p><i>A note about the IPA pronunciation guides here. The letters <b>/t/, /d/, /l/</b> and<b> /n/</b> are dental consonants which means that they are pronounced with the tongue touching the teeth which is different from how they are pronounced in English.</i>
+</p><p><br />
+</p>
+<h3> <span class="mw-headline" id="A"> A </span></h3>
+<ul></ul>
+<dl><dd><i>vtr.</i> to silence
+</dd><dd><span style="color:gray"><small>past SG: <b>acchak</b></small></span>
+</dd><dd><span style="color:gray"><small><b>Me vastoe hatif anni; ahhazaan yer nemo vacchaki.</b> &#8212; She will speak before me; until then you will keep yourself quiet.</small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vtr.</i> to roll
+</dd><dd><span style="color:gray"><small><b>Che hash me vacchorka mae ki janeti majin me anokitta mae ki hrazefi.</b> &#8212; Or roll them in a rug and trample them with a horse.</small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> smelly
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> smell
+</dd><dd><i>ni.</i> stink
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to be smelly, to give off a smell
+</dd><dd><span style="color:gray"><small>past SG: <b>achra</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to eat
+</dd><dd><span style="color:gray"><small>past SG: <b>adakh</b></small></span>
+</dd><dd><span style="color:gray"><small><b>Khaleesi zala meme adakha esinakh ajjalan.</b> &#8212; The khaleesi wants to eat something different tonight.</small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to feed (specifically to feed on, or to feast on)
+</dd><dd><span style="color:gray"><small>past SG: <b>adakhi</b></small></span>
+</dd><dd><span style="color:gray"><small><b>Inte vadakhie tihoa.</b> &#8212; The beetles will feed on your eyes.</small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vtr.</i> to feed
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vtr.</i> to moisten
+</dd><dd><span style="color:gray"><small><b>Shafka laz addiwee khirrof anni</b> &#8212; You can suck my dick.</small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>np.</i> midnight
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vtr.</i> to convey, to transport someone
+</dd><dd><span style="color:gray"><small>past SG: <b>addothra</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vtr.</i> to cause to spill, to spill
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vtr.</i> to kill (chiefly when done intentionally by a person)
+</dd><dd><span style="color:gray"><small>past SG: <b>addriv</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> chair
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> turtle
+</dd></dl>
+<ul></ul>
+<dl><dd><i>n.</i> morning
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> hot
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> warm
+</dd></dl>
+<ul></ul>
+<dl><dd><i>intj.</i> whoa! (horse command)
+</dd><dd><i>intj.</i> "shh", sound used to calm a horse or a child
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vtr.</i> to warm, to give warmth to, to make hot
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vtr.</i> to replace
+</dd><dd><span style="color:gray"><small>past SG: <b>affazo</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vtr.</i> to make someone itch
+</dd><dd><span style="color:gray"><small>past SG: <b>affes</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adv.</i> when
+</dd><dd><span style="color:gray"><small><b>Anha vazhak maan firikhnharen hoshora ma mahrazhi aqovi affin mori atihi mae.</b> &#8212; I will give to him a golden crown and men will tremble when they will see it.</small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vtr.</i> to clean, to wash
+</dd><dd><span style="color:gray"><small>past SG: <b>affis</b></small></span>
+</dd><dd><span style="color:gray"><small><b>Azhas maan affisat zis yeri, shekh ma shieraki anni.</b> &#8212; Let her clean your wound my sun and stars.</small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>n.</i> fly
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vtr.</i> to rip something, to tear something
+</dd><dd><span style="color:gray"><small>past SG: <b>aggend</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i> ni.</i> snow
+</dd></dl>
+<ul></ul>
+<dl><dd><i> ni.</i> winter
+</dd><dd><span style="color:gray"><small>accusative: <b>aheshk</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vtr.</i> to frustrate
+</dd><dd><span style="color:gray"><small>past SG: <b>ahhaqe</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vtr.</i> to sharpen
+</dd><dd><span style="color:gray"><small>past SG: <b>ahhas</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adv.</i> then (of close or immediate future, compare to <b><a href="/Vocabulary#arrek" title="Vocabulary">arrek</a></b>)
+</dd><dd><span style="color:gray"><small><b>Me vastoe hatif anni; ahhazaan yer nemo vacchaki.</b> &#8212; She will speak before me; until then you will keep yourself quiet.</small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>intj.</i> yes, obedient response
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adv.</i> tonight
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adv.</i> now
+</dd><dd><span style="color:gray"><small><b>Jin chiorisi zafra ajjin, majin kisha ataki morea ven me vallayafa kisha.</b> &#8212; These women are slaves now to do with as we please.</small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>num.</i> two
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> second
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adv.</i> also, too, as well, even, even so, re-
+</dd><dd><span style="color:gray"><small><b>Rizhaan anni, vezh fin asaja rhaesheseres, maan anha valloshak azh akka.</b> &#8212; To my son, the stallion who will mount the world, I will also pledge a gift.</small></span>
+</dd><dd><span style="color:gray"><small><b>Anha soqe akka jin sacchey essheyi.</b> &#8212; I rewove this part of the top.</small></span>
+</dd><dd><span style="color:gray"><small><b>Kash athezar kishi vos akka.</b> &#8212; Not even when we leave.</small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adv.</i> both, alike, the same way
+</dd><dd><span style="color:gray"><small><b>Zhavvorsa vadakhera ma hrazef ma vaf akkate.</b> &#8212; The dragon feeds on horse and lamb alike.</small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> leader
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to decide, to judge
+</dd></dl>
+<ul></ul>
+<dl><dd><i>intj.</i> Stand up! (shortening of <b><a href="/Vocabulary#akkovarat" title="Vocabulary">akkovaras</a></b>; used to command animals)
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vtr.</i> to heal
+</dd><dd><span style="color:gray"><small>past SG: <b>akkoal</b></small></span>
+</dd><dd><span style="color:gray"><small><b>Me akkoal hrazef k’athadavranazi ei mahrazhoa khalasari anni.</b> &#8212; He was better at healing horses than any man in my khalasar.</small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to stand (something) up
+</dd><dd><span style="color:gray"><small>past SG: <b>akkovar</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> more
+</dd><dd><span style="color:gray"><small><b>Dalen rhaggat eveth ma ale vekhi she Vaes Seris.</b> &#8212; There are a thousand ships and more in the free cities.</small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> duck
+</dd><dd><span style="color:gray"><small>accusative: <b>alegre</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> more
+</dd><dd><span style="color:gray"><small><b>Kisha vastoki vos alikh hrazefi ido m'adori shiqethi.</b> &#8212; Let's speak no more about wooden horses or iron chairs.</small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vtr.</i> to please
+</dd><dd><span style="color:gray"><small>past SG: <b>allayaf</b></small></span>
+</dd><dd><span style="color:gray"><small><b>Mori allayafi mae, jin alegra.</b> &#8212; She likes ducks.</small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adv.</i> farther, further
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vtr.</i> to pledge
+</dd><dd><span style="color:gray"><small>past SG: <b>allosh</b></small></span>
+</dd><dd><span style="color:gray"><small><b>Ma rizhaan anni, vezh fin asaja rhaesheseres, maan anha valloshak azh akka.</b> &#8212; And to my son, the stallion who will mount the world, I will also pledge a gift.</small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to decorate
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to hobble a person
+</dd><dd><span style="color:gray"><small>past SG: <b>ammatte</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to play a musical instrument
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vtr.</i> to empty something
+</dd><dd><span style="color:gray"><small>past SG: <b>ammen</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vtr.</i> to rest
+</dd><dd><span style="color:gray"><small>past SG: <b>ammithre</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to jog
+</dd><dd><i>vtr.&#8594;gen.</i> to jog beside
+</dd><dd><span style="color:gray"><small>past SG: <b>an</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>pn.</i> I
+</dd></dl>
+<ul></ul>
+<dl><dd><i>pn.</i> me
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vtr.</i> to stop someone or something
+</dd><dd><span style="color:gray"><small>past SG: <b>annakh</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vtr.</i> to put an end to, to finish
+</dd><dd><span style="color:gray"><small>past SG: <b>annakho</b></small></span>
+</dd><dd><span style="color:gray"><small><b>Me asta meme azirissee khalakkaes khaleesisoon ma vannevae mae shafkea.</b> &#8212; He says that he will cut the prince out of the khaleesi and leave him for you.</small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> announcement
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vtr.</i> to sit something, to leave something alone
+</dd><dd><span style="color:gray"><small>past SG: <b>anneva</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>pn.</i> of mine
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vtr.</i> to cause pain, to hurt
+</dd><dd><span style="color:gray"><small>past SG: <b>annith</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to encourage, to invigorate, to entice
+</dd><dd><span style="color:gray"><small>past SG: <b>annithi</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> deep
+</dd><dd><i>adv.</i> dark (of color)
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vtr.</i> to keep near
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> curved sword
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vtr.</i> to drop (something)
+</dd><dd><i>vtr.</i> to lose (something)
+</dd><dd><span style="color:gray"><small><b>Anha aran m’akat lamees ma vezhes.</b> &#8212; I lost two mares and a stallion.</small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> subject, topic, theme
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to be neglected
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adv.</i> carelessly
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> coward
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vin.</i> to hide
+</dd><dd><span style="color:gray"><small>past SG: <b>ares</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to choke (someone)
+</dd><dd><span style="color:gray"><small>past SG: <b>arragge</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vtr.</i> to shame, to cause to be merciful
+</dd></dl>
+<ul></ul>
+<dl><dd><i>n.</i> shaming, a public dressing down
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adv.</i> then (of event not in the immediate future, compare to <b><a href="/Vocabulary#ahhaz" title="Vocabulary">ahhaz</a></b>)
+</dd><dd><i>conj.</i> when
+</dd><dd><span style="color:gray"><small><b>Affin shekh yola she jimma ma drivoe she titha...Arrek yer ajadi save, shekh ma shieraki anni.</b> &#8212; When the star rises in the west and sets in the east...Then you will come back to me, my sun and stars.</small></span>
+</dd><dd><b>arrekaan</b> <i>conj.</i> until
+</dd><dd><span style="color:gray"><small><b>Eyel varthasoe she ilekaan rikhoya arrekaan vekha vosi yeroon vosma tolorro!</b> &#8212; The rain will fall on your rotting skin until nothing is left of you but bones.</small></span>
+</dd><dd><b>arrekoon</b> <i>conj.</i> from since
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to fix
+</dd><dd><span style="color:gray"><small>past SG: <b>arrisse</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vtr.</i> to frighten
+</dd><dd><span style="color:gray"><small>past SG: <b>arrokh</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to fall
+</dd><dd><span style="color:gray"><small>past SG: <b>arthas</b></small></span>
+</dd><dd><span style="color:gray"><small><b>Me arthas hrazefoon mae.</b> &#8212; He fell from his horse.</small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to fall
+</dd><dd><span style="color:gray"><small>past SG: <b>arthaso</b></small></span>
+</dd><dd><span style="color:gray"><small><b>Eyel varthasoe she ilekaan rikhoya.</b> &#8212; The rain will fall on your rotting skin.</small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> sky
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> word
+</dd><dd><i>ni.</i> command
+</dd><dd><span style="color:gray"><small>accusative: <b>as</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> cranberry
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> river
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> oath, vow
+</dd><dd><span style="color:gray"><small>accusative: <b>asqoy</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vtr.</i> to break (something)
+</dd><dd><span style="color:gray"><small>past SG: <b>assamve</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adv.</i> today
+</dd><dd><i>ni.</i> today
+</dd><dd><i>na.</i> day
+</dd><dd><span style="color:gray"><small><b>Sen asshekhi tithaan, qisi havazzhifi.</b> &#8212; Three days to the east, on the sea.</small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> birthday
+</dd><dd><span style="color:gray"><small>accusative: <b>assekhqoy</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>n.</i> introduction
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to introduce, to present
+</dd><dd><span style="color:gray"><small>past SG: <b>asshil</b></small></span>
+</dd><dd><span style="color:gray"><small><b>Anha asshilak jin azh shafkea haji rekoon et shafka.</b> &#8212; I make this gift to you for what you did.</small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> sign, omen
+</dd><dd><span style="color:gray"><small>accusative: <b>assikhqoy</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> prophecy
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to signal
+</dd><dd><i>vtr.&#8594;all.</i> to signal to
+</dd><dd><span style="color:gray"><small>past SG: <b>assi</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vtr.</i> to defeat
+</dd><dd><span style="color:gray"><small>past SG: <b>assil</b></small></span>
+</dd><dd><span style="color:gray"><small><b>Me ezzo anhaan m'athdikar assila athzhokwazar.</b> &#8212; He taught me that speed defeats size.</small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> message, instructions
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> law
+</dd><dd><span style="color:gray"><small><b>Me nem nesa k'assokhosori me–</b> &#8212; The law states that–</small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to command
+</dd><dd><span style="color:gray"><small>past SG: <b>asso</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to say
+</dd><dd><span style="color:gray"><small>past SG: <b>ast</b></small></span>
+</dd><dd><span style="color:gray"><small><b>Ki jini anha astak asqoy, anha, Drogo ki Bharbosi.</b> &#8212; This vow I, Drogo son of Bharbo.</small></span>
+</dd><dd><span style="color:gray"><small><b>Ifak asta meme zala firikhnharen.</b> &#8212; The foreigner says that he wants a crown.</small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to joke
+</dd><dd><i>vtr.&#8594;gen.</i> to joke about
+</dd><dd><span style="color:gray"><small>past SG: <b>asti</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>n.</i> saying, prayer
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to speak
+</dd><dd><i>vtr.&#8594;gen.</i> to speak of
+</dd><dd><span style="color:gray"><small>past SG: <b>asto</b></small></span>
+</dd><dd><span style="color:gray"><small><b>Kisha vastoki vos alikh hrazefi ido m'adori shiqethi.</b> &#8212; Let's speak no more about wooden horses or iron chairs.</small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> story
+</dd><dd><span style="color:gray"><small><b>Hash yer ray char astosoris mae?</b> &#8212; Have you heard the stories about him?</small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>num.</i> one
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> first
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adv.</i> first
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> dry
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> fatality
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> frustration
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> depths, deep
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> spilling of blood
+</dd><dd><span style="color:gray"><small><b>Me izvena, jin athaqqiyazar she vaesof.</b> &#8212; It is forbidden to spill blood in the sacred city.</small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> wasteland
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> nonsense
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> waiting
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> limit, lay, expanse
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> lying (with women)
+</dd><dd><span style="color:gray"><small><b>Me izvena, jin athchilozar ma khaleenisoon.</b> &#8212; It is forbidden to lie with a Khal's widow.</small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> respect, reverence
+</dd></dl>
+<ul></ul>
+<dl><dd><i>phrase</i> "respect to those that are respectful" A greeting. (Said to a group of people.)
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> lameness
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> usefulness (also means <i>good</i> or <i>excellent</i> when used as an exclamation)
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> speed
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> comfort, simplicity
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> death
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> nightmare
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> sunset
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> return
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> departure
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> dancing
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> love (between siblings or friends)
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> certainty
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> strength
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> sex
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> woman-on-top sex
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> pride, prowess
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> discussion
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> correctness, rightness
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> marriage
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> running
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> wailing
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> loudness
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> happiness
+</dd><dd><span style="color:gray"><small><b>Kifinosi me qach athlayafar mae?</b> &#8212; How did he show his happiness?</small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> sharing
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> anxiousness
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> ache, soreness
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> rest
+</dd></dl>
+<ul></ul>
+<dl><dd><i> ni.</i> magic
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> urination
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> rigidity
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> pain
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> painlessness
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> collapse, defeat
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to dry
+</dd><dd><span style="color:gray"><small>past SG: <b>atho</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> fury
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> carrying
+</dd><dd><span style="color:gray"><small><b>Me izvena, jin athkessezar az she vaesof.</b> &#8212; It is forbidden to carry weapons in the sacred city.</small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> fear
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> vision, look
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> spirit
+</dd><dd><span style="color:gray"><small><b>Athvadar mra qora.</b> &#8212; She has spirit.</small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> greatness, excellent (when used as an exclamation)
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> war
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> wisdom (that is gained from experience or learned)
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> choice
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> taste, flavor
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> birth
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> hope
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> sickness
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> love (used of romantic or sexual love; a private word)
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> size
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> danger
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> remainder
+</dd><dd><span style="color:gray"><small><b>Majin hash zhille athzinari yeri vekha, hash kisha vazhaki ekh hrazefaan kishi.</b> &#8212; And if there's anything left of you, we'll give our horses a turn.</small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> one
+</dd><dd><span style="color:gray"><small>accusative: <b>ate</b></small></span>
+</dd><dd><i>pn.</i> something, someone
+</dd><dd><span style="color:gray"><small><b>Ato kaffe nharees moon ki negwini–</b> &#8212; Someone crushed his head with a rock–</small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adv.</i> first, firstly
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> duty
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to make someone/something fall, to defeat, to destroy (insulting)
+</dd><dd><span style="color:gray"><small>past SG: <b>atthas</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>num.</i> eleven
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> life
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> dream
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vtr.</i> to show
+</dd><dd><span style="color:gray"><small>past SG: <b>attih</b></small></span>
+</dd><dd><span style="color:gray"><small><b>Hash yer laz chari anna; hash yer ray vos o, attihas anna.</b> &#8212; If you are still in there, if you haven't gone away, show me.</small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> father
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to kneel (something)
+</dd><dd><span style="color:gray"><small>past SG: <b>avvemo</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vtr.</i> to burn something
+</dd><dd><span style="color:gray"><small>past SG: <b>avvirsa</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vtr.</i> to grow something
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adv.</i> never
+</dd><dd><span style="color:gray"><small><b>Anha adothrak hrazef ido yomme Havazzhifi Kazga ven et vo khal avvos.</b> &#8212; I will ride wooden horses across the black salt sea as no khal has done before.</small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> screamer
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to scream
+</dd><dd><span style="color:gray"><small>past SG: <b>awaz</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> bell
+</dd><dd><span style="color:gray"><small>accusative: <b>ayene</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vin.</i> to wait
+</dd><dd><span style="color:gray"><small>past SG: <b>ayol</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vtr.</i> to lift
+</dd><dd><span style="color:gray"><small>past SG: <b>ayyath</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adv.</i> always
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vin.</i> to bear (a child)
+</dd><dd><span style="color:gray"><small>past SG: <b>ayyo</b></small></span>
+</dd><dd><span style="color:gray"><small><b>Irge firesofi, me ayyo khalaan mae ohar</b> &#8212; A year later, she bore her Khal a daughter.</small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vtr.</i> to dilute
+</dd><dd><span style="color:gray"><small><b>Mori vo tihoo mekisha ray ayyoz qoy kishoon ayyeyoon.</b> &#8212; They don't realize that we have always diluted our blood.</small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> blade
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> blessing
+</dd><dd><span style="color:gray"><small>accusative: <b>azhasavve</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vtr.</i> to give (something to someone; recipient is in allative)
+</dd><dd><i>vtr.&#8594;abl.</i> to let (someone do something)
+</dd><dd><span style="color:gray"><small>past SG: <b>azh</b></small></span>
+</dd><dd><span style="color:gray"><small><b>Anha vazhak maan Rhaeshis Andahli.</b> &#8212; I will give The Lands of the Andals.</small></span>
+</dd><dd><span style="color:gray"><small><b>Majin kisha vazhaki dothrakhqoyoon kishi hilelat yera.</b> &#8212; And then we’ll let our bloodriders fuck you.</small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to bet
+</dd><dd><span style="color:gray"><small><b>Anha azhik memé vafazhoe rivaan kash me nem athacha.</b> &#8212; I bet she gets nice and pink when you pinch her.</small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> gift
+</dd><dd><span style="color:gray"><small>accusative: <b>azh</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> slaver
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vtr.</i> to enslave
+</dd><dd><span style="color:gray"><small>past SG: <b>azzafro</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vtr.</i> to harm someone
+</dd><dd><span style="color:gray"><small>past SG: <b>azˈzis</b></small></span>
+</dd><dd><span style="color:gray"><small><b>Me azzisa anna jin tihat meyer qiyae.</b> &#8212; It makes me hurt to see you bleed.</small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vtr.</i> to put something down
+</dd><dd><span style="color:gray"><small>past SG: <b>azzoh</b></small></span>
+</dd><dd><span style="color:gray"><small><b>Rakharo, azzohi haz khogare.</b> &#8212; Rakharo, put down that cask.</small></span>
+</dd></dl>
+<h3> <span class="mw-headline" id="C"> C </span></h3>
+<ul></ul>
+<dl><dd><i>na.</i> wind
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> mercenary, turncloak, traitor
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> climate
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> autumn
+</dd><dd><span style="color:gray"><small>accusative: <b>chafk</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj</i> silent
+</dd></dl>
+<ul></ul>
+<dl><dd><i>num.</i> twenty
+</dd><dd><i>vin.</i> to be silent
+</dd><dd><span style="color:gray"><small>past SG: <b>chak</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> bean (general use)
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> bean (when used as food)
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vtr.</i> to hear
+</dd><dd><i>vtr.&#8594;abl.</i> to hear some of
+</dd><dd><i>vtr.&#8594;gen.</i> to hear about
+</dd><dd><span style="color:gray"><small>past SG: <b>char</b></small></span>
+</dd><dd><span style="color:gray"><small><b>Anha ray char m'ave yeri lajakoon hakeso.</b> &#8212; I heard that your father was a famous warrior.</small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> ear
+</dd><dd><span style="color:gray"><small>accusative: <b>char</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to listen
+</dd><dd><span style="color:gray"><small>past SG: <b>charo</b></small></span>
+</dd><dd><span style="color:gray"><small><b>Ishish chare acharoe hash me nem ejervae nharesoon.</b> &#8212; Maybe the ear will listen if it is removed from the head.</small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>conj.</i> either, or
+</dd><dd><span style="color:gray"><small><b>Ifak asta meme zala firikhnharen …che me vesazhae khaleesies.</b> &#8212; The foreigner says that he wants a crown ...or he will take back the khaleesi.</small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adv.</i> well
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adv.</i> very well, excellently
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> locust
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> liver
+</dd><dd><span style="color:gray"><small>accusative: <b>chen</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> a distance of about half mile, cantered in one <b><a href="/Vocabulary#leshitof" title="Vocabulary">leshitof</a></b>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to canter
+</dd><dd><i>vtr.&#8594;gen.</i> to canter beside
+</dd><dd><span style="color:gray"><small>past SG: <b>chetir</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> dark bay horse
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> dark brown skinned
+</dd></dl>
+<ul></ul>
+<dl><dd><i>num.</i> seventy
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> cricket
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> cricket man (used as an insult)
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> weak or glancing sword blow
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to lie (down)
+</dd><dd><span style="color:gray"><small>past SG: <b>chil</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> lying, supine
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to lie (sexual meaning)
+</dd><dd><span style="color:gray"><small>past SG: <b>chilo</b></small></span>
+</dd><dd><span style="color:gray"><small><b>Anha vos ochilok ma shafkoa vosecchi.</b> &#8212; I will not lie with you.</small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>num.</i> fifty
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> woman, short form of chiorikem for 'wife'
+</dd><dd><span style="color:gray"><small><b>Anha aqorisok chiories mori ma afichak vojjor samva Vaesaan Dothrak.</b> &#8212; I will rape their women and bring their broken gods back to Vaes Dothrak.</small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> wife
+</dd></dl>
+<ul></ul>
+<dl><dd><i>num.</i> ninety
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v. aux.</i> almost, nearly
+</dd></dl>
+<ul></ul>
+<dl><dd><i>num.</i> thirty
+</dd></dl>
+<ul></ul>
+<dl><dd><i>num.</i> forty
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> horn
+</dd></dl>
+<ul></ul>
+<dl><dd><i>num.</i> sixty
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to be bitter
+</dd><dd><span style="color:gray"><small>past SG: <b>choak</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> one who is respectful (insulting when used for a fellow Dothraki)
+</dd><dd><span style="color:gray"><small><b>Athchomar chomakaan, zhey khal vezhven.</b> &#8212; Respect to one that is respectful, great khal.</small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to be respectful
+</dd><dd><i>vtr.&#8594;all.</i> to respect
+</dd><dd><span style="color:gray"><small>past SG: <b>chom</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> honor
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vin.</i> to grow respectful
+</dd><dd><i>vtr.</i> to give respect to, to honour
+</dd><dd><span style="color:gray"><small>past SG: <b>chomo</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to be hard
+</dd><dd><span style="color:gray"><small>past SG: <b>chonge</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to solidify
+</dd><dd><span style="color:gray"><small>past SG: <b>chongo</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> pika
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.&#8594;abl.</i> to run from, to flee
+</dd><dd><span style="color:gray"><small>past SG: <b>choqe</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>num.</i> eighty
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to roll
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> fresh
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> beet
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> beet paste
+</dd><dd><span style="color:gray"><small>accusative: <b>chottey</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> joke word for someone's behind
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> asscheek
+</dd></dl>
+<h3> <span class="mw-headline" id="D"> D </span></h3>
+<ul></ul>
+<dl><dd><i>ni.</i> leaf
+</dd><dd><span style="color:gray"><small>accusative: <b>daen</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> green
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> grass of certain kind
+</dd><dd><span style="color:gray"><small>accusative: <b>dahan</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> pomegranate
+</dd><dd><span style="color:gray"><small>accusative: <b>dak</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>num.</i> thousand
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> cow, beef
+</dd><dd><span style="color:gray"><small>accusative: <b>dalfe</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> ford
+</dd><dd><i>ni.</i> gem
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> clearing in a forest
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> saddle
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> lame, limp
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> rosemary bush
+</dd><dd><i>adj.</i> pungent
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> good, useful
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> useful thing, app
+</dd><dd><b>davralat</b> <i>vin.</i> to be useful
+</dd><dd><i>vtr.&#8594;all.</i> to be useful to
+</dd><dd><span style="color:gray"><small>past SG: <b>davra</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> rosemary
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> cheek (on the face)
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> shallow
+</dd><dd><i>adv.</i> light (of color)
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> fog
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vtr.</i> to know how, to be able to
+</dd><dd><span style="color:gray"><small>past SG: <b>devo</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> skull
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> fast
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> flash, sparkle
+</dd><dd><span style="color:gray"><small>accusative: <b>dil</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to pass
+</dd><dd><span style="color:gray"><small>past SG: <b>din</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to think
+</dd><dd><span style="color:gray"><small>past SG: <b>dirge</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> thought, idea
+</dd><dd><span style="color:gray"><small>accusative: <b>dirge</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> simple, plain
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> bark
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> very simple
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adv.</i> only, simply, exclusively, just
+</dd><dd><span style="color:gray"><small><b>Kash qoy qoyi thira disse.</b> &#8212; Only while blood of my blood lives.</small></span>
+</dd><dd><span style="color:gray"><small><b>Khal vos zigereo adoroon anevasoe maan. Me zigeree sajosoon disse.</b> &#8212; A khal doesn't need a chair to sit on. He only needs a steed.</small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> wet
+</dd><dd><b>diwelat</b> <i>vin.</i> to be wet
+</dd><dd><span style="color:gray"><small>past SG: <b>diwe</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vin.</i> to suffer
+</dd><dd><i>vtr.&#8594;abl.</i> to suffer from
+</dd><dd><span style="color:gray"><small>past SG: <b>doge</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to shout
+</dd><dd><i>vtr.&#8594;gen.</i> to shout about
+</dd><dd><span style="color:gray"><small>past SG: <b>don</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> goat
+</dd><dd><span style="color:gray"><small>accusative: <b>dorv</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> ibex
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> council
+</dd></dl>
+<ul></ul>
+<dl><dd><i>np.</i> Council of crones. Group of widowed khaleesi.
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> rider
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> ride
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> bloodrider
+</dd><dd><span style="color:gray"><small>accusative: <b>dothrakhqoy</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>prop. n.</i> men who ride, the Dothraki people
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to ride (With horse, steed or my horse, my steed)
+</dd><dd><i>vtr.&#8594;gen.</i> to ride alongside
+</dd><dd><i>v.</i> to have an erection
+</dd><dd><span style="color:gray"><small>past SG: <b>dothra</b></small></span>
+</dd><dd><span style="color:gray"><small><b>Anha adothrak hrazef ido yomme Havazzhifi Kazga ven et vo khal avvos.</b> &#8212; I will ride wooden horses across the black salt sea as no khal has done before.</small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>n.</i> unsullied
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> animal carcass
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni./na.</i> enemy (animate is used when a specific enemy is being referred to)
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> enemy horde, slang for one's own khalasar.
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> mother who is still breast feeding
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> mother's milk (of a human)
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vin.</i> to spill (non-volitional e.g. the milk spilled)
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vtr.</i> to come to spill, to tip over and then spill
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> dead
+</dd><dd><b>drivat</b> <i>vin.</i> to be dead
+</dd><dd><span style="color:gray"><small>past SG: <b>driv</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vin.</i> to die
+</dd><dd><i>vtr.&#8594;abl.</i> to die from
+</dd><dd><span style="color:gray"><small>past SG: <b>drivo</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vtr.</i> to drive (animals)
+</dd><dd><span style="color:gray"><small>past SG: <b>droge</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> herd
+</dd><dd><span style="color:gray"><small><b>Okki zhille hrazef fin allayafa shafka drogikhoon anni.</b> &#8212; Choose any horse you wish from my herd.</small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vtr</i> to slay, to kill (done by inanimate objects, animals, or otherwise unaware)
+</dd><dd><span style="color:gray"><small>past SG: <b>drozh</b></small></span>
+</dd></dl>
+<h3> <span class="mw-headline" id="E"> E </span></h3>
+<ul></ul>
+<dl><dd><i>vtr.</i> to dishonor
+</dd><dd><span style="color:gray"><small>past SG: <b>echomosa</b></small></span>
+</dd><dd><span style="color:gray"><small><b>Anha nemo echomosalat</b> &#8212; Forgive me.</small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> useless, of poor quality
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to squeeze
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> shackle
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vtr.</i> to uproot, to scratch
+</dd><dd><span style="color:gray"><small>past SG: <b>efesa</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to disagree
+</dd><dd><span style="color:gray"><small>past SG: <b>efichisa</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>det.</i> all, every
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> bank (of a river, lake or pond)
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to remove
+</dd><dd><span style="color:gray"><small>past SG: <b>ejerva</b></small></span>
+</dd><dd><span style="color:gray"><small><b>Ishish chare acharoe hash me nem ejervae nharesoon.</b> &#8212; Maybe the ear will listen if it is removed from the head.</small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to undress
+</dd><dd><span style="color:gray"><small>past SG: <b>ekhogara</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>n.</i> seed, sperm
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to plant
+</dd><dd><span style="color:gray"><small>past SG: <b>elain</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to go
+</dd><dd><i>vtr.&#8594;gen.</i> to go along with
+</dd><dd><span style="color:gray"><small>past SG: <b>e</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> "via point"
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> shoulder
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to respond
+</dd><dd><span style="color:gray"><small>past SG: <b>elz</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> response
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vin.</i> to smile
+</dd><dd><i>vtr.&#8594;all.</i> to smile at, to approve of
+</dd><dd><span style="color:gray"><small>past SG: <b>em</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> smile
+</dd><dd><span style="color:gray"><small>accusative: <b>em</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> smiley
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vtr.</i> to make something enter (from emralat)
+</dd><dd><span style="color:gray"><small>past SG: <b>emma</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vtr.</i> to amuse
+</dd><dd><span style="color:gray"><small>past SG: <b>emme</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> gate
+</dd></dl>
+<ul></ul>
+<dl><dd><i>prop. n.</i> Horse Gate
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to enter
+</dd><dd><span style="color:gray"><small>past SG: <b>emra</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vtr.</i> to sack, to raid
+</dd><dd><span style="color:gray"><small>past SG: <b>emraso</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> mule
+</dd><dd><span style="color:gray"><small>accusative: <b>enosh</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>n.</i> baby, infant
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vtr.</i> to let go of
+</dd><dd><span style="color:gray"><small>past SG: <b>eqorasa</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> kind, good
+</dd><dd><b>erinat</b> [eɾiˈnat]
+</dd><dd><i>v.</i> to be kind, to be good
+</dd><dd><span style="color:gray"><small>past SG: <b>erin</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> lady, kind one
+</dd><dd><span style="color:gray"><small><b>M'anhoon vekha virzethi gizkhvena Dornoon, zhey erinak.</b> &#8212; I have a sweet red from Dorne, my lady.</small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> old
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> smooth
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to take something back
+</dd><dd><span style="color:gray"><small>past SG: <b>esazha</b></small></span>
+</dd><dd><span style="color:gray"><small><b>Me asta meme vos vesazhao khalakkaes.</b> &#8212; He says that he will not take back the prince.</small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> exit
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to exit, to leave
+</dd><dd><span style="color:gray"><small>past SG: <b>esemrasa</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to get up
+</dd><dd><span style="color:gray"><small>past SG: <b>esh</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>n.</i> fish
+</dd></dl>
+<ul></ul>
+<dl><dd><i>det.</i> another, other
+</dd></dl>
+<ul></ul>
+<dl><dd><i>pn.</i> somebody else, the other
+</dd><dd><span style="color:gray"><small><b>Hales eshnakis</b> &#8212; Get the others.</small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> different
+</dd><dd><b>esinalat</b> <i>vin.</i> to be different
+</dd><dd><span style="color:gray"><small>past SG: <b>esina</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> a different thing
+</dd><dd><span style="color:gray"><small><b>Khaleesi zala meme adakha esinakh ajjalan.</b> &#8212; The khaleesi wants to eat something different tonight.</small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vin.</i> to change
+</dd><dd><span style="color:gray"><small>past SG: <b>esinaso</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> braggart, blowhard
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to brag, to exaggerate
+</dd><dd><span style="color:gray"><small>past SG: <b>esittesa</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vin.</i> to return
+</dd><dd><span style="color:gray"><small>past SG: <b>essa</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> roof, top part, top
+</dd><dd><span style="color:gray"><small>accusative: <b>esshey</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v. aux.</i> must, have to
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vtr.</i> to start doing something (used with verb)
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> tail
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> water
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> poison water
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vin.</i> to start
+</dd><dd><span style="color:gray"><small>past SG: <b>evo</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adv.</i> all along, the whole time, from the beginning
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vtr.</i> to start something
+</dd></dl>
+<ul></ul>
+<dl><dd><i>n.</i> olive
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> olive oil
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> olive pit
+</dd><dd><span style="color:gray"><small>accusative: <b>ewwey</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>pn.</i> everyone
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> rain
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vtr.</i> to move something
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> spotted
+</dd><dd><b>eyelilat</b> <i>vin.</i> to be spotted
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> spring
+</dd><dd><span style="color:gray"><small>accusative: <b>eyelk</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to find
+</dd><dd><span style="color:gray"><small>past SG: <b>ez</b></small></span>
+</dd><dd><span style="color:gray"><small><b>Ezas loy alegri h'anhaan.</b> &#8212; Find some ducks for me.</small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vin.</i> to dance
+</dd><dd><span style="color:gray"><small>past SG: <b>ezhir</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> dancing
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> learner
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to learn
+</dd><dd><span style="color:gray"><small>past SG: <b>ezo</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to teach
+</dd><dd><span style="color:gray"><small>past SG: <b>ezzo</b></small></span>
+</dd><dd><span style="color:gray"><small><b>Ave anni ezzo anhaan os lajataan. Me ezzo anhaan m'athdikar assie athzhokwazar.</b> &#8212; My father taught me how to fight. He taught me that speed defeats size.</small></span>
+</dd></dl>
+<h3> <span class="mw-headline" id="F"> F </span></h3>
+<ul></ul>
+<dl><dd><i>vtr.</i> to kick
+</dd><dd><i>vtr.&#8594;all.</i> to kick at
+</dd><dd><span style="color:gray"><small>past SG: <b>fak</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>n.</i> dapple horse
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> corn bunting (a bird)
+</dd></dl>
+<ul></ul>
+<dl><dd><i>n.</i> cloud
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> destiny
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vtr.</i> to slap
+</dd><dd><i>vtr.&#8594;all.</i> to slap at
+</dd><dd><span style="color:gray"><small>past SG: <b>fat</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vtr.</i> to insult
+</dd><dd><i>vtr.&#8594;all.</i> to throw an insult at
+</dd><dd><span style="color:gray"><small>past SG: <b>fati</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to hate
+</dd></dl>
+<ul></ul>
+<dl><dd><i>num.</i> seven
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> wing
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> feather
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vtr.</i> to attach
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> hemp (material)
+</dd><dd><span style="color:gray"><small>accusative: <b>fer</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> tree
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> carrot
+</dd><dd><span style="color:gray"><small>accusative: <b>fes</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vin.</i> to thirst
+</dd><dd><i>vtr.&#8594;abl.</i> to thirst for
+</dd><dd><span style="color:gray"><small>past SG: <b>feve</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vtr.</i> to take, to bring, to fetch
+</dd><dd><span style="color:gray"><small>past SG: <b>fich</b></small></span>
+</dd><dd><span style="color:gray"><small><b>Anha afichak vojjor samva Vaesaan Dothrak.</b> &#8212; I will bring their broken gods back to Vaes Dothrak.</small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>n.</i> rope
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> smoke
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> coward
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vin.</i> To move like a caterpillar
+</dd><dd><span style="color:gray"><small>past SG: <b>filk</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> caterpillar
+</dd><dd><span style="color:gray"><small>accusative: <b>filk</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> dried plum
+</dd></dl>
+<ul></ul>
+<dl><dd><i>pn.</i> who (question word, when speaking of an animate object)
+</dd><dd><i>pn.</i> relative pronoun to introduce a relative clause (when speaking of an animate object)
+</dd><dd><span style="color:gray"><small><b>Anha vidrik khalasares anni jim, finaan nakhoe rhaesheser.</b> &#8212; I will take my khalasar west to where the world ends.</small></span>
+</dd><dd><span style="color:gray"><small><b>Vezh fin saja rhaesheseres!</b> &#8212; The stallion that mounts the world!</small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>pn.</i> what (question word, when speaking of an inanimate object)
+</dd><dd><i>pn.</i> relative pronoun to introduce a relative clause (when speaking of an inanimate object)
+</dd></dl>
+<ul></ul>
+<dl><dd><i>pn.</i> where
+</dd><dd><i>adv.</i> where
+</dd></dl>
+<ul></ul>
+<dl><dd><i>det.</i> how many, how much
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> round
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> ring, circle
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> year
+</dd></dl>
+<ul></ul>
+<dl><dd><i>n.</i> ball
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> ring
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> crown
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> cold
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> short
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> an unnoticed and uncalled-for erection
+</dd><dd><span style="color:gray"><small>accusative: <b>fittey</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> a film on top of a soup; cream
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> update
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> dull
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> hunter
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> hunting party
+</dd></dl>
+<ul></ul>
+<dl><dd><i>phrase</i> said at parting, meaning "Hunt well".
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to hunt
+</dd><dd><span style="color:gray"><small>past SG: <b>fon</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> advice
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vtr.</i> to track, to seek
+</dd><dd><span style="color:gray"><small>past SG: <b>fono</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> throat
+</dd><dd><i>n.</i> sapwood, heartwood
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> voice
+</dd><dd><span style="color:gray"><small><b>Vos fothakhi vekho ha yeraan jinne.</b> &#8212; You have no voice here.</small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> old
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> elder
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vtr.</i> to touch
+</dd><dd><i>vtr.&#8594;all.</i> to reach to touch
+</dd><dd><span style="color:gray"><small>past SG: <b>frakh</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vtr.</i> to feel
+</dd><dd><span style="color:gray"><small>past SG: <b>frakho</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>n.</i> The sound of horse hooves on dirt
+</dd><dd><b>fredrilat</b> <i>vin.</i> to run (with horse as subject)
+</dd><dd><b>fredrik</b> <i>na.</i> chatterbox, one who sounds like horses hooves
+</dd></dl>
+<h3> <span class="mw-headline" id="G"> G </span></h3>
+<ul></ul>
+<dl><dd><i>v.</i> to figure out, to solve
+</dd><dd><span style="color:gray"><small>past SG: <b>gach</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> place, environs
+</dd><dd><span style="color:gray"><small>accusative: <b>gach</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> room
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> lungs
+</dd></dl>
+<ul></ul>
+<dl><dd><i>n.</i> root system of a tree
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> brother
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> egg
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> rice
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to lean
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> belly
+</dd><dd><span style="color:gray"><small>accusative: <b>gange</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to feel anxious/excited
+</dd></dl>
+<ul></ul>
+<dl><dd><i>n.</i> intestines
+</dd></dl>
+<ul></ul>
+<dl><dd><i>n.</i> root
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vin.</i> to grow hungry
+</dd><dd><i>vtr.&#8594;abl.</i> to hunger for
+</dd><dd><span style="color:gray"><small>past SG: <b>garvo</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> meat
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> cunt, pussy
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> bolas
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vin.</i> to be ripped, to be torn
+</dd><dd><span style="color:gray"><small>past SG: <b>gend</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>n.</i> rip
+</dd><dd><i>adj.</i> ripped
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vin.</i> to become ripped, to rip
+</dd><dd><span style="color:gray"><small>past SG: <b>gendo</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vtr.&#8594;abl.</i> to lack
+</dd><dd><span style="color:gray"><small>past SG: <b>ger</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> lack
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> mole
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> snake
+</dd><dd><span style="color:gray"><small>accusative: <b>gezries</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> feint
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to push
+</dd></dl>
+<ul></ul>
+<dl><dd><i>n.</i> breeze
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> weather
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> mouse
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> commoners, people (derogatory)
+</dd><dd><span style="color:gray"><small><b>Assilat vaes majin azzafrolat gimisires mae.</b> &#8212; Conquering a city and taking her people as slaves.</small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> bee
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> honey
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> sweet
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> onion
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> louse
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> mouth of a human
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to charge a horse
+</dd><dd><span style="color:gray"><small>past SG: <b>gor</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to be certain, to be sure
+</dd><dd><span style="color:gray"><small>past SG: <b>gosh</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> fucker (insult)
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vtr.</i> to mate (animals); to breed
+</dd><dd><span style="color:gray"><small>past SG: <b>gov</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> waste, refuse
+</dd><dd><i>intj.</i> shit (generic undirected profanity)
+</dd></dl>
+<ul></ul>
+<dl><dd><i>n.</i> wall
+</dd></dl>
+<ul></ul>
+<dl><dd><i>intj.</i> Here! Let's go! Go!
+</dd></dl>
+<h3> <span class="mw-headline" id="H"> H </span></h3>
+<ul></ul>
+<dl><dd><i>prep.</i> (elided version, see <b><a href="/Vocabulary#ha" title="Vocabulary">ha</a></b>)
+</dd></dl>
+<ul></ul>
+<dl><dd><i>prep.&#8594;abl.</i> from
+</dd><dd><i>prep.&#8594;all.</i> for
+</dd><dd><span style="color:gray"><small><b>Nevakhi vekha ha maan.</b> &#8212; There is a place for you.</small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> finally, last, ultimately
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> food
+</dd></dl>
+<ul></ul>
+<dl><dd><i>n.</i> gust of wind
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> spawn
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> Lamb Men, Lhazareen "lit. spawn of lamb"
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> soft, quiet
+</dd></dl>
+<ul></ul>
+<dl><dd><i>n.</i> chain
+</dd><dd><span style="color:gray"><small><b>Anha Daenerys Vazyol h’Okreseroon Targeryen, Atak ma Hakesoon Mae, Osavvirsak, Khaleesi Mirini, Khaleesi m’Andahli ma Roynari m’Ataki, Khaleesi Havazhofi Hranni, ma Haggey-Assamvak ma Mai Zhavorsi.</b> &#8212; I am Daenerys Stormborn of the House Targaryen, the First of Her Name, the Unburnt, Queen of Meereen, Queen of the Andals and the Rhoynar and the First Men, Khaleesi of the Great Grass Sea, Breaker of Chains and Mother of Dragons.</small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> strong
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> right (direction)
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> right side
+</dd></dl>
+<ul></ul>
+<dl><dd><i>prep.</i> (default preposition for foreign words that don't decline)
+</dd><dd><i>prep.&#8594;abl.</i> because of, on account of
+</dd><dd><span style="color:gray"><small><b>Anha asshilak jin azh shafkea haji rekoon et shafka.</b> &#8212; I make this gift to you for what you did.</small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>conj.</i> because (followed by prefix /<b>me-</b>/)
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to grow strong
+</dd><dd><span style="color:gray"><small>past SG: <b>hajo</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> name
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vtr.</i> to name
+</dd><dd><span style="color:gray"><small>past SG: <b>hake</b></small></span>
+</dd><dd><span style="color:gray"><small><b>Ma me nem ahakee ma Rhaego!</b> &#8212; And he shall be called Rhaego.</small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> famous
+</dd><dd><span style="color:gray"><small><b>Anha ray char m'ave yeri lajakoon hakeso.</b> &#8212; I heard that your father was a famous warrior.</small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> flower
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> tree that can blossom
+</dd><dd><span style="color:gray"><small>accusative: <b>halah</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>prop.n.</i> The Arbor
+</dd></dl>
+<ul></ul>
+<dl><dd><i>intj.</i> hey (exclamation)
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vtr.</i> to get
+</dd><dd><span style="color:gray"><small>past SG: <b>hale</b></small></span>
+</dd><dd><span style="color:gray"><small><b>Hales eshnakis.</b> &#8212; Get the others.</small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>n.</i> yak
+</dd><dd><span style="color:gray"><small>accusative: <b>ham</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> rose
+</dd><dd><span style="color:gray"><small>accusative: <b>han</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> tired
+</dd><dd><b>haqat</b> <i>v.</i> to be tired
+</dd><dd><span style="color:gray"><small>past SG: <b>haqe</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> exhausted
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to grow tired
+</dd><dd><span style="color:gray"><small>past SG: <b>haqo</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> sharp
+</dd></dl>
+<ul></ul>
+<dl><dd><i>conj.</i> if...then; when...then
+</dd><dd><i>part.</i> do (question word)
+</dd><dd><span style="color:gray"><small><b>Zhey jalan atthirari anni. Hash azisi?</b> &#8212; Moon of my live. Are you hurt?</small></span>
+</dd><dd><span style="color:gray"><small><b>Ishish chare acharoe hash me nem ejervae nharesoon.</b> &#8212; Maybe the ear will understand if it is removed from the head.</small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>phrase</i> Did you know?
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> face
+</dd><dd><i>prep.&#8594;gen.</i> in front of, before
+</dd><dd><i>prep.&#8594;all.</i> to front of, to before
+</dd><dd><i>prep.&#8594;abl.</i> from front of, from before
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> sea
+</dd></dl>
+<ul></ul>
+<dl><dd><i>prop n.</i> Dothraki Sea
+</dd></dl>
+<ul></ul>
+<dl><dd><i>prop n.</i> Black Salt Sea
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to move weakly
+</dd></dl>
+<ul></ul>
+<dl><dd><i>n.</i> bread
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> cat
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> lazy
+</dd></dl>
+<ul></ul>
+<dl><dd><i>dem adj.</i> that (when speaking of an object present and directly indicated)
+</dd><dd><i>pn.</i> that (when speaking of an animate object present and directly indicated)
+</dd><dd><span style="color:gray"><small><b>Ammeni haz jolin!</b> &#8212; Empty that pot.</small></span>
+</dd><dd><span style="color:gray"><small>accusative: <b>haz</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>dem pn.</i> that (when speaking of person(s) present and directly indicated)
+</dd></dl>
+<ul></ul>
+<dl><dd><i>pn.</i> that (when speaking of an inanimate object present and directly indicated)
+</dd><dd><span style="color:gray"><small>accusative: <b>hazies</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>loc. adv.</i> there
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> jug
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> fur
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> furry
+</dd><dd><b>hemelat</b> <i>v.</i> to have fur
+</dd><dd><span style="color:gray"><small>past SG: <b>heme</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> pelt
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> southern
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> south
+</dd><dd><span style="color:gray"><small>accusative: <b>hesk</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> rim, lips (of a person)
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> tight
+</dd><dd><i>adj.</i> ready, prepared
+</dd><dd><b>hethkat</b> <i>v.</i> tight
+</dd><dd><i>v.</i> ready, prepared
+</dd><dd><span style="color:gray"><small>past SG: <b>hethke</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adv.</i> far, off, hence
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to make distance, to travel, "to navigate"
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adv.</i> one day (in the future)
+</dd><dd><span style="color:gray"><small><b>Hash me vallayafa yera tihat mora hezhahhe?</b> &#8212; Would you like to see them one day?</small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vtr.'</i> to dig
+</dd><dd><i>vtr.'</i> to have sex, "to hit"
+</dd><dd><span style="color:gray"><small>past SG: <b>hile</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vin.</i> to clench
+</dd><dd><span style="color:gray"><small>past SG: <b>him</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> fist, clenched thing
+</dd></dl>
+<ul></ul>
+<dl><dd><i>intj.</i> Watch! (shortening of <b><a href="/Vocabulary#vitihirat" title="Vocabulary">vitihiras</a></b>; used to command animals)
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> glove
+</dd><dd><span style="color:gray"><small>accusative: <b>hlak</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> bear
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> wild powerful sword strike
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> wrist, ankle
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vtr.</i> to praise
+</dd><dd><span style="color:gray"><small><b>Shafka jif hoeri hrazef anni.</b> &#8212; You should thank my horses.</small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vtr.</i> to blow
+</dd><dd><b>nem holat</b>
+<dl><dd><i>v.&#8594;abl.</i> to betray
+</dd></dl>
+</dd><dd><span style="color:gray"><small>past SG: <b>hol</b></small></span>
+</dd><dd><span style="color:gray"><small><b>Vos yer nem holos anhoon.</b> &#8212; Do not betray me</small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>intj.</i> giddyup! (horse command)
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> golden
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> animal mouth
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to sing
+</dd><dd><span style="color:gray"><small>past SG: <b>hoyal</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> music
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> song
+</dd><dd><span style="color:gray"><small>accusative: <b>hoyale</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>prop. n.</i> A Song of Ice and Fire
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> white lion
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> powerful, quick and accurate sword strike
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> a type of grass
+</dd><dd><i>ni.</i> any grass-like ground cover
+</dd><dd><span style="color:gray"><small>accusative: <b>hran</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> horse
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> mustang, a horse that used to be tame
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> herd of wild horses, "traffic"
+</dd></dl>
+<h3> <span class="mw-headline" id="I"> I </span></h3>
+<ul></ul>
+<dl><dd><i>vtr.</i> to welcome, to make someone drink
+</dd><dd><span style="color:gray"><small>past SG: <b>idde</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> owl
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to suddenly turn completely around (as if by surprise), "to make a U-turn"
+</dd><dd><span style="color:gray"><small>past SG: <b>idiro</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> wooden, fake
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> leader of the hunt
+</dd><dd><i>na.</i> host
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vtr.</i> to guide
+</dd><dd><span style="color:gray"><small>past SG: <b>idri</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vtr.</i> to escort
+</dd><dd><span style="color:gray"><small><b>Hash shafka vidrisofi anna Mirinaan, hash anha vammelisok mekhalasar shafki nem vazha dalen hrazef k’azhi anhoon.</b> &#8212; If you will escort me back to Meereen, I will see that your khalasar is given a thousand horses as a sign of my gratitude.</small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> foreigner
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vin.</i> to walk
+</dd><dd><i>vtr.&#8594;gen</i> to walk beside
+</dd><dd><span style="color:gray"><small>past SG: <b>if</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>n.</i> species of forest spiders
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vtr.</i> to make someone walk
+</dd><dd><span style="color:gray"><small>past SG: <b>iffe</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>n.</i> victory
+</dd></dl>
+<ul></ul>
+<dl><dd><i>n.</i> bucket
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to swallow, to practice woman-on-top sex
+</dd><dd><span style="color:gray"><small>past SG: <b>ije</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> ashes
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> ash (material)
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to strike
+</dd><dd><span style="color:gray"><small>past SG: <b>ild</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> sword strike
+</dd><dd><span style="color:gray"><small>accusative: <b>ild</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> skin
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> vegetable
+</dd><dd><span style="color:gray"><small>accusative: <b>ilme</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>n.</i> salad, greens, vegetables
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> young
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to be young
+</dd><dd><span style="color:gray"><small>past SG: <b>imesh</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> belt
+</dd><dd><span style="color:gray"><small>accusative: <b>ime</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> sister
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to drink
+</dd><dd><span style="color:gray"><small>past SG: <b>inde</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> beetle
+</dd><dd><span style="color:gray"><small>accusative: <b>int</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> back
+</dd><dd><i>prep.&#8594;gen</i> after
+</dd><dd><i>prep.&#8594;abl</i> from behind
+</dd><dd><i>prep.&#8594;all</i> to behind
+</dd></dl>
+<ul></ul>
+<dl><dd><i>n.</i> trout
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> a distance equal to approximately a quarter of a mile.
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to trot
+</dd><dd><span style="color:gray"><small>past SG: <b>irvos</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v. aux.</i> might
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adv.</i> maybe
+</dd><dd><span style="color:gray"><small><b>Ishish chare acharoe hash me nem ejervae nharesoon.</b> &#8212; Maybe the ear will understand if it is removed from the head.</small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> well proven, well tested
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> suitably warm
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> brittle
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vtr.</i> to make something well proven, to test in action
+</dd><dd><span style="color:gray"><small>past SG: <b>itte</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> wild
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> beast
+</dd><dd><span style="color:gray"><small>accusative: <b>ivezhe</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vin.</i> to grow fierce
+</dd><dd><span style="color:gray"><small>past SG: <b>ivezho</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vin.</i> to become feral
+</dd><dd><span style="color:gray"><small>past SG: <b>ivezhofo</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vin.</i> to melt
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to melt something
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vin.</i> to be poisonous
+</dd><dd><i>vin.</i> to be venomous
+</dd><dd><span style="color:gray"><small>past SG: <b>izze</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> poison
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> forbidden
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vtr.</i> to poison
+</dd><dd><span style="color:gray"><small>past SG: <b>izze</b></small></span>
+</dd></dl>
+<h3> <span class="mw-headline" id="J"> J </span></h3>
+<ul></ul>
+<dl><dd><i>v.</i> to come
+</dd><dd><span style="color:gray"><small>past SG: <b>jad</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vtr.</i> to approach, to come up to
+</dd><dd><span style="color:gray"><small>past SG: <b>jadi</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to arrive
+</dd><dd><span style="color:gray"><small>past SG: <b>jado</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> vulture
+</dd><dd><span style="color:gray"><small>accusative: <b>jadre</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> Dothraki hair-braid, lion’s mane, hairstyle
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> braidless
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> moon
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> harvest moon
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> total lunar eclipse
+</dd><dd><span style="color:gray"><small>accusative: <b>jalanqoy</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> blanket
+</dd><dd><span style="color:gray"><small>accusative: <b>janhe</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> niece
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> dog
+</dd><dd><span style="color:gray"><small>accusative: <b>jan</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> <a href="/Idioms_and_Phrases#Specific_uses_for_words" title="Idioms and Phrases">"executioner" , person responsible for someones death</a>
+</dd><dd><span style="color:gray"><small>accusative: <b>jaqqe</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> mercy men (literally: merciful executioner)
+</dd><dd><span style="color:gray"><small>accusative: <b>jaqqe rhan</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to laugh
+</dd><dd><span style="color:gray"><small>past SG: <b>jes</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> reins
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vtr.</i> to rein, to check or guide a horse with the reins
+</dd><dd><span style="color:gray"><small>past SG: <b>javrath</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to block
+</dd><dd><span style="color:gray"><small>past SG: <b>jaz</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> block, an instance of blocking
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> pony
+</dd><dd><span style="color:gray"><small>accusative: <b>jed</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vin.</i> to bounce, to ricochet
+</dd><dd><i>vtr.→abl.</i> to bounce off of
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> lemon
+</dd><dd><span style="color:gray"><small>accusative: <b>jel</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> sour
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> cheese
+</dd><dd><span style="color:gray"><small>accusative: <b>jel</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> trader, merchant
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> wine merchant
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> trader's guild, "company"
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to trade
+</dd><dd><span style="color:gray"><small>past SG: <b>jer</b></small></span>
+</dd><dd><span style="color:gray"><small><b>Me zala rek meme nem jer ki mae.</b> &#8212; He wants that which was traded to him.</small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> market
+</dd><dd><span style="color:gray"><small><b>Kisha nemo silish Jereseroon Jima majin leisosh.</b> &#8212; We wandered off from the Western Market and got lost.</small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vtr.</i> to discuss
+</dd><dd><span style="color:gray"><small>past SG: <b>jeri</b></small></span>
+</dd><dd><span style="color:gray"><small><b>Ma jinne, ajjin, fin vaese zhokwa jerie Khali Vezhveni?</b> &#8212; And here, now, what great matters do the Great Khals discuss?</small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> a discussion
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vtr.</i> to imprison
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vtr.</i> to pull
+</dd></dl>
+<ul></ul>
+<dl><dd><i>n.</i> market
+</dd></dl>
+<ul></ul>
+<dl><dd><i>prop. n.</i> Western Market
+</dd></dl>
+<ul></ul>
+<dl><dd><i>prop. n.</i> Eastern Market
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> ice
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> frozen
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> freeze
+</dd><dd><span style="color:gray"><small>past SG: <b>jesho</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> freezing
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> icy
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to block (a strike)
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v. aux.</i> should
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v. aux.</i> should be
+</dd><dd><span style="color:gray"><small><b>Mori vo dirgi meqoy jifim ayyoza.</b> &#8212; They don't think the blood should be diluted.</small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> right, rightful
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to be right, to be correct
+</dd><dd><span style="color:gray"><small>past SG: <b>jil</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> western
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> west
+</dd><dd><span style="color:gray"><small>accusative: <b>jim</b></small></span>
+</dd><dd><span style="color:gray"><small><b>Anha vidrik khalasares anni jim, finaan nakhoe rhaesheser.</b> &#8212; I will take my khalasar west to where the world ends.</small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> female goat
+</dd><dd><i>dem adj.</i> this
+</dd><dd><i>pn.</i> this (when speaking of an animate object)
+</dd><dd><span style="color:gray"><small><b>Anha, zhey Drogo, atak jin.</b> &#8212; I, Drogo, will do this.</small></span>
+</dd><dd><span style="color:gray"><small><b>Anha asshilak jin azh shafkea haji rekoon et shafka.</b> &#8212; I make this gift to you for what you did.</small></span>
+</dd><dd><span style="color:gray"><small><b>Mori allayafi mae, jin alegra.</b> &#8212; She likes ducks.</small></span>
+</dd><dd><span style="color:gray"><small>accusative: <b>jin</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>dem. pn.</i> this (when speaking of person(s) )
+</dd></dl>
+<ul></ul>
+<dl><dd><i>pn.</i> this (when speaking of an inanimate object)
+</dd><dd><span style="color:gray"><small>accusative: <b>jinies</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>loc. adv.</i> here
+</dd><dd><span style="color:gray"><small><b>Vo mawizzi vekho jinne.</b> &#8212; There are no rabbits.</small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> fox
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> chicken
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to cook
+</dd><dd><span style="color:gray"><small>past SG: <b>jolin</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> prepared food
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> cooking pot
+</dd><dd><span style="color:gray"><small>accusative: <b>jolin</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> salmon
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> closed, shut, sealed
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> idol, icon
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni./na.</i> corn
+</dd></dl>
+<h3> <span class="mw-headline" id="K"> K </span></h3>
+<ul></ul>
+<dl><dd><i>prep.</i> (elided version, see <b><a href="/Vocabulary#ki" title="Vocabulary">ki</a></b>)
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to capture, to wrangle, to corral
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> net
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> untamed captured animal
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to smash
+</dd><dd><span style="color:gray"><small>past SG: <b>kaf</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>n.</i> pestle
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to crush
+</dd><dd><span style="color:gray"><small>past SG: <b>kaffe</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> lark
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> a distance of about mile, galloped in one <b>leshitof</b>
+</dd><dd><span style="color:gray"><small>accusative: <b>karlin</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> "kilometer (measure)"
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to gallop
+</dd><dd><i>vtr.&#8594;gen.</i> to gallop beside
+</dd><dd><span style="color:gray"><small>past SG: <b>karlin</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> gallop fast enough to kill a horse, if prolonged
+</dd><dd><span style="color:gray"><small>accusative: <b>karlinqoy</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vtr.</i> to pull with both hands
+</dd><dd><span style="color:gray"><small>past SG: <b>kart</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vtr.</i> to pull with other means than with arms (can be used of inanimate subjects)
+</dd><dd><span style="color:gray"><small>past SG: <b>karto</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>conj. adv.</i> while, when, during, until, then
+</dd><dd><b>kash kashi</b> <i>adv.</i> once
+</dd><dd><span style="color:gray"><small><b>Kash qoy qoyi thira disse.</b> &#8212; Only while blood of my blood lives.</small></span>
+</dd><dd><span style="color:gray"><small><b>Ei kisha imeshish, kash kashi.</b> &#8212; We were all young, once.</small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to last
+</dd><dd><span style="color:gray"><small>past SG: <b>kash</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> time
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> right, rightfully
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> weighted net
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> black
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> patterned, orderly
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> conjoined, married
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> spouse
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vtr.</i> to conjoin, to marry (someone to someone else, the latter is preceded by /ma/)
+</dd><dd><span style="color:gray"><small>past SG: <b>kem</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> ally
+</dd></dl>
+<ul></ul>
+<dl><dd><i>n.</i> dried fig
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vtr.</i> to ally with someone (use the preposition ma)
+</dd><dd><span style="color:gray"><small>past SG: <b>kemiso</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vtr.</i> to marry someone (use the preposition ma)
+</dd><dd><span style="color:gray"><small>past SG: <b>kemo</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>num.</i> hundred
+</dd></dl>
+<ul></ul>
+<dl><dd><i>num.</i> hundredth
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> opal
+</dd><dd><span style="color:gray"><small>accusative: <b>kendre</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> stick
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to carry
+</dd><dd><span style="color:gray"><small>past SG: <b>kesse</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> a personal bodyguard
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> body
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> corpse
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> title used for the leader of a Dothraki horde, king
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> prince, son of a khal
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> princess, daughter of a khal
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> a horde loyal to a single khal
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> khal's widow
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> queen, wife of a khal
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> handmaid
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> waist
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> small group of protectors, bloodriders, generals
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to sneeze
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> flesh, skin of an animal
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> leather
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> worm
+</dd><dd><span style="color:gray"><small>accusative: <b>khewe</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to be sad
+</dd><dd><span style="color:gray"><small>past SG: <b>khezh</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> flag
+</dd><dd><span style="color:gray"><small>accusative: <b>khir</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> dangler
+</dd><dd><i>ni.</i> penis, dick (jocular)
+</dd><dd><span style="color:gray"><small><b>Shafka laz addiwee khirrof anni.</b> &#8212; You can suck my dick.</small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> marsh
+</dd><dd><span style="color:gray"><small>accusative: <b>khizre</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> word for one's apparel, clothes
+</dd><dd><span style="color:gray"><small><b>Anha vaddrivak mahrazhis fini ondee khogar shiqethi.</b> &#8212; I will kill the men in iron suits</small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to dress
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> box, trunk, chest, cask
+</dd><dd><span style="color:gray"><small>accusative: <b>khogare</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>prep.&#8594;gen.</i> by, because of, of
+</dd><dd><i>prep.</i> thus, that (when preceding quoted speech)
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adv.</i> why
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adv.</i> how
+</dd><dd><span style="color:gray"><small><b>Kifinosi yer nesi?</b> &#8212; How do you know?</small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adv.</i> thus, in this way
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> ancestor
+</dd><dd><i>adj.</i> original
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> date (fruit of a date palm)
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> ancestry
+</dd></dl>
+<ul></ul>
+<dl><dd><i>conj.</i> why
+</dd></dl>
+<ul></ul>
+<dl><dd><i>conj.</i> how
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v. aux.</i> to try to
+</dd></dl>
+<ul></ul>
+<dl><dd><i>pn.</i> we
+</dd></dl>
+<ul></ul>
+<dl><dd><i>pn.</i> our
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> bodyguard
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> medicine
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> healer (chiefly male healer)
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> female healer
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> eye-healer
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vin.</i> to be of help
+</dd><dd><span style="color:gray"><small>past SG: <b>koal</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> nick, blemish, imperfection, flaw
+</dd><dd><span style="color:gray"><small>accusative: <b>koge</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> flawless
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> bow
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to cure, to heal
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> eagle
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> straight sword thrust
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> stick
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to stand
+</dd><dd><span style="color:gray"><small>past SG: <b>kovar</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> mountain
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> female relative
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> grandmother
+</dd></dl>
+<ul></ul>
+<dl><dd><i>n.</i> flea
+</dd></dl>
+<h3> <span class="mw-headline" id="L"> L </span></h3>
+<ul></ul>
+<dl><dd><i>adj.</i> beautiful (used for inanimate nouns)
+</dd><dd><b>lainat</b> <i>vin.</i> to be beautiful (used for inanimate nouns)
+</dd><dd><span style="color:gray"><small>past SG: <b>lain</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> fighter, warrior
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> army
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to fight
+</dd><dd><span style="color:gray"><small>past SG: <b>laj</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to spar, to train
+</dd><dd><i>v.</i> to play, to compete (a game that is played can be introuced with <b>ki</b>)
+</dd><dd><span style="color:gray"><small>past SG: <b>laji</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to chew
+</dd><dd><span style="color:gray"><small>past SG: <b>lakkhe</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> mare
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> mare's milk (fermented or plain)
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> fermented mare's milk
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to run
+</dd><dd><i>v.&#8594;gen.</i> to run beside
+</dd><dd><span style="color:gray"><small>past SG: <b>lan</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> eating spree for a special taste
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> killing spree
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to cry, to weep
+</dd><dd><span style="color:gray"><small>past SG: <b>laqe</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> tear, tears
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> stew
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> loud
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to be loud
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vin.</i> to be happy
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v. aux.</i> could (assigns past tense)
+</dd><dd><i>v. aux.</i> can (assigns present tense)
+</dd><dd><span style="color:gray"><small><b>Vo hrazef laz yoma evethiz.</b> &#8212; No horse can cross the poison water.</small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> feud
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> ghost, adult whose body was not burned
+</dd><dd><span style="color:gray"><small>accusative: <b>leyes</b></small></span>
+</dd><dd><i>adj.</i> lost
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> orphan
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vin.</i> to get lost
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> language
+</dd><dd><i>ni.</i> tongue
+</dd></dl>
+<ul></ul>
+<dl><dd><i>np.</i> Dothraki (language)
+</dd><dd><b>lekhaan</b> enough, sufficiently
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> taste
+</dd><dd><span style="color:gray"><small>accusative: <b>lekh</b></small></span>
+</dd><dd><span style="color:gray"><small><b>At lekhi ma shafka ahakee yal hakesoon anni.</b> &#8212; One taste and you'll name your first child after me.</small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to taste
+</dd><dd><span style="color:gray"><small>past SG: <b>lekhi</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd>ni. constructed language
+</dd><dd><span style="color:gray"><small>accusative: <b>lekhmove</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> neck, stem
+</dd><dd><i>n.</i> tree trunk
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> midget
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> rat
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to breathe
+</dd><dd><span style="color:gray"><small>past SG: <b>leshit</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> time period of approximately two minutes
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> tattoo
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> tattoo artist
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vtr.</i> to tattoo
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> a picture or a symbol depicted in a tattoo
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> tattoos
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> bladed writing
+</dd><dd><span style="color:gray"><small>accusative: <b>lirisiraz</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to tie
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vtr.</i> to hit, to run off
+</dd><dd><i>vtr.&#8594;all.</i> to hit at
+</dd><dd><span style="color:gray"><small>past SG: <b>loj</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to bathe
+</dd><dd><span style="color:gray"><small>past SG: <b>lomme</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> arrow
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to wink
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to blink
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> guard
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vtr.</i> to carry (in a cart, sack etc.), to carry a child (in a womb), to contain
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> disappointed
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to miss (fail to see/reqognize), to disappoint
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> puddle
+</dd><dd><i>det.&#8594;gen.</i> some, few, any, a bit of
+</dd><dd><span style="color:gray"><small><b>Ezas loy alegri h'anhaan.</b> &#8212; Find some ducks for me.</small></span>
+</dd><dd><span style="color:gray"><small><b>Hash yer ray tih loy alegra zhey vikeesi?</b> &#8212; Have you seen any ducks, woman?</small></span>
+</dd></dl>
+<h3> <span class="mw-headline" id="M"> M </span></h3>
+<ul></ul>
+<dl><dd><i>prep.</i> (elided version, see <b><a href="/Vocabulary#ma" title="Vocabulary">ma</a></b>)
+</dd><dd><i>prefix</i> (elided version of <b>/me-/</b>, a complementizer used to introduce subordinate clauses)
+</dd></dl>
+<ul></ul>
+<dl><dd><i>intj.</i> hi (a shortened version of <b>m'athchomaroon</b>)
+</dd></dl>
+<ul></ul>
+<dl><dd><i>intj.</i> hi (a shortened version of <b>m'athchomaroon</b>)
+</dd></dl>
+<ul></ul>
+<dl><dd><i>phrase</i> "with respect" said in greeting
+</dd></dl>
+<ul></ul>
+<dl><dd><i>conj.</i> and
+</dd><dd><i>prep.&#8594;abl.</i> with
+</dd><dd><span style="color:gray"><small><b>Ma me nem ahakee ma Rhaego!</b> &#8212; And he shall be called Rhaego!</small></span>
+</dd><dd><span style="color:gray"><small><b>At lekhi ma shafka ahakee yal hakesoon anni.</b> &#8212; One taste and you'll name your first child after me.</small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to sew
+</dd></dl>
+<ul></ul>
+<dl><dd><i> pn.</i> him, her, it
+</dd><dd><i> pn.</i> his, her, hers, its
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> sorceress, witch
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> young goat, kid
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> man, short form of mahrazhkem for 'husband'
+</dd><dd><span style="color:gray"><small><b>Anha vazhak maan firikhnharen hoshora ma mahrazhi aqovi affin mori atihi mae.</b> &#8212; I will give to him a golden crown and men will tremble when they will see it.</small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> husband
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> mother
+</dd><dd><span style="color:gray"><small>accusative: <b>mayes</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to share
+</dd></dl>
+<ul></ul>
+<dl><dd><i>conj.</i> and then, then, so, and so, consequently
+</dd><dd><span style="color:gray"><small><b>Majin jano. Anha ray tih san jani.</b> &#8212; Dogs then. I have seen many dogs.</small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vin.</i> to be finished
+</dd><dd><span style="color:gray"><small>past SG: <b>mali</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> anxious
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> young male horse
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to construct
+</dd><dd><span style="color:gray"><small>past SG: <b>mari</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> tool
+</dd></dl>
+<ul></ul>
+<dl><dd><i>n.</i> valuable
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> limper [insult]
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to limp
+</dd><dd><span style="color:gray"><small>past SG: <b>matte</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> rabbit
+</dd><dd><span style="color:gray"><small>accusative: <b>mawizze</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>pn.</i> he, she, it
+</dd></dl>
+<ul></ul>
+<dl><dd><i>phrase</i> Its a trap!
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> roast quail
+</dd></dl>
+<ul></ul>
+<dl><dd><i>pn.</i> (pronominal version of a preposition, see <b><a href="/Vocabulary#ha" title="Vocabulary">ha</a></b>)
+</dd></dl>
+<ul></ul>
+<dl><dd><i>num.</i> five
+</dd></dl>
+<ul></ul>
+<dl><dd><i>pn.</i> (pronominal version of a preposition, see <b><a href="/Vocabulary#ki" title="Vocabulary">ki</a></b>)
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> bad, evil
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vin.</i> to be evil
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> occurence
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> the patient's half of the act (Grammatical, not medical meaning of 'patient', see <b><a href="/Vocabulary#tikkheya" title="Vocabulary">tikkheya</a></b>)
+</dd><dd><span style="color:gray"><small>accusative: <b>melikhey</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vin.</i> to happen
+</dd><dd><span style="color:gray"><small><b>Ma fini meliso?</b> &#8212; And what happened?</small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>n.</i> sound
+</dd></dl>
+<ul></ul>
+<dl><dd><i>pn.</i> (pronominal version of a preposition, see <b><a href="/Vocabulary#ma" title="Vocabulary">ma</a></b>)
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to make sound
+</dd><dd><span style="color:gray"><small>past SG: <b>mem</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>pn.</i> (pronominal version of a preposition, see <b><a href="/Vocabulary#mra" title="Vocabulary">mra</a></b>)
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> bird noise, ”tweet”
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vin.</i> to be empty
+</dd><dd><i>vtr.&#8594;abl.</i> to be empty of something
+</dd><dd><span style="color:gray"><small>past SG: <b>men</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vin.</i> to be swollen
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vin.</i> to be new
+</dd><dd><span style="color:gray"><small>past SG: <b>mesh</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>pn.</i> (pronominal version of a preposition, see <b><a href="/Vocabulary#she" title="Vocabulary">she</a></b>)
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vin.</i> to be pregnant
+</dd><dd><span style="color:gray"><small>past SG: <b>mesi</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> soup
+</dd><dd><span style="color:gray"><small>accusative: <b>mesine</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> muscle
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vin.</i> to swell
+</dd><dd><span style="color:gray"><small>past SG: <b>meso</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> perlino horse
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> pale skinned
+</dd></dl>
+<ul></ul>
+<dl><dd><i>pn.</i> (pronominal version of a preposition, see <b><a href="/Vocabulary#torga" title="Vocabulary">torga</a></b>)
+</dd></dl>
+<ul></ul>
+<dl><dd><i>pn.</i> (pronominal version of a preposition, see <b><a href="/Vocabulary#vi" title="Vocabulary">vi</a></b>)
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> sexy
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> "hot", really sexy
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> whore
+</dd><dd><span style="color:gray"><small><b>Khal fines assoe mezhah jahakmeni vos khal.</b> &#8212; A Khal who takes orders from a foreign whore is no Khal.</small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> sore
+</dd><dd><span style="color:gray"><small><b>Khal rhae mhar. Me ifa.</b> &#8212; The sore-foot king. He walks.</small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> headache
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> thorn
+</dd><dd><span style="color:gray"><small>accusative: <b>mih</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> dagger
+</dd></dl>
+<ul></ul>
+<dl><dd><i>pn.</i> (pronominal version of a preposition, see <b><a href="/Vocabulary#irge" title="Vocabulary">irge</a></b>)
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to rest
+</dd><dd><span style="color:gray"><small>past SG: <b>mithre</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>n.</i> rest
+</dd></dl>
+<ul></ul>
+<dl><dd><i>pn.</i> (pronominal version of a preposition, see <b><a href="/Vocabulary#oleth" title="Vocabulary">oleth</a></b>)
+</dd></dl>
+<ul></ul>
+<dl><dd><i>pn.</i> they
+</dd></dl>
+<ul></ul>
+<dl><dd><i>n.</i> sack, pack
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to load, to pack
+</dd><dd><span style="color:gray"><small>past SG: <b>moske</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> warlock, magician
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vtr.</i> to be intented for, to be for
+</dd><dd><span style="color:gray"><small>past SG: <b>movekkhe</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to make by hand, to create
+</dd><dd><span style="color:gray"><small>past SG: <b>mov</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>prep.</i> (elided version, see <b><a href="/Vocabulary#mra" title="Vocabulary">mra</a></b>)
+</dd></dl>
+<ul></ul>
+<dl><dd><i>prep.&#8594;nom.</i> within
+</dd><dd><i>prep.&#8594;all.</i> into
+</dd><dd><i>prep.&#8594;abl.</i> out of
+</dd><dd><span style="color:gray"><small><b>Khalakka dothrae mr'anha</b> &#8212; A prince rides inside me.</small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> garlic
+</dd></dl>
+<h3> <span class="mw-headline" id="N"> N </span></h3>
+<ul></ul>
+<dl><dd><i>adj.</i> victorious
+</dd><dd><b>najahat</b> <i>vin.</i> to be victorious
+</dd><dd><b>najahak</b> <i>na.</i> winner
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> victory (in battle)
+</dd><dd><span style="color:gray"><small>accusative: <b>najahhey</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adv.</i> completely, totally, fully (lit. 'to stopping')
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to stop
+</dd><dd><span style="color:gray"><small>past SG: <b>nakh</b></small></span>
+</dd><dd><span style="color:gray"><small><b>Sorfosor nakha she Havazzhifi Kazga.</b> &#8212; The earth ends at The Black Salt Sea.</small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> stop, end
+</dd><dd><span style="color:gray"><small>accusative: <b>nakh</b></small></span>
+</dd><dd><span style="color:gray"><small><b>K'asi assikhqoyisiri vezh adothrae nakhaan rhaesheseri.</b> &#8212; According to the prophecy the stallion will ride to the ends of the world.</small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> the last (functions the same way as <a href="/Number_system#Ordinal_numbers" title="Number system">ordinal numbers</a>)
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vin.</i> to end
+</dd><dd><span style="color:gray"><small>past SG: <b>nakho</b></small></span>
+</dd><dd><span style="color:gray"><small><b>Anha vidrik khalasares anni jim, finaan nakhoe rhaesheser.</b> &#8212; I will take my khalasar west to where the world ends.</small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><b>adj.</b> small
+</dd><dd><b>naqisat</b> <i>vin.</i> to be small
+</dd><dd><span style="color:gray"><small>past SG: <b>naqis</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to urinate
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> beginner
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to take a little pee
+</dd><dd><span style="color:gray"><small>past SG: <b>navi</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> ashamed
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> girl
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> long
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> stone
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v. aux.</i> passive particle
+</dd><dd><span style="color:gray"><small><b>Ma me nem ahakee ma Rhaego!</b> &#8212; And he shall be called Rhaego!</small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v. aux.</i> reflexive particle
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> foal
+</dd><dd><span style="color:gray"><small>accusative: <b>ner</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to know (information)
+</dd><dd><span style="color:gray"><small>past SG: <b>nes</b></small></span>
+</dd><dd><span style="color:gray"><small><b>Kifinosi yer nesi?</b> &#8212; How do you know?</small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> information, knowledge
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to learn
+</dd><dd><span style="color:gray"><small>past SG: <b>neso</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> guest
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> sitting-spot
+</dd><dd><span style="color:gray"><small><b>Nevakhi vekha ha maan.</b> &#8212; There is a place for you.</small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to sit
+</dd><dd><span style="color:gray"><small>past SG: <b>neva</b></small></span>
+</dd><dd><span style="color:gray"><small><b>Maan anha vazhak jin ador shiqethi finaan neva ave maisi mae.</b> &#8212; I will give him the iron chair that his mothers father sat upon.</small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to sit down
+</dd><dd><span style="color:gray"><small>past SG: <b>nevaso</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> head (of a human)
+</dd><dd><i>n.</i> foliage
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> raven
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> female dog
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> sausage
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> blood sausage
+</dd><dd><span style="color:gray"><small>accusative: <b>ninthqoy</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i> adj.</i> rigid
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> orgasm
+</dd><dd><span style="color:gray"><small>accusative: <b>niqikkhey</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vin.</i> to be full
+</dd><dd><i>vtr.&#8594;abl.</i> to be full of something
+</dd><dd><span style="color:gray"><small>past SG: <b>nir</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vtr.</i> to fill
+</dd><dd><span style="color:gray"><small>past SG: <b>nirre</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> painful
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vin.</i> to feel pain
+</dd><dd><i>vtr.&#8594;abl.</i> to feel pain from a specific source
+</dd><dd><span style="color:gray"><small>past SG: <b>nith</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vin.</i> to feel encouraged, to feel invigorated
+</dd><dd><span style="color:gray"><small>past SG: <b>nithi</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> painless
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to frown
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adv.</i> together
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vin.</i> to be tough
+</dd><dd><span style="color:gray"><small>past SG: <b>nizh</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> bull
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to wipe
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to trample
+</dd><dd><span style="color:gray"><small>past SG: <b>nokitte</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> hair
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adv.</i> completely
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to turn
+</dd><dd><span style="color:gray"><small>past SG: <b>not</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> chestnut horse
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> brown
+</dd><dd><i>adj.</i> brown skinned
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> straight
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> thick, complex
+</dd><dd><b>nrojat</b> <i>vin.</i> to be thick, complex
+</dd><dd><span style="color:gray"><small>past SG: <b>nroj</b></small></span>
+</dd></dl>
+<h3> <span class="mw-headline" id="O"> O </span></h3>
+<ul></ul>
+<dl><dd><i>ni.</i> a persons worth or ability, mettle, "soul"
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> dun horse
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> light skinned
+</dd></dl>
+<ul></ul>
+<dl><dd><i>n.</i> breast
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> yam
+</dd><dd><span style="color:gray"><small>accusative: <b>oet</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vtr.</i> to slaughter an animal
+</dd><dd><i>vtr.</i> to kill brutally, as if slaughtering an animal
+</dd><dd><span style="color:gray"><small>past SG: <b>oge</b></small></span>
+</dd><dd><span style="color:gray"><small><b>Ogi loy mawizzi.</b> &#8212; Kill some rabbits.</small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> head (of an animal)
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> daughter
+</dd><dd><span style="color:gray"><small>accusative: <b>ohar</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to fall
+</dd><dd><span style="color:gray"><small>past SG: <b>ohar</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> heavy
+</dd><dd><b>ohazhat</b> <i>vin.</i> to be heavy
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> fermented
+</dd><dd><b>ohazholat</b> <i>v.</i> to become heavy, to ferment
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vtr.</i> to make something fall, to tear down
+</dd><dd><span style="color:gray"><small>past SG: <b>ohhar</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vin.</i> to be still
+</dd><dd><span style="color:gray"><small>past SG: <b>oho</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> fat
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> wrong, incorrect
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to be wrong, to be incorrect
+</dd><dd><span style="color:gray"><small>past SG: <b>ojil</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> friend, trustee
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to ring
+</dd><dd><span style="color:gray"><small>past SG: <b>okh</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vtr.</i> to choose
+</dd><dd><span style="color:gray"><small>past SG: <b>okke</b></small></span>
+</dd><dd><span style="color:gray"><small><b>Okki zhille hrazef fin allayafa shafka drogikhoon anni.</b> &#8212; Choose any horse you wish from my herd.</small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>n.</i> tent
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> stone house
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> noble House
+</dd><dd><span style="color:gray"><small><b>Anha Daenerys Vazyol h‘Okreseroon Targeryen.</b> &#8212; I am Daenerys Stormborn of House Targaryen.</small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to rub
+</dd><dd><i>vtr.</i> to concern
+</dd><dd><span style="color:gray"><small><b>Me vos oldo kisha, jin athzalar yeri.</b> &#8212; We don't care what you want.</small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>prep.&#8594;gen.</i> over, above
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> hill
+</dd><dd><span style="color:gray"><small>accusative: <b>olt</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>prep.&#8594;abl.</i> without
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vtr.</i> to wear
+</dd><dd><span style="color:gray"><small>past SG: <b>onde</b></small></span>
+</dd><dd><span style="color:gray"><small><b>Dothraki vo ondeo shori tawakof.</b> &#8212; Dothraki don't wear steel dresses.</small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> a distance of approximately one eighth mile.
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to walk (horse gait)
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> sheep
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> beat, rhythmic noise
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to beat, to sound rythmically
+</dd><dd><span style="color:gray"><small>past SG: <b>oqo</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> heartbeat
+</dd></dl>
+<ul></ul>
+<dl><dd><i>num.</i> eight
+</dd></dl>
+<ul></ul>
+<dl><dd><i>n.</i> whip
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> shoe
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> trap
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> path, road
+</dd><dd><span style="color:gray"><small><b>Ave anni ezzo anhaan os lajataan.</b> &#8212; My father taught me how to fight.</small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> the Unburnt
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> round road, "roundabout"
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to suck
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adv.</i> yesterday
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> tradition
+</dd><dd><span style="color:gray"><small><b>Me oskimikh kishi.</b> &#8212; It‘s our tradition.</small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> bridge
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vtr.</i> to bite
+</dd><dd><span style="color:gray"><small>past SG: <b>ost</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> plan
+</dd><dd><span style="color:gray"><small><b>Ei khalasari ray essash vaesaan ershe haji Khalaroon Vezhvena, fini ashiloe mori ajerie ostirge mori haji aheshkoon sila meshes.</b> &#8212; All the khalasars have returned to the ancient city for the Khalar Vezhven, where they will meet to discuss their plans for the coming winter.</small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>n.</i> bite
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> wide, fat
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to fly
+</dd><dd><span style="color:gray"><small>past SG: <b>oveth</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> opening, opportunity, vulnerability
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> loose, moveable, portable
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vtr.</i> to enhance, to improve, to build upon
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vtr.</i> to throw, to shoot (with bow)
+</dd><dd><span style="color:gray"><small>past SG: <b>ovveth</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> goal, destination
+</dd></dl>
+<ul></ul>
+<dl><dd><i>n.</i> ruby
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> fiery, flashing
+</dd></dl>
+<h3> <span class="mw-headline" id="Q"> Q </span></h3>
+<ul></ul>
+<dl><dd><i>n.</i> firefly
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vtr.</i> to display
+</dd><dd><span style="color:gray"><small><b>Kifinosi me qach athlayafar mae?</b> &#8212; How did he show his happiness?</small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> question
+</dd><dd><span style="color:gray"><small>accusative: <b>qaf</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vtr.</i> to ask
+</dd><dd><span style="color:gray"><small>past SG: <b>qaf</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> palomino horse
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> light brown skinned
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> wailing
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> black stork
+</dd><dd><i>na.</i> stork (of any kind)
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to float
+</dd></dl>
+<ul></ul>
+<dl><dd><i>num.</i> nine
+</dd></dl>
+<ul></ul>
+<dl><dd><i> ni.</i> apple
+</dd><dd><span style="color:gray"><small>accusative: <b>qazer</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> mysterious, strange
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> cover
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to cover
+</dd><dd><span style="color:gray"><small>past SG: <b>qemmo</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> clothes
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> eyelid
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> sand
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> basket
+</dd><dd><span style="color:gray"><small>accusative: <b>qes</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> forest
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> boar, pig, pork
+</dd><dd><span style="color:gray"><small>accusative: <b>qif</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> island
+</dd></dl>
+<ul></ul>
+<dl><dd><i>prep.&#8594;nom.</i> about, concerning
+</dd><dd><i>adv.</i> near, nearby, close; soon
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> bleeding
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vin.</i> to bleed
+</dd><dd><span style="color:gray"><small>past SG: <b>qiya</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> deer (archaic)
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> hand, arm
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vtr.</i> to seize, to hold
+</dd><dd><span style="color:gray"><small>past SG: <b>qora</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> prize, spoils
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vtr.</i> to take
+</dd><dd><i>vtr.</i> to rape
+</dd><dd><span style="color:gray"><small>past SG: <b>qoraso</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> forearm, "foot (measure)"
+</dd></dl>
+<ul></ul>
+<dl><dd><i>n.</i> spider
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> deceptive
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> lie, trap, deception
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> repetitive
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vin.</i> to be loyal, to be repetitive
+</dd><dd><span style="color:gray"><small><b>Qothas k‘anni, zhey khaleesi</b> &#8212; Have faith in me, khaleesi.</small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> trembling
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vin.</i> to tremble
+</dd><dd><span style="color:gray"><small>past SG: <b>qov</b></small></span>
+</dd><dd><span style="color:gray"><small><b>Mahrazhi aqovi affin mori atihi mae.</b> &#8212; Men will tremble when they will see it.</small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to shed
+</dd><dd><span style="color:gray"><small>past SG: <b>qovvo</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> blood
+</dd></dl>
+<ul></ul>
+<dl><dd><i>phrase.</i> blood of my blood
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to vomit
+</dd></dl>
+<h3> <span class="mw-headline" id="R"> R </span></h3>
+<ul></ul>
+<dl><dd><i>na.</i> tiger
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vin.</i> to choke on something
+</dd><dd><span style="color:gray"><small>past SG: <b>ragge</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> bright
+</dd></dl>
+<ul></ul>
+<dl><dd><i>intj</i> "hurrah," a yell of engouragement, a cheer
+</dd></dl>
+<ul></ul>
+<dl><dd><i>n.</i> boy
+</dd><dd><i>ni.</i> lamb (male)
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> boy (insult)
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> land, country, plain(s)
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adv.</i> already
+</dd><dd><i>v. aux.</i> to have, perfect tense introduction
+</dd><dd><span style="color:gray"><small><b>Hash yer ray tih loy alegra, zhey vikeesi?</b> &#8212; Have you seen any ducks, woman?</small></span>
+</dd><dd><span style="color:gray"><small><b>Anha ray char m'ave yeri lajakoon hakeso.</b> &#8212; I heard that your father was a famous warrior.</small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> summit, top, plateau
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> organ (internal body part)
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> purple
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> thin, sleek
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> skinny (perjorative)
+</dd></dl>
+<ul></ul>
+<dl><dd><i>dem adj.</i> that (when speaking of an object not present or indirectly indicated)
+</dd><dd><i>pn.</i> that (when speaking of an animate object not present or indirectly indicated)
+</dd><dd><span style="color:gray"><small><b>Anha asshilak jin azh shafkea haji rekoon et shafka.</b> &#8212; I make this gift to you for what you did.</small></span>
+</dd><dd><span style="color:gray"><small><b>Anha vazhak maan rek me zala.</b> &#8212; I will give to him what he wants.</small></span>
+</dd><dd><span style="color:gray"><small>accusative: <b>rek</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>dem pn.</i> that (when speaking of person(s) not present or indirectly indicated)
+</dd></dl>
+<ul></ul>
+<dl><dd><i>pn.</i> that (when speaking of an inanimate object not present or indirectly indicated)
+</dd><dd><span style="color:gray"><small>accusative: <b>rek</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>loc. adv.</i> there, that place
+</dd><dd><i>conj.</i> where
+</dd><dd><b>rekkaan</b> <i>conj.</i> to where
+</dd><dd><b>rekkoon</b> <i>conj.</i> from where
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> asleep
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to sleep
+</dd><dd><span style="color:gray"><small>past SG: <b>remek</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> hollow
+</dd></dl>
+<ul></ul>
+<dl><dd><i>intj.</i> Stay! (shortening of <b><a href="/Vocabulary#vikovarerat" title="Vocabulary">vikovareras</a></b>; used to command animals)
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> foot, leg
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> sore-foot
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> athlete, stud, (lit. strong-legged one)
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> land, country
+</dd></dl>
+<ul></ul>
+<dl><dd><i>prop n.</i> Land of the Andals, Westeros
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> world
+</dd><dd><span style="color:gray"><small><b>Vezh fin saja rhaesheseres vo zigereo adoroon shiqethi.</b> &#8212; The stallion that mounts the world has no need for iron chairs.</small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>prop n.</i> Night Lands
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> stride, "yard (measure)"
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> "meter (measure)"
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> cart
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> ship
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to be merciful
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vtr.</i> to help
+</dd><dd><span style="color:gray"><small>past SG: <b>rhela</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> help
+</dd><dd><span style="color:gray"><small>accusative: <b>rhellay</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> stirrup
+</dd></dl>
+<ul></ul>
+<dl><dd><i>n.</i> animal, beast
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> family
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> bubble, swelling
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> raisin
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> rotten
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vin.</i> to rot
+</dd><dd><span style="color:gray"><small>past SG: <b>rikho</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vtr.</i> to cut (slice)
+</dd><dd><i>vtr.&#8594;abl.</i> to cut into
+</dd><dd><span style="color:gray"><small>past SG: <b>risse</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> nose, tip
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vtr.</i> to smell, to sniff
+</dd><dd><span style="color:gray"><small>past SG: <b>rivve</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> sniff
+</dd><dd><span style="color:gray"><small>accusative: <b>rivve</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> son
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vtr.</i> to scrape
+</dd><dd><span style="color:gray"><small>past SG: <b>roch</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> shriveled
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vtr.</i> to fear
+</dd><dd><span style="color:gray"><small><b>Hannavenaki rokhi shekhes</b> &#8212; Pink people are afraid of the sun.</small></span>
+</dd></dl>
+<h3> <span class="mw-headline" id="S"> S </span></h3>
+<ul></ul>
+<dl><dd><i>v. aux.</i> (elided version, see <b><a href="/Vocabulary#ish" title="Vocabulary">ish</a></b>)
+</dd></dl>
+<ul></ul>
+<dl><dd><i> ni.</i> category, part, piece
+</dd><dd><span style="color:gray"><small>accusative: <b>sacchey</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to split, to divide
+</dd></dl>
+<ul></ul>
+<dl><dd><i> ni.</i> half
+</dd><dd><span style="color:gray"><small>accusative: <b>sache</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> rider
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vtr.</i> to mount
+</dd><dd><span style="color:gray"><small>past SG: <b>saj</b></small></span>
+</dd><dd><span style="color:gray"><small><b>Vezh fin saja rhaesheseres!</b> &#8212; The stallion that mounts the world!</small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> steed, one's own horse
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> broken
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> numerous
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vtr.</i> to surpass
+</dd><dd><span style="color:gray"><small>past SG: <b>samveno</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vin.</i> to break (when something is breakable)
+</dd><dd><span style="color:gray"><small>past SG: <b>samvo</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> heap, pile
+</dd><dd><i>det.&#8594;gen.</i> much, many
+</dd><dd><i>adv.</i> much, many
+</dd><dd><span style="color:gray"><small><b>Anha ray tih san jani.</b> &#8212; I have seen many dogs.</small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> safe
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adv.</i> a lot, many times
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to count
+</dd><dd><span style="color:gray"><small>past SG: <b>sanneya</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vin.</i> to be bloody
+</dd><dd><span style="color:gray"><small>past SG: <b>saqoya</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> new
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> juicy
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> orange
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adv.</i> again, back
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to be protected
+</dd><dd><span style="color:gray"><small>past SG: <b>savidosa</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>intj.</i> yes
+</dd><dd><span style="color:gray"><small><b>Rhaeshi, sek.</b> &#8212; Lands, yes.</small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adv.</i> too (much), too much; so, really, very
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adv.</i> surely, certanly
+</dd></dl>
+<ul></ul>
+<dl><dd><i>num.</i> three
+</dd></dl>
+<ul></ul>
+<dl><dd><i>prop n.</i> The Thirteen
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> free
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> vest
+</dd><dd><span style="color:gray"><small>accusative: <b>serj</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>n.</i> grape
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> wine
+</dd></dl>
+<ul></ul>
+<dl><dd><i>pn.</i> you (respectful)
+</dd><dd><span style="color:gray"><small><b>Anha asshilak jin azh shafkea haji rekoon et shafka.</b> &#8212; I make this gift to you for what you did.</small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vin.</i> to be healthy
+</dd><dd><span style="color:gray"><small>past SG: <b>shar</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>prep.&#8594;nom.</i> on, upon, in
+</dd><dd><i>prep.&#8594;abl.</i> off of
+</dd><dd><i>prep.&#8594;all.</i> onto
+</dd><dd><span style="color:gray"><small><b>Dalen rhaggat eveth ma ale vekhi she Vaes Seris.</b> &#8212; There are thousands of ships in the free cities.</small></span>
+</dd><dd><span style="color:gray"><small><b>Eyel varthasoe she ilekaan rikhoya.</b> &#8212; The rain will fall on your rotting skin.</small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> sun
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> setting sun
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> light
+</dd></dl>
+<ul></ul>
+<dl><dd><i>n.</i> little light, a term of endearment for a child
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> total solar eclipse
+</dd><dd><span style="color:gray"><small>accusative: <b>shekhqoy</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> star
+</dd></dl>
+<ul></ul>
+<dl><dd><i>n.</i> comet
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vin.</i> to snore
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> snore
+</dd><dd><span style="color:gray"><small>accusative: <b>shige</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> gossip, busybody
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vtr.</i> to know (someone), to be familiar with
+</dd><dd><span style="color:gray"><small>past SG: <b>shil</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vtr.</i> to trust
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vtr.</i> to believe
+</dd><dd><span style="color:gray"><small>past SG: <b>shillo</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vtr.</i> to meet, to get to know
+</dd><dd><span style="color:gray"><small>past SG: <b>shilo</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> tame
+</dd></dl>
+<ul></ul>
+<dl><dd><i>n.</i> sound of fire going out
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to burn out, to fizzle out
+</dd><dd><span style="color:gray"><small>past SG: <b>shin</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> grey
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> iron
+</dd><dd><span style="color:gray"><small><b>Vezh fin saja rhaesheseres vo zigereo adoroon shiqethi.</b> &#8212; The stallion that mounts the world has no need for iron chairs.</small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> beard
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> scorpion
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> spot
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to jump over
+</dd><dd><span style="color:gray"><small>past SG: <b>shok</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to mark
+</dd><dd><span style="color:gray"><small>past SG: <b>sho</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> dress, garment worn primarily by women
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> armor, "steel dress"
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> footprint
+</dd><dd><span style="color:gray"><small><b>Atthirar kishi annevae shorhae. </b> &#8212; Our lives have meaning.</small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> marked, smudged
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> nephew
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vtr.</i> to spit
+</dd><dd><span style="color:gray"><small>past SG: <b>sikhte</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> follower, subject
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to flash, to gleam
+</dd><dd><span style="color:gray"><small>past SG: <b>si</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vtr.</i> to follow
+</dd><dd><b>nemo silat</b> to wander off
+</dd><dd><span style="color:gray"><small>past SG: <b>sil</b></small></span>
+</dd><dd><span style="color:gray"><small><b>Kisha nemo silish Jereseroon Jima majin leisosh.</b> &#8212; We wandered off from the Western Market and got lost.</small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adv.</i> next
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adv.</i> tomorrow
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> male relative
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> grandfather
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adv.</i> left
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> left side
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> lightning
+</dd></dl>
+<ul></ul>
+<dl><dd><i>num.</i> zero
+</dd><dd><i>adj.</i> absent, missing
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> dragon glass
+</dd><dd><span style="color:gray"><small>accusative: <b>sondre</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to weave
+</dd><dd><span style="color:gray"><small>past SG: <b>soqe</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> plum
+</dd><dd><span style="color:gray"><small>accusative: <b>soqwe</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> plum tree
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> dirty
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> dirt
+</dd><dd><i>ni.</i> spot
+</dd><dd><span style="color:gray"><small>accusative: <b>sorf</b></small></span>
+</dd><dd><span style="color:gray"><small><b>Hazze, she haz sorfo, anha adakh zhores vezhoon.</b> &#8212; Right there, on that spot, I ate a stallion’s heart.</small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> earth (world)
+</dd><dd><span style="color:gray"><small><b>Sorfosor nakha she Havazzhifi Kazga.</b> &#8212; The earth ends at The Black Salt Sea.</small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>intj.</i> halt! (horse command)
+</dd></dl>
+<ul></ul>
+<dl><dd><i>intj.</i> halt! (command for a person)
+</dd></dl>
+<ul></ul>
+<dl><dd><i>n.</i> pear
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> pear brandy
+</dd><dd><span style="color:gray"><small>past SG: <b>sovikh</b></small></span>
+</dd></dl>
+<h3> <span class="mw-headline" id="T"> T </span></h3>
+<ul></ul>
+<dl><dd><i>v. aux.</i> (elided version, see <b><a href="/Vocabulary#eth" title="Vocabulary">eth</a></b>)
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> metallic
+</dd></dl>
+<ul></ul>
+<dl><dd><i>n.</i> silk worm
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> silk
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vtr.</i> to do
+</dd><dd><span style="color:gray"><small>past SG: <b>et</b></small></span>
+</dd><dd><span style="color:gray"><small><b>Anha asshilak jin azh shafkea haji rekoon et shafka.</b> &#8212; I make this gift to you for what you did.</small></span>
+</dd><dd><span style="color:gray"><small><b>Anha, zhey Drogo, atak jin.</b> &#8212; I, Drogo, will do this.</small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> chop
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> metal, real, authentic, legitimate
+</dd></dl>
+<ul></ul>
+<dl><dd><i>n.</i> breed of horse with reddish/brown coat
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> thunder
+</dd><dd><span style="color:gray"><small>accusative: <b>tem</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> yogurt made from mare’s milk
+</dd><dd><span style="color:gray"><small>accusative: <b>thagwe</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> a dessert made from <b><a href="/Vocabulary#thagwa" title="Vocabulary">thagwa</a></b> and eaten with dried fruit
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> soft
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> blue
+</dd></dl>
+<ul></ul>
+<dl><dd><i>n.</i> marmot
+</dd></dl>
+<ul></ul>
+<dl><dd><i>n.</i> nipple (on a teat)
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> pink
+</dd></dl>
+<ul></ul>
+<dl><dd><i>num.</i> ten
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> narrow
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> task
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to leak
+</dd><dd><span style="color:gray"><small>past SG: <b>thima</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.'</i> alive
+</dd><dd><b>thirat</b> <i>v.</i> to live
+</dd><dd><span style="color:gray"><small>past SG: <b>thir</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to dream; (lit.) to live a wooden life
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> age
+</dd><dd><span style="color:gray"><small><b>Fini thirisir yeri arrek?</b> &#8212; How old were you?</small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> survive
+</dd><dd><span style="color:gray"><small>past SG: <b>thiro</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> juice
+</dd></dl>
+<ul></ul>
+<dl><dd><i>n.</i> nut (woody seed)
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> eye
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vtr.</i> to look, to see
+</dd><dd><span style="color:gray"><small>past SG: <b>tih</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> view
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> overview
+</dd><dd><span style="color:gray"><small>accusative: <b>tihikhzir</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vtr.</i> to look at, to glance at
+</dd><dd><span style="color:gray"><small>past SG: <b>tihi</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to understand
+</dd><dd><span style="color:gray"><small>past SG: <b>tiho</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> deed, act
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> verb
+</dd><dd><i>ni.</i> the instigator's half of the act (Grammatical sense, see <b><a href="/Vocabulary#melikheya" title="Vocabulary">melikheya</a></b>)
+</dd><dd><span style="color:gray"><small>accusative: <b>tikkhey</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> boot
+</dd></dl>
+<ul></ul>
+<dl><dd><i>n.</i> book
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> finger
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to point
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> nail
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> eastern
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> east
+</dd><dd><span style="color:gray"><small>accusative: <b>tith</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> dumb
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> fool
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> bone
+</dd><dd><span style="color:gray"><small>accusative: <b>tolor</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>num.</i> four
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> stomach
+</dd><dd><span style="color:gray"><small>accusative: <b>torge</b></small></span>
+</dd><dd><i>prep.&#8594;gen.</i> under
+</dd><dd><span style="color:gray"><small><b>Me dothrakhqoyoon torga Khali Bharbo.</b> &#8212; He was bloodrider to Khal Bharbo.</small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> lake
+</dd></dl>
+<h3> <span class="mw-headline" id="V"> V </span></h3>
+<ul></ul>
+<dl><dd><i>vin.</i> to stink
+</dd><dd><span style="color:gray"><small><b>Yesisi vachrari</b> &#8212; The old women stink.</small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to feed
+</dd><dd><span style="color:gray"><small>past SG: <b>vadakher</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> turnip
+</dd><dd><i>ni.</i> filly
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> place
+</dd><dd><i>ni.</i> city
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to clog
+</dd><dd><span style="color:gray"><small>past SG: <b>vaesi</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> little village
+</dd></dl>
+<ul></ul>
+<dl><dd><i>prop. n.</i> City of the Dothraki
+</dd></dl>
+<ul></ul>
+<dl><dd><i>prop. n.</i> Free Cities
+</dd></dl>
+<ul></ul>
+<dl><dd><i>prop. n.</i> City of Bones
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> lamb (female)
+</dd><dd><span style="color:gray"><small>accusative: <b>vaf</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> lamb girl
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> wool
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> horizon
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> northern
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> north
+</dd><dd><span style="color:gray"><small>accusative: <b>valsh</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> northerner
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> northeastener
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vtr.</i> to strangle
+</dd></dl>
+<ul></ul>
+<dl><dd><i>n.</i> stampede
+</dd></dl>
+<ul></ul>
+<dl><dd><i>n.</i> earthquake
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vtr.</i> to speak with, to converse
+</dd><dd><span style="color:gray"><small>past SG: <b>vaster</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to continue
+</dd><dd><span style="color:gray"><small>past SG: <b>vatter</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>n.</i> storm
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> stormborn
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vtr.</i> to pry something off something else
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vin.</i> to be present, to exist (assigns the subject to genitive)
+</dd><dd><span style="color:gray"><small>past SG: <b>vekh</b></small></span>
+</dd><dd><span style="color:gray"><small><b>Hash tihi vekhi she nhare yeroon?</b> &#8212; Do you have eyes in your head?</small></span>
+</dd><dd><span style="color:gray"><small><b>Nevakhi vekha ha maan.</b> &#8212; There is a place for you.</small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> object, thing
+</dd><dd><i>na.</i> noun
+</dd></dl>
+<ul></ul>
+<dl><dd><i>n.</i> animate noun
+</dd></dl>
+<ul></ul>
+<dl><dd><i>n.</i> inanimate noun
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to sow
+</dd><dd><span style="color:gray"><small>past SG: <b>velainer</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> yellow
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to stall, to procrastinate
+</dd><dd><i>v.</i> to make excuses
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> reason why
+</dd></dl>
+<ul></ul>
+<dl><dd><i>n.</i> knee, elbow
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> heel (of hand or foot)
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> heel (of a boot)
+</dd></dl>
+<ul></ul>
+<dl><dd><i>conj.</i> like, as
+</dd><dd><span style="color:gray"><small><b>Anha adothrak hrazef ido yomme Havazzhifi Kazga ven et vo khal avvos.</b> &#8212; I will ride wooden horses across the black salt sea as no khal has done before.</small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vtr.</i> to be like, to be similar to
+</dd><dd><span style="color:gray"><small>past SG: <b>ven</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> class, category
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> semblance
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to be suitable
+</dd><dd><span style="color:gray"><small><b>Vos at yeroa venoe idrilat mora vosecchi.</b> &#8212; None of you is fit to lead them.</small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>n.</i> wolf
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> traveler
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> caravan
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to travel
+</dd><dd><span style="color:gray"><small>past SG: <b>ver</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> defensive sword strike
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> violent
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> stallion
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> horse lord
+</dd></dl>
+<ul></ul>
+<dl><dd><i>prop. n.</i> Great Stallion (horse deity)
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> great
+</dd></dl>
+<ul></ul>
+<dl><dd><i>prep.&#8594;all.</i> through, along
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vin.</i> to shiver
+</dd><dd><span style="color:gray"><small>past SG: <b>vichiter</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> respectful, respectable
+</dd><dd><b>vichomerat</b> <i>vin.</i> to be respectful
+</dd><dd><span style="color:gray"><small>past SG: <b>vichomer</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> respectful one
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to ride
+</dd><dd><span style="color:gray"><small>past SG: <b>vidroger</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vtr.&#8594;abl.</i> to miss someone
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vtr.</i> to breed with
+</dd><dd><span style="color:gray"><small><b>Loy mori vo dirgi me-Dothraki jif vigoveri ifakis.</b> &#8212; Some of them don’t think Dothraki should breed with foreigners.</small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vtr.</i> to protect
+</dd><dd><span style="color:gray"><small>past SG: <b>viljazer</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vtr.</i> to save, to rescue
+</dd><dd><span style="color:gray"><small>past SG: <b>vijazero</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> chin
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> nag (slang for annoying woman)
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to stay
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v. aux.</i> to manage to
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> battle
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> game
+</dd></dl>
+<ul></ul>
+<dl><dd><i>prop. n.</i> A Game of Thrones
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> wise
+</dd><dd><b>villat</b> <i>vin.</i> to be wise
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to limp
+</dd><dd><span style="color:gray"><small>past SG: <b>vimatter</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to rest, to camp
+</dd><dd><span style="color:gray"><small>past SG: <b>vimithrer</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vtr.</i> to stab
+</dd><dd><i>vtr.&#8594;all.</i> to stab at
+</dd><dd><span style="color:gray"><small>past SG: <b>vinde</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vtr.</i> to remember
+</dd><dd><span style="color:gray"><small>past SG: <b>vineser</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> portion of meat
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to beg, to plead
+</dd><dd><span style="color:gray"><small>past SG: <b>viqafer</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vin.</i> to burn
+</dd><dd><span style="color:gray"><small>past SG: <b>virsa</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> red
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> red wine
+</dd></dl>
+<ul></ul>
+<dl><dd><i>n.</i> forehead
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vtr.</i> to break a horse
+</dd><dd><i>vtr.</i> to domesticate a beast of burden
+</dd><dd><i>vtr.</i> to get one’s first kill with a new weapon
+</dd><dd><span style="color:gray"><small>past SG: <b>vishafer</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> color
+</dd><dd><span style="color:gray"><small>accusative: <b>visshiy</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to flow
+</dd><dd><span style="color:gray"><small>past SG: <b>vitha</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to look upon, to stare at, to examine
+</dd><dd><i>v.</i> to ponder
+</dd><dd><span style="color:gray"><small>past SG: <b>vitiher</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> watch, guard
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to watch, to observe
+</dd><dd><span style="color:gray"><small>past SG: <b>vitihir</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vin.</i> to grow
+</dd><dd><span style="color:gray"><small>past SG: <b>vitisher</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> feast, gathering with a feast
+</dd><dd><span style="color:gray"><small>accusative: <b>vittey</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> feast, gathering with a feast
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> silver
+</dd><dd><span style="color:gray"><small>accusative: <b>vizhad</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adv.</i> not, no; a shortened variant of <b>vos</b>, that may be used when the next word starts with a consonant.
+</dd><dd><span style="color:gray"><small><b>Vo sorfo. Rhaeshi.</b> &#8212; Not dirt. Lands.</small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> dust
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> person
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> deity, god
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vtr.</i> to decide
+</dd><dd><span style="color:gray"><small><b>Vos fothakhi vekho ha yeraan jinne, vosma yer Dosh Khaleen–ma yer vos, vosma kisha vokkeraki mae.</b> &#8212; You have no voice here, unless you are Dosh Khaleen. Which you are not, until we decide you are.</small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> fire
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> flame
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> summer
+</dd><dd><span style="color:gray"><small>accusative: <b>vorsask</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> funeral pyre
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> fang
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> tooth
+</dd><dd><span style="color:gray"><small>accusative: <b>vorto</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adv.</i> not, no, (negator)
+</dd><dd><span style="color:gray"><small><b>Khal vos zigereo adoroon anevasoe maan.</b> &#8212; A khal doesn't need a chair to sit on.</small></span>
+</dd><dd><span style="color:gray"><small><b>Me vos ador.</b> &#8212; It's not a chair.</small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>pn.</i> nobody
+</dd><dd><span style="color:gray"><small>accusative: <b>vosakes</b></small></span>
+</dd><dd><span style="color:gray"><small><b>Yer vosak, yorak ma hakesoon yeri, Khaleesi Vosi, zafra Khali Moro.</b> &#8212; You are nobody, the millionth of your name, Queen of Nothing, slave of Khal Moro.</small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adv.</i> not much, not a lot
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adv.</i> emphatic negative, "of course not"
+</dd><dd><span style="color:gray"><small><b>Sorfosor nakho vosecchi she havazh.</b> &#8212; The Earth does <u>not</u> end at the sea.</small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> nothing
+</dd><dd><span style="color:gray"><small>accusative: <b>vos</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>conj.</i> (elided version, see <b><a href="/Vocabulary#vosma" title="Vocabulary">vosma</a></b>)
+</dd></dl>
+<ul></ul>
+<dl><dd><i>conj.</i> but
+</dd><dd><span style="color:gray"><small><b>Eyel varthasoe she ilekaan rikhoya arrekaan vekha vosi yeroon vosma tolorro!</b> &#8212; The rain will fall on your rotting skin until nothing is left of you but bones.</small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adv.</i> very not
+</dd><dd><span style="color:gray"><small><b>Eshna osi vo laini vosso.</b> &#8212; The other possibilities are not so pleasant.</small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> weapon
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> weaponry
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to leap
+</dd><dd><span style="color:gray"><small>past SG: <b>vrel</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> slow
+</dd></dl>
+<h3> <span class="mw-headline" id="Y"> Y </span></h3>
+<ul></ul>
+<dl><dd><i>np.</i> nectarine
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> child
+</dd><dd><span style="color:gray"><small>accusative: <b>yalle</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> youth
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> collection
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vtr.</i> to collect, to gather
+</dd><dd><i>vtr.&#8594;abl.</i> to gather (some)
+</dd><dd><span style="color:gray"><small>past SG: <b>yanqo</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> tribe, people
+</dd><dd><span style="color:gray"><small><b>Torga yeri, Dothraki yanqosoraan zhikwi.</b> &#8212; Under you, the Dothraki will be a small people.</small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to flinch
+</dd><dd><span style="color:gray"><small>past SG: <b>yar</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> air
+</dd><dd><span style="color:gray"><small><b>Anha zigere yash chosha</b> &#8212; I needed fresh air.</small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> up, upward, upwards, high
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> ramp
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to rise
+</dd><dd><span style="color:gray"><small>past SG: <b>yatho</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> failure
+</dd></dl>
+<ul></ul>
+<dl><dd><i>pn.</i> you
+</dd></dl>
+<ul></ul>
+<dl><dd><i>pn.</i> you (plural)
+</dd><dd><i>pn.</i> your (singular)
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> crone
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> frog
+</dd><dd><span style="color:gray"><small>accusative: <b>yet</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> mad, crazy
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> born
+</dd><dd><b>yolat</b> <i>vin.</i> to be born
+</dd><dd><span style="color:gray"><small>past SG: <b>yol</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> crossing
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vtr.</i> to cross
+</dd><dd><span style="color:gray"><small>past SG: <b>yom</b></small></span>
+</dd><dd><span style="color:gray"><small><b>Vo hrazef laz yoma evethiz.</b> &#8212; No horse can cross the poison water.</small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>prep.&#8594;nom.</i> across
+</dd><dd><i>prep.&#8594;abl.</i> in spite of
+</dd></dl>
+<ul></ul>
+<dl><dd><i>num.</i> million
+</dd></dl>
+<ul></ul>
+<dl><dd><i>num.</i> extremely large number
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> fruit
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> brain (human)
+</dd></dl>
+<h3> <span class="mw-headline" id="Z"> Z </span></h3>
+<ul></ul>
+<dl><dd><i>ni.</i> slave
+</dd><dd><span style="color:gray"><small>accusative: <b>zafre</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vtr.</i> to refuse to
+</dd><dd><span style="color:gray"><small>past SG: <b>zajje</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vtr.</i> to hope for, to want
+</dd><dd><span style="color:gray"><small>past SG: <b>zal</b></small></span>
+</dd><dd><span style="color:gray"><small><b>Khaleesi zala meme adakha esinakh ajjalan.</b> &#8212; The khaleesi wants to eat something different tonight.</small></span>
+</dd><dd><span style="color:gray"><small><b>Ifak asta meme zala firikhnharen.</b> &#8212; The foreigner says that he wants a crown.</small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> stable, steadfast
+</dd></dl>
+<ul></ul>
+<dl><dd><i>n.</i> satchel sack
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> shade
+</dd><dd><span style="color:gray"><small>accusative: <b>zanisshe</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> white
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to swim
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> butterfly
+</dd><dd><span style="color:gray"><small>accusative: <b>zhalie</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> spear
+</dd><dd><span style="color:gray"><small>accusative: <b>zhan</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>n.</i> bass (fish)
+</dd></dl>
+<ul></ul>
+<dl><dd><i>n.</i> lizard
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> dragon (<a href="/Vocabulary#zhavvorsa" title="Vocabulary">alternate pronunciation</a>)
+</dd><dd><span style="color:gray"><small>accusative: <b>zhavors</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> dragon (<a href="/Vocabulary#zhavorsa" title="Vocabulary">alternate pronunciation</a>)
+</dd><dd><span style="color:gray"><small>accusative: <b>zhavvors</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> beautiful (used for animate nouns)
+</dd><dd><b>zheanalat</b> <i>vin.</i> to be beautiful (used for animate nouns)
+</dd><dd><span style="color:gray"><small>past SG: <b>zheana</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>part.</i> vocative particle
+</dd><dd><span style="color:gray"><small><b>Anha, zhey Drogo, atak jin.</b> &#8212; I, Drogo, will do this.</small></span>
+</dd><dd><span style="color:gray"><small><b>Zhey jalan atthirari anni. Hash azisi?</b> &#8212; Moon of my live. Are you hurt?</small></span>
+</dd><dd><span style="color:gray"><small><b>Hash yer ray tih loy alegra, zhey vikeesi?</b> &#8212; Have you seen any ducks, woman?</small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> salt
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> dried salt meat
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> salty
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to be sick
+</dd><dd><span style="color:gray"><small>past SG: <b>zhikh</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vtr.</i> to love someone (used of romantic or sexual love; a private word)
+</dd><dd><span style="color:gray"><small>past SG: <b>zhil</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>det.</i> any
+</dd><dd><span style="color:gray"><small><b>Okki zhille hrazef fin allayafa shafka drogikhoon anni.</b> &#8212; Choose any horse you wish from my herd.</small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> general
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> advice
+</dd><dd><span style="color:gray"><small>accusative: <b>zhilli</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>num.</i> six
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> enormous
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> big
+</dd><dd><b>zhokwalat</b> <i>vin.</i> to be large
+</dd><dd><span style="color:gray"><small>past SG: <b>zhokwa</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>na.</i> heart
+</dd><dd><i>n.</i> pit of a fruit, meat of a nut
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adv.</i> own, -self
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> fig (fresh fruit of a fig tree)
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> dangerous
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> disrespectful
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to steal
+</dd><dd><span style="color:gray"><small>past SG: <b>zifiche</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to burden
+</dd><dd><span style="color:gray"><small>past SG: <b>zigane</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vtr.</i> to defy, the oppose
+</dd><dd><span style="color:gray"><small>past SG: <b>ziganeso</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> required, requisite
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vtr.&#8594;abl.</i> to require, to need
+</dd><dd><span style="color:gray"><small>past SG: <b>zigere</b></small></span>
+</dd><dd><span style="color:gray"><small><b>Khal vos zigereo adoroon anevasoe maan.</b> &#8212; A khal doesn't need a chair to sit on.</small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vtr.</i> to distract
+</dd><dd><span style="color:gray"><small>past SG: <b>zimeme</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v. aux.</i> still ("continuation" particle)
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> remaining
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to retch
+</dd><dd><span style="color:gray"><small>past SG: <b>ziqwehe</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>n.</i> bird
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vtr.</i> to offend, to bug, to jostle
+</dd><dd><span style="color:gray"><small>past SG: <b>zireyese</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vtr.</i> to cut off, to remove
+</dd><dd><span style="color:gray"><small>past SG: <b>zirisse</b></small></span>
+</dd><dd><span style="color:gray"><small><b>Me azirissee khalakkaes khaleesisoon.</b> &#8212; He will cut the prince out of the khaleesi</small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to ache
+</dd><dd><span style="color:gray"><small>past SG: <b>ziroqose</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> bird of prey, raptor
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to be hurt
+</dd><dd><span style="color:gray"><small>past SG: <b>zis</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> wound
+</dd><dd><span style="color:gray"><small>accusative: <b>zis</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>ni.</i> scratch
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to fail someone
+</dd><dd><span style="color:gray"><small>past SG: <b>ziyene</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adj.</i> low
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adv.</i> down, downward, downwards
+</dd></dl>
+<ul></ul>
+<dl><dd><i>vin.</i> to be exceptionally small
+</dd><dd><span style="color:gray"><small>past SG: <b>zol</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>adv.</i> a little bit, a bit, a small amount, some
+</dd></dl>
+<ul></ul>
+<dl><dd><i>n.</i> kiss
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to kiss
+</dd><dd><span style="color:gray"><small>past SG: <b>zoqwe</b></small></span>
+</dd></dl>
+<ul></ul>
+<dl><dd><i>v.</i> to roar
+</dd><dd><span style="color:gray"><small>past SG: <b>zor</b></small></span>
+</dd></dl>
