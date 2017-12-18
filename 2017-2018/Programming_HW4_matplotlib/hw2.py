@@ -88,14 +88,14 @@ def plot_all():
 
     plt.subplot(223)
     # plt.scatter(x, y, c='orange')
-    plt.bar(x1, y1)
+    plt.barh(x1, y1)
     plt.title('Диаграмма для частей речи', color = 'black', family = 'fantasy', fontsize = 'small')
 
     plt.subplot(224)
     # plt.scatter(x, y, c='orange')
-    plt.bar(x3, y3)
+    plt.barh(x3, y3)
     plt.title('Диаграмма для букв', color = 'black', family = 'fantasy', fontsize = 'small')
-              
+    plt.tight_layout()
     plt.show()
 
     
