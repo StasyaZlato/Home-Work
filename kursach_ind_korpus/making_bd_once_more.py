@@ -49,5 +49,18 @@ def infa():
         conn.commit()
         print('Данные файла ' + file_name + ' добавлены в бд')
 
-create_bd()
-infa()
+# create_bd()
+# infa()
+
+def navodim_losk():
+    conn = sqlite3.connect(os.path.join('.', 'main_bd.sqlite'))
+    c = conn.cursor()
+    c.execute('SELECT id_poem, poem_text FROM poems')
+    for_change = c.fetchall()
+    print(for_change)
+    for i in for_change:
+        print('Обновляем запись с id = ' + str(i[0]) + '...')
+        c.execute('''UPDATE poems SET poem_text = '{}' WHERE id_poem = {}'''.format(re.sub('\""', '\"', i[1]).strip(), i[0]))
+        conn.commit()
+# navodim_losk()
+

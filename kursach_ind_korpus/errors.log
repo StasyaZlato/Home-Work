@@ -1,0 +1,5 @@
+Traceback (most recent call last):
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 149, in haripuisi_urls
+    previous_post = try_sth.find('div', {'class': 'nav-previous'}).find('a').get('href')
+AttributeError: 'NoneType' object has no attribute 'find'
+
