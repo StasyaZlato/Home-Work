@@ -5,7 +5,7 @@ import sys
 
 
 def create_bd():
-    conn = sqlite3.connect(os.path.join('.', 'main_bd.sqlite'))
+    conn = sqlite3.connect(os.path.join('.', 'main_bd13_SOS.sqlite'))
     c = conn.cursor()
     c.execute('CREATE TABLE IF NOT EXISTS authors(id_author INTEGER PRIMARY KEY AUTOINCREMENT, author VARCHAR NOT NULL UNIQUE, url VARCHAR NOT NULL UNIQUE)')
     c.execute('CREATE TABLE IF NOT EXISTS poems_info(id_poem INTEGER PRIMARY KEY AUTOINCREMENT, poem_name VARCHAR NOT NULL, poem_url VARCHAR, author VARCHAR NOT NULL, year INTEGER)')
@@ -22,7 +22,7 @@ def create_bd():
 # authors: id, author, url
 # poems: id_poem, poem_text, syllable
 def infa():
-    conn = sqlite3.connect(os.path.join('.', 'main_bd.sqlite'))
+    conn = sqlite3.connect(os.path.join('.', 'main_bd13_SOS.sqlite'))
     c = conn.cursor()
     file_list = os.listdir('poems')
     inf = {}
@@ -32,7 +32,7 @@ def infa():
             all = f.readlines()
         try:
             author = all[-204].split(':')[1].strip()
-        except IndexError: # тут один файл с ошибкой :(
+        except IndexError:  # тут один файл с ошибкой :(
             print('Error at ' + file_name)
             author = all[-205].split(':')[1].strip()
             print('Error solved.')
@@ -49,18 +49,40 @@ def infa():
         conn.commit()
         print('Данные файла ' + file_name + ' добавлены в бд')
 
+
 # create_bd()
 # infa()
 
+
 def navodim_losk():
-    conn = sqlite3.connect(os.path.join('.', 'main_bd.sqlite'))
+    conn = sqlite3.connect(os.path.join('.', 'main_bd13_SOS.sqlite'))
     c = conn.cursor()
     c.execute('SELECT id_poem, poem_text FROM poems')
     for_change = c.fetchall()
     print(for_change)
     for i in for_change:
         print('Обновляем запись с id = ' + str(i[0]) + '...')
-        c.execute('''UPDATE poems SET poem_text = '{}' WHERE id_poem = {}'''.format(re.sub('\""', '\"', i[1]).strip(), i[0]))
-        conn.commit()
+        try:
+            c.execute('''UPDATE poems SET poem_text = '{}' WHERE id_poem = {}'''.format(re.sub('\"\"', '\"', i[1]).strip(), i[0]))
+            conn.commit()
+        except sqlite3.OperationalError:
+            print('УПС... id = ' + str(i[0]))
+
+
 # navodim_losk()
+
+
+# ну такое...
+def sth_stupid():
+    conn = sqlite3.connect(os.path.join('.', 'main_bd13_SOS_shit.sqlite'))
+    c = conn.cursor()
+    c.execute('SELECT id_poem, poem_name FROM poems_info')
+    infa = c.fetchall()
+    for i in infa:
+        id = i[0]
+        name = i[1]
+        c.execute('''UPDATE poems SET poem_name = '{}' WHERE id_poem = {}'''.format(name, str(id)))
+    conn.commit()
+
+sth_stupid()
 

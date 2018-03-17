@@ -5,7 +5,7 @@ import json
 
 
 def take_alll():
-    conn = sqlite3.connect(os.path.join('.', 'main_bd.sqlite'))
+    conn = sqlite3.connect(os.path.join('.', 'main_bd13_SOS_shit.sqlite'))
     c = conn.cursor()
     c.execute('SELECT id_poem, poem_text FROM poems')
     all = c.fetchall()
@@ -55,7 +55,7 @@ def parsing_syllables(text, id):
     conn.commit()
 
 
-'''80 526 слов!!! и это только стихотворения :)'''
+'''201 929 слов!!! каееееееф:)))'''
 
 
 # def dic_indonesian():

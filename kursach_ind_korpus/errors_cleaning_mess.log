@@ -1,0 +1,192 @@
+Puisi Aubade Jalan Pulang - Alpha Hambally - Hari Puisi Indonesia.txt
+Traceback (most recent call last):
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 297, in main4
+    text_with_info(file_name)
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 266, in text_with_info
+    if re.search('[Ss]umber:', parts[-2]) is not None:
+IndexError: list index out of range
+
+Puisi Indonesia Hari Puisi.txt
+Traceback (most recent call last):
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 297, in main4
+    text_with_info(file_name)
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 250, in text_with_info
+    infa1 = re.match('Puisi (.*?)Hari Puisi Indonesia', filename).group(1)
+AttributeError: 'NoneType' object has no attribute 'group'
+
+Puisi Mungkin Bulan - Jamil Massa - Hari Puisi Indonesia.txt
+Traceback (most recent call last):
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 297, in main4
+    text_with_info(file_name)
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 266, in text_with_info
+    if re.search('[Ss]umber:', parts[-2]) is not None:
+IndexError: list index out of range
+
+Puisi Sayembara Tebu - Jamil Massa - Hari Puisi Indonesia.txt
+Traceback (most recent call last):
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 297, in main4
+    text_with_info(file_name)
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 266, in text_with_info
+    if re.search('[Ss]umber:', parts[-2]) is not None:
+IndexError: list index out of range
+
+Puisi Sisa Kita - Ardy Kresna Crenata - Hari Puisi Indonesia.txt
+Traceback (most recent call last):
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 297, in main4
+    text_with_info(file_name)
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 266, in text_with_info
+    if re.search('[Ss]umber:', parts[-2]) is not None:
+IndexError: list index out of range
+
+Seorang Prajurit kepada Bung Karno - Mh. Rustandi Kartakusuma (1921-2008) - Hari Puisi Indonesia.txt
+Traceback (most recent call last):
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 297, in main4
+    text_with_info(file_name)
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 250, in text_with_info
+    infa1 = re.match('Puisi (.*?)Hari Puisi Indonesia', filename).group(1)
+AttributeError: 'NoneType' object has no attribute 'group'
+
+Puisi Aubade Jalan Pulang - Alpha Hambally - Hari Puisi Indonesia.txt
+Traceback (most recent call last):
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 298, in main4
+    text_with_info(file_name)
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 267, in text_with_info
+    if re.search('[Ss]umber:', parts[-2]) is not None:
+IndexError: list index out of range
+
+Puisi Indonesia Hari Puisi.txt
+Traceback (most recent call last):
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 298, in main4
+    text_with_info(file_name)
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 251, in text_with_info
+    infa1 = re.match('Puisi (.*?)Hari Puisi Indonesia', filename).group(1)
+AttributeError: 'NoneType' object has no attribute 'group'
+
+Puisi Mungkin Bulan - Jamil Massa - Hari Puisi Indonesia.txt
+Traceback (most recent call last):
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 298, in main4
+    text_with_info(file_name)
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 267, in text_with_info
+    if re.search('[Ss]umber:', parts[-2]) is not None:
+IndexError: list index out of range
+
+Puisi Sayembara Tebu - Jamil Massa - Hari Puisi Indonesia.txt
+Traceback (most recent call last):
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 298, in main4
+    text_with_info(file_name)
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 267, in text_with_info
+    if re.search('[Ss]umber:', parts[-2]) is not None:
+IndexError: list index out of range
+
+Puisi Sisa Kita - Ardy Kresna Crenata - Hari Puisi Indonesia.txt
+Traceback (most recent call last):
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 298, in main4
+    text_with_info(file_name)
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 267, in text_with_info
+    if re.search('[Ss]umber:', parts[-2]) is not None:
+IndexError: list index out of range
+
+Seorang Prajurit kepada Bung Karno - Mh. Rustandi Kartakusuma (1921-2008) - Hari Puisi Indonesia.txt
+Traceback (most recent call last):
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 298, in main4
+    text_with_info(file_name)
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 251, in text_with_info
+    infa1 = re.match('Puisi (.*?)Hari Puisi Indonesia', filename).group(1)
+AttributeError: 'NoneType' object has no attribute 'group'
+
+Puisi Aubade Jalan Pulang - Alpha Hambally - Hari Puisi Indonesia.txt
+Traceback (most recent call last):
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 292, in main4
+    text_with_info(file_name)
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 268, in text_with_info
+    if re.search('[Ss]umber:', parts[-2]) is not None:
+IndexError: list index out of range
+
+Puisi Indonesia Hari Puisi.txt
+Traceback (most recent call last):
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 292, in main4
+    text_with_info(file_name)
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 252, in text_with_info
+    infa1 = re.match('Puisi (.*?)Hari Puisi Indonesia', filename).group(1)
+AttributeError: 'NoneType' object has no attribute 'group'
+
+Puisi Mungkin Bulan - Jamil Massa - Hari Puisi Indonesia.txt
+Traceback (most recent call last):
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 292, in main4
+    text_with_info(file_name)
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 268, in text_with_info
+    if re.search('[Ss]umber:', parts[-2]) is not None:
+IndexError: list index out of range
+
+Puisi Sayembara Tebu - Jamil Massa - Hari Puisi Indonesia.txt
+Traceback (most recent call last):
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 292, in main4
+    text_with_info(file_name)
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 268, in text_with_info
+    if re.search('[Ss]umber:', parts[-2]) is not None:
+IndexError: list index out of range
+
+Puisi Sisa Kita - Ardy Kresna Crenata - Hari Puisi Indonesia.txt
+Traceback (most recent call last):
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 292, in main4
+    text_with_info(file_name)
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 268, in text_with_info
+    if re.search('[Ss]umber:', parts[-2]) is not None:
+IndexError: list index out of range
+
+Seorang Prajurit kepada Bung Karno - Mh. Rustandi Kartakusuma (1921-2008) - Hari Puisi Indonesia.txt
+Traceback (most recent call last):
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 292, in main4
+    text_with_info(file_name)
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 252, in text_with_info
+    infa1 = re.match('Puisi (.*?)Hari Puisi Indonesia', filename).group(1)
+AttributeError: 'NoneType' object has no attribute 'group'
+
+Puisi Aubade Jalan Pulang - Alpha Hambally - Hari Puisi Indonesia.txt
+Traceback (most recent call last):
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 292, in main4
+    text_with_info(file_name)
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 268, in text_with_info
+    if re.search('[Ss]umber:', parts[-2]) is not None:
+IndexError: list index out of range
+
+Puisi Indonesia Hari Puisi.txt
+Traceback (most recent call last):
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 292, in main4
+    text_with_info(file_name)
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 252, in text_with_info
+    infa1 = re.match('Puisi (.*?)Hari Puisi Indonesia', filename).group(1)
+AttributeError: 'NoneType' object has no attribute 'group'
+
+Puisi Mungkin Bulan - Jamil Massa - Hari Puisi Indonesia.txt
+Traceback (most recent call last):
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 292, in main4
+    text_with_info(file_name)
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 268, in text_with_info
+    if re.search('[Ss]umber:', parts[-2]) is not None:
+IndexError: list index out of range
+
+Puisi Sayembara Tebu - Jamil Massa - Hari Puisi Indonesia.txt
+Traceback (most recent call last):
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 292, in main4
+    text_with_info(file_name)
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 268, in text_with_info
+    if re.search('[Ss]umber:', parts[-2]) is not None:
+IndexError: list index out of range
+
+Puisi Sisa Kita - Ardy Kresna Crenata - Hari Puisi Indonesia.txt
+Traceback (most recent call last):
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 292, in main4
+    text_with_info(file_name)
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 268, in text_with_info
+    if re.search('[Ss]umber:', parts[-2]) is not None:
+IndexError: list index out of range
+
+Seorang Prajurit kepada Bung Karno - Mh. Rustandi Kartakusuma (1921-2008) - Hari Puisi Indonesia.txt
+Traceback (most recent call last):
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 292, in main4
+    text_with_info(file_name)
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 252, in text_with_info
+    infa1 = re.match('Puisi (.*?)Hari Puisi Indonesia', filename).group(1)
+AttributeError: 'NoneType' object has no attribute 'group'
+

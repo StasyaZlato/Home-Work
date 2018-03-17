@@ -7,7 +7,7 @@ import sys
 
 
 def create_bd():
-    conn = sqlite3.connect(os.path.join('.', 'authors.sqlite'))
+    conn = sqlite3.connect(os.path.join('.', 'main_bd13_SOS.sqlite'))
     c = conn.cursor()
     c.execute('CREATE TABLE IF NOT EXISTS authors(id_author INTEGER PRIMARY KEY AUTOINCREMENT, author VARCHAR NOT NULL UNIQUE, url VARCHAR NOT NULL UNIQUE)')
     c.execute('CREATE TABLE IF NOT EXISTS poems_info(id_poem INTEGER PRIMARY KEY AUTOINCREMENT, poem_name VARCHAR NOT NULL, poem_url VARCHAR, author VARCHAR NOT NULL)')

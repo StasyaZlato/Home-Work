@@ -1,0 +1,1520 @@
+Puisi Amsterdam Blues - Arrahmaiani - Hari Puisi Indonesia.txt
+Traceback (most recent call last):
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 332, in main5
+    final_cleaning(file_name)
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 316, in final_cleaning
+    mess_splited[3] = re.sub(place + ', ', '', mess_splited[3])
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 191, in sub
+    return _compile(pattern, flags).sub(repl, string, count)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 301, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_compile.py", line 562, in compile
+    p = sre_parse.parse(p, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 855, in parse
+    p = _parse_sub(source, pattern, flags & SRE_FLAG_VERBOSE, 0)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 416, in _parse_sub
+    not nested and not items))
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 768, in _parse
+    source.tell() - start)
+sre_constants.error: missing ), unterminated subpattern at position 14 (line 2, column 2)
+
+Puisi Anakku Memelihara Angsa - Dahta Gautama - Hari Puisi Indonesia.txt
+Traceback (most recent call last):
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 332, in main5
+    final_cleaning(file_name)
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 316, in final_cleaning
+    mess_splited[3] = re.sub(place + ', ', '', mess_splited[3])
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 191, in sub
+    return _compile(pattern, flags).sub(repl, string, count)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 301, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_compile.py", line 562, in compile
+    p = sre_parse.parse(p, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 855, in parse
+    p = _parse_sub(source, pattern, flags & SRE_FLAG_VERBOSE, 0)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 416, in _parse_sub
+    not nested and not items))
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 768, in _parse
+    source.tell() - start)
+sre_constants.error: missing ), unterminated subpattern at position 13 (line 2, column 1)
+
+Puisi Ayunan Cangkul - HR. Bandaharo (1917-1993) - Hari Puisi Indonesia.txt
+Traceback (most recent call last):
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 332, in main5
+    final_cleaning(file_name)
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 316, in final_cleaning
+    mess_splited[3] = re.sub(place + ', ', '', mess_splited[3])
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 191, in sub
+    return _compile(pattern, flags).sub(repl, string, count)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 301, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_compile.py", line 562, in compile
+    p = sre_parse.parse(p, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 855, in parse
+    p = _parse_sub(source, pattern, flags & SRE_FLAG_VERBOSE, 0)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 416, in _parse_sub
+    not nested and not items))
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 768, in _parse
+    source.tell() - start)
+sre_constants.error: missing ), unterminated subpattern at position 0
+
+Puisi Bukit Turi - A. Warits Rovi - Hari Puisi Indonesia.txt
+Traceback (most recent call last):
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 332, in main5
+    final_cleaning(file_name)
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 316, in final_cleaning
+    mess_splited[3] = re.sub(place + ', ', '', mess_splited[3])
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 191, in sub
+    return _compile(pattern, flags).sub(repl, string, count)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 301, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_compile.py", line 562, in compile
+    p = sre_parse.parse(p, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 855, in parse
+    p = _parse_sub(source, pattern, flags & SRE_FLAG_VERBOSE, 0)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 416, in _parse_sub
+    not nested and not items))
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 768, in _parse
+    source.tell() - start)
+sre_constants.error: missing ), unterminated subpattern at position 55 (line 2, column 2)
+
+Puisi Catatan Sel 12 - Hanna Fransisca - Hari Puisi Indonesia.txt
+Traceback (most recent call last):
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 332, in main5
+    final_cleaning(file_name)
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 316, in final_cleaning
+    mess_splited[3] = re.sub(place + ', ', '', mess_splited[3])
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 191, in sub
+    return _compile(pattern, flags).sub(repl, string, count)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 301, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_compile.py", line 562, in compile
+    p = sre_parse.parse(p, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 855, in parse
+    p = _parse_sub(source, pattern, flags & SRE_FLAG_VERBOSE, 0)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 416, in _parse_sub
+    not nested and not items))
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 768, in _parse
+    source.tell() - start)
+sre_constants.error: missing ), unterminated subpattern at position 0
+
+Puisi Cermin - Umi Kulsum - Hari Puisi Indonesia.txt
+Traceback (most recent call last):
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 332, in main5
+    final_cleaning(file_name)
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 316, in final_cleaning
+    mess_splited[3] = re.sub(place + ', ', '', mess_splited[3])
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 191, in sub
+    return _compile(pattern, flags).sub(repl, string, count)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 301, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_compile.py", line 562, in compile
+    p = sre_parse.parse(p, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 855, in parse
+    p = _parse_sub(source, pattern, flags & SRE_FLAG_VERBOSE, 0)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 416, in _parse_sub
+    not nested and not items))
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 768, in _parse
+    source.tell() - start)
+sre_constants.error: missing ), unterminated subpattern at position 15
+
+Puisi Daun-daun Ketapang - Bernard Batubara - Hari Puisi Indonesia.txt
+Traceback (most recent call last):
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 332, in main5
+    final_cleaning(file_name)
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 316, in final_cleaning
+    mess_splited[3] = re.sub(place + ', ', '', mess_splited[3])
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 191, in sub
+    return _compile(pattern, flags).sub(repl, string, count)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 301, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_compile.py", line 562, in compile
+    p = sre_parse.parse(p, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 855, in parse
+    p = _parse_sub(source, pattern, flags & SRE_FLAG_VERBOSE, 0)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 416, in _parse_sub
+    not nested and not items))
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 768, in _parse
+    source.tell() - start)
+sre_constants.error: missing ), unterminated subpattern at position 21 (line 2, column 1)
+
+Puisi Di Kantor Imigrasi - Maman S Mahayana - Hari Puisi Indonesia.txt
+Traceback (most recent call last):
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 332, in main5
+    final_cleaning(file_name)
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 316, in final_cleaning
+    mess_splited[3] = re.sub(place + ', ', '', mess_splited[3])
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 191, in sub
+    return _compile(pattern, flags).sub(repl, string, count)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 301, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_compile.py", line 562, in compile
+    p = sre_parse.parse(p, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 855, in parse
+    p = _parse_sub(source, pattern, flags & SRE_FLAG_VERBOSE, 0)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 416, in _parse_sub
+    not nested and not items))
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 768, in _parse
+    source.tell() - start)
+sre_constants.error: missing ), unterminated subpattern at position 13 (line 2, column 1)
+
+Puisi Di Tukang Cukur - Tjak S. Parlan - Hari Puisi Indonesia.txt
+Traceback (most recent call last):
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 332, in main5
+    final_cleaning(file_name)
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 316, in final_cleaning
+    mess_splited[3] = re.sub(place + ', ', '', mess_splited[3])
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 191, in sub
+    return _compile(pattern, flags).sub(repl, string, count)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 301, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_compile.py", line 562, in compile
+    p = sre_parse.parse(p, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 855, in parse
+    p = _parse_sub(source, pattern, flags & SRE_FLAG_VERBOSE, 0)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 416, in _parse_sub
+    not nested and not items))
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 768, in _parse
+    source.tell() - start)
+sre_constants.error: missing ), unterminated subpattern at position 0
+
+Puisi Gambir - Ratna Ayu Budhiarti - Hari Puisi Indonesia.txt
+Traceback (most recent call last):
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 332, in main5
+    final_cleaning(file_name)
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 316, in final_cleaning
+    mess_splited[3] = re.sub(place + ', ', '', mess_splited[3])
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 191, in sub
+    return _compile(pattern, flags).sub(repl, string, count)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 301, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_compile.py", line 562, in compile
+    p = sre_parse.parse(p, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 855, in parse
+    p = _parse_sub(source, pattern, flags & SRE_FLAG_VERBOSE, 0)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 416, in _parse_sub
+    not nested and not items))
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 768, in _parse
+    source.tell() - start)
+sre_constants.error: missing ), unterminated subpattern at position 7 (line 2, column 1)
+
+Puisi Jenggot Haji Agus Salim - Heru Joni Putra - Hari Puisi Indonesia.txt
+Traceback (most recent call last):
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 332, in main5
+    final_cleaning(file_name)
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 316, in final_cleaning
+    mess_splited[3] = re.sub(place + ', ', '', mess_splited[3])
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 191, in sub
+    return _compile(pattern, flags).sub(repl, string, count)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 301, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_compile.py", line 562, in compile
+    p = sre_parse.parse(p, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 855, in parse
+    p = _parse_sub(source, pattern, flags & SRE_FLAG_VERBOSE, 0)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 416, in _parse_sub
+    not nested and not items))
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 768, in _parse
+    source.tell() - start)
+sre_constants.error: missing ), unterminated subpattern at position 0
+
+Puisi Kaucari-cari Hilang - Sosiawan Leak - Hari Puisi Indonesia.txt
+Traceback (most recent call last):
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 332, in main5
+    final_cleaning(file_name)
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 316, in final_cleaning
+    mess_splited[3] = re.sub(place + ', ', '', mess_splited[3])
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 191, in sub
+    return _compile(pattern, flags).sub(repl, string, count)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 301, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_compile.py", line 562, in compile
+    p = sre_parse.parse(p, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 855, in parse
+    p = _parse_sub(source, pattern, flags & SRE_FLAG_VERBOSE, 0)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 416, in _parse_sub
+    not nested and not items))
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 768, in _parse
+    source.tell() - start)
+sre_constants.error: missing ), unterminated subpattern at position 0
+
+Puisi Kembang Putih di Atas Perahu - Benny Arnas (l. 1983) - Hari Puisi Indonesia.txt
+Traceback (most recent call last):
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 332, in main5
+    final_cleaning(file_name)
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 316, in final_cleaning
+    mess_splited[3] = re.sub(place + ', ', '', mess_splited[3])
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 191, in sub
+    return _compile(pattern, flags).sub(repl, string, count)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 301, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_compile.py", line 562, in compile
+    p = sre_parse.parse(p, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 855, in parse
+    p = _parse_sub(source, pattern, flags & SRE_FLAG_VERBOSE, 0)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 416, in _parse_sub
+    not nested and not items))
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 768, in _parse
+    source.tell() - start)
+sre_constants.error: missing ), unterminated subpattern at position 0
+
+Puisi Kerbau di Toraja - Husni Djamaluddin - Hari Puisi Indonesia.txt
+Traceback (most recent call last):
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 332, in main5
+    final_cleaning(file_name)
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 316, in final_cleaning
+    mess_splited[3] = re.sub(place + ', ', '', mess_splited[3])
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 191, in sub
+    return _compile(pattern, flags).sub(repl, string, count)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 301, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_compile.py", line 562, in compile
+    p = sre_parse.parse(p, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 855, in parse
+    p = _parse_sub(source, pattern, flags & SRE_FLAG_VERBOSE, 0)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 416, in _parse_sub
+    not nested and not items))
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 768, in _parse
+    source.tell() - start)
+sre_constants.error: missing ), unterminated subpattern at position 18 (line 2, column 2)
+
+Puisi Kesaksian Seorang Murid - Mario F Lawi - Hari Puisi Indonesia.txt
+Traceback (most recent call last):
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 332, in main5
+    final_cleaning(file_name)
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 316, in final_cleaning
+    mess_splited[3] = re.sub(place + ', ', '', mess_splited[3])
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 191, in sub
+    return _compile(pattern, flags).sub(repl, string, count)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 301, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_compile.py", line 562, in compile
+    p = sre_parse.parse(p, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 855, in parse
+    p = _parse_sub(source, pattern, flags & SRE_FLAG_VERBOSE, 0)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 416, in _parse_sub
+    not nested and not items))
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 768, in _parse
+    source.tell() - start)
+sre_constants.error: missing ), unterminated subpattern at position 0
+
+Puisi Kucari Jawab - J.E. Tatengkeng (1907-1968) - Hari Puisi Indonesia.txt
+Traceback (most recent call last):
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 332, in main5
+    final_cleaning(file_name)
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 316, in final_cleaning
+    mess_splited[3] = re.sub(place + ', ', '', mess_splited[3])
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 191, in sub
+    return _compile(pattern, flags).sub(repl, string, count)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 301, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_compile.py", line 562, in compile
+    p = sre_parse.parse(p, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 855, in parse
+    p = _parse_sub(source, pattern, flags & SRE_FLAG_VERBOSE, 0)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 416, in _parse_sub
+    not nested and not items))
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 768, in _parse
+    source.tell() - start)
+sre_constants.error: missing ), unterminated subpattern at position 14 (line 2, column 2)
+
+Puisi Kwatrin-Kwatrin Pagi di Bali - Linus Suryadi AG (1951-1999) - Hari Puisi Indonesia.txt
+Traceback (most recent call last):
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 332, in main5
+    final_cleaning(file_name)
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 316, in final_cleaning
+    mess_splited[3] = re.sub(place + ', ', '', mess_splited[3])
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 191, in sub
+    return _compile(pattern, flags).sub(repl, string, count)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 301, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_compile.py", line 562, in compile
+    p = sre_parse.parse(p, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 855, in parse
+    p = _parse_sub(source, pattern, flags & SRE_FLAG_VERBOSE, 0)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 416, in _parse_sub
+    not nested and not items))
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 768, in _parse
+    source.tell() - start)
+sre_constants.error: missing ), unterminated subpattern at position 16 (line 2, column 2)
+
+Puisi Layang-Layang - A. Warits Rovi - Hari Puisi Indonesia.txt
+Traceback (most recent call last):
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 332, in main5
+    final_cleaning(file_name)
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 316, in final_cleaning
+    mess_splited[3] = re.sub(place + ', ', '', mess_splited[3])
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 191, in sub
+    return _compile(pattern, flags).sub(repl, string, count)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 301, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_compile.py", line 562, in compile
+    p = sre_parse.parse(p, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 855, in parse
+    p = _parse_sub(source, pattern, flags & SRE_FLAG_VERBOSE, 0)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 416, in _parse_sub
+    not nested and not items))
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 768, in _parse
+    source.tell() - start)
+sre_constants.error: missing ), unterminated subpattern at position 46 (line 2, column 2)
+
+Puisi Lelaki yang Membaringkan Rindunya di Aspal Basah - Khrisna Pabichara - Hari Puisi Indonesia.txt
+Traceback (most recent call last):
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 332, in main5
+    final_cleaning(file_name)
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 316, in final_cleaning
+    mess_splited[3] = re.sub(place + ', ', '', mess_splited[3])
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 191, in sub
+    return _compile(pattern, flags).sub(repl, string, count)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 301, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_compile.py", line 562, in compile
+    p = sre_parse.parse(p, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 855, in parse
+    p = _parse_sub(source, pattern, flags & SRE_FLAG_VERBOSE, 0)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 416, in _parse_sub
+    not nested and not items))
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 768, in _parse
+    source.tell() - start)
+sre_constants.error: missing ), unterminated subpattern at position 51 (line 2, column 2)
+
+Puisi Membuka Jendela - Syarifuddin Arifin - Hari Puisi Indonesia.txt
+Traceback (most recent call last):
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 332, in main5
+    final_cleaning(file_name)
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 316, in final_cleaning
+    mess_splited[3] = re.sub(place + ', ', '', mess_splited[3])
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 191, in sub
+    return _compile(pattern, flags).sub(repl, string, count)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 301, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_compile.py", line 562, in compile
+    p = sre_parse.parse(p, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 855, in parse
+    p = _parse_sub(source, pattern, flags & SRE_FLAG_VERBOSE, 0)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 416, in _parse_sub
+    not nested and not items))
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 768, in _parse
+    source.tell() - start)
+sre_constants.error: missing ), unterminated subpattern at position 0
+
+Puisi Migrasi - Gol A Gong - Hari Puisi Indonesia.txt
+Traceback (most recent call last):
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 332, in main5
+    final_cleaning(file_name)
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 316, in final_cleaning
+    mess_splited[3] = re.sub(place + ', ', '', mess_splited[3])
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 191, in sub
+    return _compile(pattern, flags).sub(repl, string, count)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 301, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_compile.py", line 562, in compile
+    p = sre_parse.parse(p, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 855, in parse
+    p = _parse_sub(source, pattern, flags & SRE_FLAG_VERBOSE, 0)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 416, in _parse_sub
+    not nested and not items))
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 616, in _parse
+    source.tell() - here + len(this))
+sre_constants.error: nothing to repeat at position 0
+
+Puisi Monolog Ibu - Umi Kulsum - Hari Puisi Indonesia.txt
+Traceback (most recent call last):
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 332, in main5
+    final_cleaning(file_name)
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 316, in final_cleaning
+    mess_splited[3] = re.sub(place + ', ', '', mess_splited[3])
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 191, in sub
+    return _compile(pattern, flags).sub(repl, string, count)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 301, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_compile.py", line 562, in compile
+    p = sre_parse.parse(p, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 855, in parse
+    p = _parse_sub(source, pattern, flags & SRE_FLAG_VERBOSE, 0)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 416, in _parse_sub
+    not nested and not items))
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 768, in _parse
+    source.tell() - start)
+sre_constants.error: missing ), unterminated subpattern at position 16 (line 2, column 2)
+
+Puisi Orang Rantai - Pranita Dewi - Hari Puisi Indonesia.txt
+Traceback (most recent call last):
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 332, in main5
+    final_cleaning(file_name)
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 316, in final_cleaning
+    mess_splited[3] = re.sub(place + ', ', '', mess_splited[3])
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 191, in sub
+    return _compile(pattern, flags).sub(repl, string, count)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 301, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_compile.py", line 562, in compile
+    p = sre_parse.parse(p, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 855, in parse
+    p = _parse_sub(source, pattern, flags & SRE_FLAG_VERBOSE, 0)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 416, in _parse_sub
+    not nested and not items))
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 768, in _parse
+    source.tell() - start)
+sre_constants.error: missing ), unterminated subpattern at position 45 (line 2, column 1)
+
+Puisi Paspor Nenek - Sunlie Thomas Alexander - Hari Puisi Indonesia.txt
+Traceback (most recent call last):
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 332, in main5
+    final_cleaning(file_name)
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 316, in final_cleaning
+    mess_splited[3] = re.sub(place + ', ', '', mess_splited[3])
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 191, in sub
+    return _compile(pattern, flags).sub(repl, string, count)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 301, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_compile.py", line 562, in compile
+    p = sre_parse.parse(p, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 855, in parse
+    p = _parse_sub(source, pattern, flags & SRE_FLAG_VERBOSE, 0)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 416, in _parse_sub
+    not nested and not items))
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 616, in _parse
+    source.tell() - here + len(this))
+sre_constants.error: nothing to repeat at position 0
+
+Puisi Pelaut Muda - D Zawawi Imron - Hari Puisi Indonesia.txt
+Traceback (most recent call last):
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 332, in main5
+    final_cleaning(file_name)
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 316, in final_cleaning
+    mess_splited[3] = re.sub(place + ', ', '', mess_splited[3])
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 191, in sub
+    return _compile(pattern, flags).sub(repl, string, count)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 301, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_compile.py", line 562, in compile
+    p = sre_parse.parse(p, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 855, in parse
+    p = _parse_sub(source, pattern, flags & SRE_FLAG_VERBOSE, 0)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 416, in _parse_sub
+    not nested and not items))
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 768, in _parse
+    source.tell() - start)
+sre_constants.error: missing ), unterminated subpattern at position 32 (line 2, column 2)
+
+Puisi Penata Peniti - Kiki Sulistyo - Hari Puisi Indonesia.txt
+Traceback (most recent call last):
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 332, in main5
+    final_cleaning(file_name)
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 316, in final_cleaning
+    mess_splited[3] = re.sub(place + ', ', '', mess_splited[3])
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 191, in sub
+    return _compile(pattern, flags).sub(repl, string, count)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 301, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_compile.py", line 562, in compile
+    p = sre_parse.parse(p, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 855, in parse
+    p = _parse_sub(source, pattern, flags & SRE_FLAG_VERBOSE, 0)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 416, in _parse_sub
+    not nested and not items))
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 768, in _parse
+    source.tell() - start)
+sre_constants.error: missing ), unterminated subpattern at position 0
+
+Puisi Pencari Jembatan - Adri Sanda - Hari Puisi Indonesia.txt
+Traceback (most recent call last):
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 332, in main5
+    final_cleaning(file_name)
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 316, in final_cleaning
+    mess_splited[3] = re.sub(place + ', ', '', mess_splited[3])
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 191, in sub
+    return _compile(pattern, flags).sub(repl, string, count)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 301, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_compile.py", line 562, in compile
+    p = sre_parse.parse(p, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 855, in parse
+    p = _parse_sub(source, pattern, flags & SRE_FLAG_VERBOSE, 0)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 416, in _parse_sub
+    not nested and not items))
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 768, in _parse
+    source.tell() - start)
+sre_constants.error: missing ), unterminated subpattern at position 0
+
+Puisi Percakapan Angin dan Jendela - Alizar Tanjung - Hari Puisi Indonesia.txt
+Traceback (most recent call last):
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 332, in main5
+    final_cleaning(file_name)
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 316, in final_cleaning
+    mess_splited[3] = re.sub(place + ', ', '', mess_splited[3])
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 191, in sub
+    return _compile(pattern, flags).sub(repl, string, count)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 301, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_compile.py", line 562, in compile
+    p = sre_parse.parse(p, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 855, in parse
+    p = _parse_sub(source, pattern, flags & SRE_FLAG_VERBOSE, 0)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 416, in _parse_sub
+    not nested and not items))
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 768, in _parse
+    source.tell() - start)
+sre_constants.error: missing ), unterminated subpattern at position 0
+
+Puisi Rahasia Masa - Radhar Panca Dahana - Hari Puisi Indonesia.txt
+Traceback (most recent call last):
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 332, in main5
+    final_cleaning(file_name)
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 316, in final_cleaning
+    mess_splited[3] = re.sub(place + ', ', '', mess_splited[3])
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 191, in sub
+    return _compile(pattern, flags).sub(repl, string, count)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 301, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_compile.py", line 562, in compile
+    p = sre_parse.parse(p, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 855, in parse
+    p = _parse_sub(source, pattern, flags & SRE_FLAG_VERBOSE, 0)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 416, in _parse_sub
+    not nested and not items))
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 768, in _parse
+    source.tell() - start)
+sre_constants.error: missing ), unterminated subpattern at position 10 (line 2, column 2)
+
+Puisi Sang Penyair - Saini K.M. - Hari Puisi Indonesia.txt
+Traceback (most recent call last):
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 332, in main5
+    final_cleaning(file_name)
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 316, in final_cleaning
+    mess_splited[3] = re.sub(place + ', ', '', mess_splited[3])
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 191, in sub
+    return _compile(pattern, flags).sub(repl, string, count)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 301, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_compile.py", line 562, in compile
+    p = sre_parse.parse(p, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 855, in parse
+    p = _parse_sub(source, pattern, flags & SRE_FLAG_VERBOSE, 0)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 416, in _parse_sub
+    not nested and not items))
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 768, in _parse
+    source.tell() - start)
+sre_constants.error: missing ), unterminated subpattern at position 20 (line 2, column 2)
+
+Puisi Sebab Dikau - Amir Hamzah (1911-1946) - Hari Puisi Indonesia.txt
+Traceback (most recent call last):
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 332, in main5
+    final_cleaning(file_name)
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 316, in final_cleaning
+    mess_splited[3] = re.sub(place + ', ', '', mess_splited[3])
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 191, in sub
+    return _compile(pattern, flags).sub(repl, string, count)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 301, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_compile.py", line 562, in compile
+    p = sre_parse.parse(p, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 855, in parse
+    p = _parse_sub(source, pattern, flags & SRE_FLAG_VERBOSE, 0)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 416, in _parse_sub
+    not nested and not items))
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 768, in _parse
+    source.tell() - start)
+sre_constants.error: missing ), unterminated subpattern at position 39 (line 2, column 1)
+
+Puisi Seindah Ini - Sutan Takdir Alisjahbana (1908-1994) - Hari Puisi Indonesia.txt
+Traceback (most recent call last):
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 332, in main5
+    final_cleaning(file_name)
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 316, in final_cleaning
+    mess_splited[3] = re.sub(place + ', ', '', mess_splited[3])
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 191, in sub
+    return _compile(pattern, flags).sub(repl, string, count)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 301, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_compile.py", line 562, in compile
+    p = sre_parse.parse(p, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 855, in parse
+    p = _parse_sub(source, pattern, flags & SRE_FLAG_VERBOSE, 0)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 416, in _parse_sub
+    not nested and not items))
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 616, in _parse
+    source.tell() - here + len(this))
+sre_constants.error: nothing to repeat at position 0
+
+Puisi Seorang Insinyur di Puncak Bukit - Saini KM - Hari Puisi Indonesia.txt
+Traceback (most recent call last):
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 332, in main5
+    final_cleaning(file_name)
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 316, in final_cleaning
+    mess_splited[3] = re.sub(place + ', ', '', mess_splited[3])
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 191, in sub
+    return _compile(pattern, flags).sub(repl, string, count)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 301, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_compile.py", line 562, in compile
+    p = sre_parse.parse(p, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 855, in parse
+    p = _parse_sub(source, pattern, flags & SRE_FLAG_VERBOSE, 0)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 416, in _parse_sub
+    not nested and not items))
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 768, in _parse
+    source.tell() - start)
+sre_constants.error: missing ), unterminated subpattern at position 20 (line 2, column 2)
+
+Puisi Seperti Apa Rasanya Jatuh dari Cinta - Benny Arnas (l. 1983) - Hari Puisi Indonesia.txt
+Traceback (most recent call last):
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 332, in main5
+    final_cleaning(file_name)
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 316, in final_cleaning
+    mess_splited[3] = re.sub(place + ', ', '', mess_splited[3])
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 191, in sub
+    return _compile(pattern, flags).sub(repl, string, count)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 301, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_compile.py", line 562, in compile
+    p = sre_parse.parse(p, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 855, in parse
+    p = _parse_sub(source, pattern, flags & SRE_FLAG_VERBOSE, 0)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 416, in _parse_sub
+    not nested and not items))
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 768, in _parse
+    source.tell() - start)
+sre_constants.error: missing ), unterminated subpattern at position 0
+
+Puisi Suluk Awang-Uwung, 2 - Kuntowijoyo (1943-2005) - Hari Puisi Indonesia.txt
+Traceback (most recent call last):
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 332, in main5
+    final_cleaning(file_name)
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 316, in final_cleaning
+    mess_splited[3] = re.sub(place + ', ', '', mess_splited[3])
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 191, in sub
+    return _compile(pattern, flags).sub(repl, string, count)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 301, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_compile.py", line 562, in compile
+    p = sre_parse.parse(p, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 855, in parse
+    p = _parse_sub(source, pattern, flags & SRE_FLAG_VERBOSE, 0)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 416, in _parse_sub
+    not nested and not items))
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 768, in _parse
+    source.tell() - start)
+sre_constants.error: missing ), unterminated subpattern at position 19 (line 2, column 1)
+
+Puisi Sydney - Linus Suryadi AG (1951-1999) - Hari Puisi Indonesia.txt
+Traceback (most recent call last):
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 332, in main5
+    final_cleaning(file_name)
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 316, in final_cleaning
+    mess_splited[3] = re.sub(place + ', ', '', mess_splited[3])
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 191, in sub
+    return _compile(pattern, flags).sub(repl, string, count)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 301, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_compile.py", line 562, in compile
+    p = sre_parse.parse(p, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 855, in parse
+    p = _parse_sub(source, pattern, flags & SRE_FLAG_VERBOSE, 0)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 416, in _parse_sub
+    not nested and not items))
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 768, in _parse
+    source.tell() - start)
+sre_constants.error: missing ), unterminated subpattern at position 17 (line 2, column 2)
+
+Puisi Via Dolorosa - Gerson Poyk - Hari Puisi Indonesia.txt
+Traceback (most recent call last):
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 332, in main5
+    final_cleaning(file_name)
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 316, in final_cleaning
+    mess_splited[3] = re.sub(place + ', ', '', mess_splited[3])
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 191, in sub
+    return _compile(pattern, flags).sub(repl, string, count)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 301, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_compile.py", line 562, in compile
+    p = sre_parse.parse(p, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 855, in parse
+    p = _parse_sub(source, pattern, flags & SRE_FLAG_VERBOSE, 0)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 416, in _parse_sub
+    not nested and not items))
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 768, in _parse
+    source.tell() - start)
+sre_constants.error: missing ), unterminated subpattern at position 19 (line 2, column 2)
+
+Puisi Vina Dad Mon Para Moya - Dino F Umahuk - Hari Puisi Indonesia.txt
+Traceback (most recent call last):
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 332, in main5
+    final_cleaning(file_name)
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 316, in final_cleaning
+    mess_splited[3] = re.sub(place + ', ', '', mess_splited[3])
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 191, in sub
+    return _compile(pattern, flags).sub(repl, string, count)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 301, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_compile.py", line 562, in compile
+    p = sre_parse.parse(p, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 855, in parse
+    p = _parse_sub(source, pattern, flags & SRE_FLAG_VERBOSE, 0)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 416, in _parse_sub
+    not nested and not items))
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 768, in _parse
+    source.tell() - start)
+sre_constants.error: missing ), unterminated subpattern at position 25 (line 2, column 2)
+
+Puisi Amsterdam Blues - Arrahmaiani - Hari Puisi Indonesia.txt
+Traceback (most recent call last):
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 339, in main5
+    final_cleaning(file_name)
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 316, in final_cleaning
+    mess_splited[3] = re.sub(place + ', ', '', mess_splited[3])
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 191, in sub
+    return _compile(pattern, flags).sub(repl, string, count)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 301, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_compile.py", line 562, in compile
+    p = sre_parse.parse(p, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 855, in parse
+    p = _parse_sub(source, pattern, flags & SRE_FLAG_VERBOSE, 0)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 416, in _parse_sub
+    not nested and not items))
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 768, in _parse
+    source.tell() - start)
+sre_constants.error: missing ), unterminated subpattern at position 14 (line 2, column 2)
+
+Puisi Anakku Memelihara Angsa - Dahta Gautama - Hari Puisi Indonesia.txt
+Traceback (most recent call last):
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 339, in main5
+    final_cleaning(file_name)
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 316, in final_cleaning
+    mess_splited[3] = re.sub(place + ', ', '', mess_splited[3])
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 191, in sub
+    return _compile(pattern, flags).sub(repl, string, count)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 301, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_compile.py", line 562, in compile
+    p = sre_parse.parse(p, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 855, in parse
+    p = _parse_sub(source, pattern, flags & SRE_FLAG_VERBOSE, 0)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 416, in _parse_sub
+    not nested and not items))
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 768, in _parse
+    source.tell() - start)
+sre_constants.error: missing ), unterminated subpattern at position 13 (line 2, column 1)
+
+Puisi Ayunan Cangkul - HR. Bandaharo (1917-1993) - Hari Puisi Indonesia.txt
+Traceback (most recent call last):
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 339, in main5
+    final_cleaning(file_name)
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 316, in final_cleaning
+    mess_splited[3] = re.sub(place + ', ', '', mess_splited[3])
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 191, in sub
+    return _compile(pattern, flags).sub(repl, string, count)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 301, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_compile.py", line 562, in compile
+    p = sre_parse.parse(p, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 855, in parse
+    p = _parse_sub(source, pattern, flags & SRE_FLAG_VERBOSE, 0)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 416, in _parse_sub
+    not nested and not items))
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 768, in _parse
+    source.tell() - start)
+sre_constants.error: missing ), unterminated subpattern at position 0
+
+Puisi Bukit Turi - A. Warits Rovi - Hari Puisi Indonesia.txt
+Traceback (most recent call last):
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 339, in main5
+    final_cleaning(file_name)
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 316, in final_cleaning
+    mess_splited[3] = re.sub(place + ', ', '', mess_splited[3])
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 191, in sub
+    return _compile(pattern, flags).sub(repl, string, count)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 301, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_compile.py", line 562, in compile
+    p = sre_parse.parse(p, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 855, in parse
+    p = _parse_sub(source, pattern, flags & SRE_FLAG_VERBOSE, 0)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 416, in _parse_sub
+    not nested and not items))
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 768, in _parse
+    source.tell() - start)
+sre_constants.error: missing ), unterminated subpattern at position 55 (line 2, column 2)
+
+Puisi Catatan Sel 12 - Hanna Fransisca - Hari Puisi Indonesia.txt
+Traceback (most recent call last):
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 339, in main5
+    final_cleaning(file_name)
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 316, in final_cleaning
+    mess_splited[3] = re.sub(place + ', ', '', mess_splited[3])
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 191, in sub
+    return _compile(pattern, flags).sub(repl, string, count)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 301, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_compile.py", line 562, in compile
+    p = sre_parse.parse(p, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 855, in parse
+    p = _parse_sub(source, pattern, flags & SRE_FLAG_VERBOSE, 0)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 416, in _parse_sub
+    not nested and not items))
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 768, in _parse
+    source.tell() - start)
+sre_constants.error: missing ), unterminated subpattern at position 0
+
+Puisi Cermin - Umi Kulsum - Hari Puisi Indonesia.txt
+Traceback (most recent call last):
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 339, in main5
+    final_cleaning(file_name)
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 316, in final_cleaning
+    mess_splited[3] = re.sub(place + ', ', '', mess_splited[3])
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 191, in sub
+    return _compile(pattern, flags).sub(repl, string, count)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 301, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_compile.py", line 562, in compile
+    p = sre_parse.parse(p, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 855, in parse
+    p = _parse_sub(source, pattern, flags & SRE_FLAG_VERBOSE, 0)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 416, in _parse_sub
+    not nested and not items))
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 768, in _parse
+    source.tell() - start)
+sre_constants.error: missing ), unterminated subpattern at position 15
+
+Puisi Daun-daun Ketapang - Bernard Batubara - Hari Puisi Indonesia.txt
+Traceback (most recent call last):
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 339, in main5
+    final_cleaning(file_name)
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 316, in final_cleaning
+    mess_splited[3] = re.sub(place + ', ', '', mess_splited[3])
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 191, in sub
+    return _compile(pattern, flags).sub(repl, string, count)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 301, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_compile.py", line 562, in compile
+    p = sre_parse.parse(p, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 855, in parse
+    p = _parse_sub(source, pattern, flags & SRE_FLAG_VERBOSE, 0)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 416, in _parse_sub
+    not nested and not items))
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 768, in _parse
+    source.tell() - start)
+sre_constants.error: missing ), unterminated subpattern at position 21 (line 2, column 1)
+
+Puisi Di Kantor Imigrasi - Maman S Mahayana - Hari Puisi Indonesia.txt
+Traceback (most recent call last):
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 339, in main5
+    final_cleaning(file_name)
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 316, in final_cleaning
+    mess_splited[3] = re.sub(place + ', ', '', mess_splited[3])
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 191, in sub
+    return _compile(pattern, flags).sub(repl, string, count)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 301, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_compile.py", line 562, in compile
+    p = sre_parse.parse(p, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 855, in parse
+    p = _parse_sub(source, pattern, flags & SRE_FLAG_VERBOSE, 0)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 416, in _parse_sub
+    not nested and not items))
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 768, in _parse
+    source.tell() - start)
+sre_constants.error: missing ), unterminated subpattern at position 13 (line 2, column 1)
+
+Puisi Di Tukang Cukur - Tjak S. Parlan - Hari Puisi Indonesia.txt
+Traceback (most recent call last):
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 339, in main5
+    final_cleaning(file_name)
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 316, in final_cleaning
+    mess_splited[3] = re.sub(place + ', ', '', mess_splited[3])
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 191, in sub
+    return _compile(pattern, flags).sub(repl, string, count)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 301, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_compile.py", line 562, in compile
+    p = sre_parse.parse(p, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 855, in parse
+    p = _parse_sub(source, pattern, flags & SRE_FLAG_VERBOSE, 0)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 416, in _parse_sub
+    not nested and not items))
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 768, in _parse
+    source.tell() - start)
+sre_constants.error: missing ), unterminated subpattern at position 0
+
+Puisi Gambir - Ratna Ayu Budhiarti - Hari Puisi Indonesia.txt
+Traceback (most recent call last):
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 339, in main5
+    final_cleaning(file_name)
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 316, in final_cleaning
+    mess_splited[3] = re.sub(place + ', ', '', mess_splited[3])
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 191, in sub
+    return _compile(pattern, flags).sub(repl, string, count)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 301, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_compile.py", line 562, in compile
+    p = sre_parse.parse(p, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 855, in parse
+    p = _parse_sub(source, pattern, flags & SRE_FLAG_VERBOSE, 0)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 416, in _parse_sub
+    not nested and not items))
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 768, in _parse
+    source.tell() - start)
+sre_constants.error: missing ), unterminated subpattern at position 7 (line 2, column 1)
+
+Puisi Jenggot Haji Agus Salim - Heru Joni Putra - Hari Puisi Indonesia.txt
+Traceback (most recent call last):
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 339, in main5
+    final_cleaning(file_name)
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 316, in final_cleaning
+    mess_splited[3] = re.sub(place + ', ', '', mess_splited[3])
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 191, in sub
+    return _compile(pattern, flags).sub(repl, string, count)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 301, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_compile.py", line 562, in compile
+    p = sre_parse.parse(p, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 855, in parse
+    p = _parse_sub(source, pattern, flags & SRE_FLAG_VERBOSE, 0)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 416, in _parse_sub
+    not nested and not items))
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 768, in _parse
+    source.tell() - start)
+sre_constants.error: missing ), unterminated subpattern at position 0
+
+Puisi Kaucari-cari Hilang - Sosiawan Leak - Hari Puisi Indonesia.txt
+Traceback (most recent call last):
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 339, in main5
+    final_cleaning(file_name)
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 316, in final_cleaning
+    mess_splited[3] = re.sub(place + ', ', '', mess_splited[3])
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 191, in sub
+    return _compile(pattern, flags).sub(repl, string, count)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 301, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_compile.py", line 562, in compile
+    p = sre_parse.parse(p, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 855, in parse
+    p = _parse_sub(source, pattern, flags & SRE_FLAG_VERBOSE, 0)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 416, in _parse_sub
+    not nested and not items))
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 768, in _parse
+    source.tell() - start)
+sre_constants.error: missing ), unterminated subpattern at position 0
+
+Puisi Kembang Putih di Atas Perahu - Benny Arnas (l. 1983) - Hari Puisi Indonesia.txt
+Traceback (most recent call last):
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 339, in main5
+    final_cleaning(file_name)
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 316, in final_cleaning
+    mess_splited[3] = re.sub(place + ', ', '', mess_splited[3])
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 191, in sub
+    return _compile(pattern, flags).sub(repl, string, count)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 301, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_compile.py", line 562, in compile
+    p = sre_parse.parse(p, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 855, in parse
+    p = _parse_sub(source, pattern, flags & SRE_FLAG_VERBOSE, 0)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 416, in _parse_sub
+    not nested and not items))
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 768, in _parse
+    source.tell() - start)
+sre_constants.error: missing ), unterminated subpattern at position 0
+
+Puisi Kerbau di Toraja - Husni Djamaluddin - Hari Puisi Indonesia.txt
+Traceback (most recent call last):
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 339, in main5
+    final_cleaning(file_name)
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 316, in final_cleaning
+    mess_splited[3] = re.sub(place + ', ', '', mess_splited[3])
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 191, in sub
+    return _compile(pattern, flags).sub(repl, string, count)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 301, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_compile.py", line 562, in compile
+    p = sre_parse.parse(p, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 855, in parse
+    p = _parse_sub(source, pattern, flags & SRE_FLAG_VERBOSE, 0)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 416, in _parse_sub
+    not nested and not items))
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 768, in _parse
+    source.tell() - start)
+sre_constants.error: missing ), unterminated subpattern at position 18 (line 2, column 2)
+
+Puisi Kesaksian Seorang Murid - Mario F Lawi - Hari Puisi Indonesia.txt
+Traceback (most recent call last):
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 339, in main5
+    final_cleaning(file_name)
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 316, in final_cleaning
+    mess_splited[3] = re.sub(place + ', ', '', mess_splited[3])
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 191, in sub
+    return _compile(pattern, flags).sub(repl, string, count)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 301, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_compile.py", line 562, in compile
+    p = sre_parse.parse(p, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 855, in parse
+    p = _parse_sub(source, pattern, flags & SRE_FLAG_VERBOSE, 0)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 416, in _parse_sub
+    not nested and not items))
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 768, in _parse
+    source.tell() - start)
+sre_constants.error: missing ), unterminated subpattern at position 0
+
+Puisi Kucari Jawab - J.E. Tatengkeng (1907-1968) - Hari Puisi Indonesia.txt
+Traceback (most recent call last):
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 339, in main5
+    final_cleaning(file_name)
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 316, in final_cleaning
+    mess_splited[3] = re.sub(place + ', ', '', mess_splited[3])
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 191, in sub
+    return _compile(pattern, flags).sub(repl, string, count)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 301, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_compile.py", line 562, in compile
+    p = sre_parse.parse(p, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 855, in parse
+    p = _parse_sub(source, pattern, flags & SRE_FLAG_VERBOSE, 0)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 416, in _parse_sub
+    not nested and not items))
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 768, in _parse
+    source.tell() - start)
+sre_constants.error: missing ), unterminated subpattern at position 14 (line 2, column 2)
+
+Puisi Kwatrin-Kwatrin Pagi di Bali - Linus Suryadi AG (1951-1999) - Hari Puisi Indonesia.txt
+Traceback (most recent call last):
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 339, in main5
+    final_cleaning(file_name)
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 316, in final_cleaning
+    mess_splited[3] = re.sub(place + ', ', '', mess_splited[3])
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 191, in sub
+    return _compile(pattern, flags).sub(repl, string, count)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 301, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_compile.py", line 562, in compile
+    p = sre_parse.parse(p, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 855, in parse
+    p = _parse_sub(source, pattern, flags & SRE_FLAG_VERBOSE, 0)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 416, in _parse_sub
+    not nested and not items))
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 768, in _parse
+    source.tell() - start)
+sre_constants.error: missing ), unterminated subpattern at position 16 (line 2, column 2)
+
+Puisi Layang-Layang - A. Warits Rovi - Hari Puisi Indonesia.txt
+Traceback (most recent call last):
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 339, in main5
+    final_cleaning(file_name)
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 316, in final_cleaning
+    mess_splited[3] = re.sub(place + ', ', '', mess_splited[3])
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 191, in sub
+    return _compile(pattern, flags).sub(repl, string, count)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 301, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_compile.py", line 562, in compile
+    p = sre_parse.parse(p, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 855, in parse
+    p = _parse_sub(source, pattern, flags & SRE_FLAG_VERBOSE, 0)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 416, in _parse_sub
+    not nested and not items))
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 768, in _parse
+    source.tell() - start)
+sre_constants.error: missing ), unterminated subpattern at position 46 (line 2, column 2)
+
+Puisi Lelaki yang Membaringkan Rindunya di Aspal Basah - Khrisna Pabichara - Hari Puisi Indonesia.txt
+Traceback (most recent call last):
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 339, in main5
+    final_cleaning(file_name)
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 316, in final_cleaning
+    mess_splited[3] = re.sub(place + ', ', '', mess_splited[3])
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 191, in sub
+    return _compile(pattern, flags).sub(repl, string, count)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 301, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_compile.py", line 562, in compile
+    p = sre_parse.parse(p, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 855, in parse
+    p = _parse_sub(source, pattern, flags & SRE_FLAG_VERBOSE, 0)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 416, in _parse_sub
+    not nested and not items))
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 768, in _parse
+    source.tell() - start)
+sre_constants.error: missing ), unterminated subpattern at position 51 (line 2, column 2)
+
+Puisi Membuka Jendela - Syarifuddin Arifin - Hari Puisi Indonesia.txt
+Traceback (most recent call last):
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 339, in main5
+    final_cleaning(file_name)
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 316, in final_cleaning
+    mess_splited[3] = re.sub(place + ', ', '', mess_splited[3])
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 191, in sub
+    return _compile(pattern, flags).sub(repl, string, count)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 301, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_compile.py", line 562, in compile
+    p = sre_parse.parse(p, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 855, in parse
+    p = _parse_sub(source, pattern, flags & SRE_FLAG_VERBOSE, 0)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 416, in _parse_sub
+    not nested and not items))
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 768, in _parse
+    source.tell() - start)
+sre_constants.error: missing ), unterminated subpattern at position 0
+
+Puisi Migrasi - Gol A Gong - Hari Puisi Indonesia.txt
+Traceback (most recent call last):
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 339, in main5
+    final_cleaning(file_name)
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 316, in final_cleaning
+    mess_splited[3] = re.sub(place + ', ', '', mess_splited[3])
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 191, in sub
+    return _compile(pattern, flags).sub(repl, string, count)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 301, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_compile.py", line 562, in compile
+    p = sre_parse.parse(p, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 855, in parse
+    p = _parse_sub(source, pattern, flags & SRE_FLAG_VERBOSE, 0)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 416, in _parse_sub
+    not nested and not items))
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 616, in _parse
+    source.tell() - here + len(this))
+sre_constants.error: nothing to repeat at position 0
+
+Puisi Monolog Ibu - Umi Kulsum - Hari Puisi Indonesia.txt
+Traceback (most recent call last):
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 339, in main5
+    final_cleaning(file_name)
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 316, in final_cleaning
+    mess_splited[3] = re.sub(place + ', ', '', mess_splited[3])
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 191, in sub
+    return _compile(pattern, flags).sub(repl, string, count)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 301, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_compile.py", line 562, in compile
+    p = sre_parse.parse(p, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 855, in parse
+    p = _parse_sub(source, pattern, flags & SRE_FLAG_VERBOSE, 0)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 416, in _parse_sub
+    not nested and not items))
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 768, in _parse
+    source.tell() - start)
+sre_constants.error: missing ), unterminated subpattern at position 16 (line 2, column 2)
+
+Puisi Orang Rantai - Pranita Dewi - Hari Puisi Indonesia.txt
+Traceback (most recent call last):
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 339, in main5
+    final_cleaning(file_name)
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 316, in final_cleaning
+    mess_splited[3] = re.sub(place + ', ', '', mess_splited[3])
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 191, in sub
+    return _compile(pattern, flags).sub(repl, string, count)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 301, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_compile.py", line 562, in compile
+    p = sre_parse.parse(p, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 855, in parse
+    p = _parse_sub(source, pattern, flags & SRE_FLAG_VERBOSE, 0)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 416, in _parse_sub
+    not nested and not items))
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 768, in _parse
+    source.tell() - start)
+sre_constants.error: missing ), unterminated subpattern at position 45 (line 2, column 1)
+
+Puisi Paspor Nenek - Sunlie Thomas Alexander - Hari Puisi Indonesia.txt
+Traceback (most recent call last):
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 339, in main5
+    final_cleaning(file_name)
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 316, in final_cleaning
+    mess_splited[3] = re.sub(place + ', ', '', mess_splited[3])
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 191, in sub
+    return _compile(pattern, flags).sub(repl, string, count)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 301, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_compile.py", line 562, in compile
+    p = sre_parse.parse(p, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 855, in parse
+    p = _parse_sub(source, pattern, flags & SRE_FLAG_VERBOSE, 0)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 416, in _parse_sub
+    not nested and not items))
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 616, in _parse
+    source.tell() - here + len(this))
+sre_constants.error: nothing to repeat at position 0
+
+Puisi Pelaut Muda - D Zawawi Imron - Hari Puisi Indonesia.txt
+Traceback (most recent call last):
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 339, in main5
+    final_cleaning(file_name)
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 316, in final_cleaning
+    mess_splited[3] = re.sub(place + ', ', '', mess_splited[3])
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 191, in sub
+    return _compile(pattern, flags).sub(repl, string, count)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 301, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_compile.py", line 562, in compile
+    p = sre_parse.parse(p, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 855, in parse
+    p = _parse_sub(source, pattern, flags & SRE_FLAG_VERBOSE, 0)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 416, in _parse_sub
+    not nested and not items))
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 768, in _parse
+    source.tell() - start)
+sre_constants.error: missing ), unterminated subpattern at position 32 (line 2, column 2)
+
+Puisi Penata Peniti - Kiki Sulistyo - Hari Puisi Indonesia.txt
+Traceback (most recent call last):
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 339, in main5
+    final_cleaning(file_name)
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 316, in final_cleaning
+    mess_splited[3] = re.sub(place + ', ', '', mess_splited[3])
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 191, in sub
+    return _compile(pattern, flags).sub(repl, string, count)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 301, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_compile.py", line 562, in compile
+    p = sre_parse.parse(p, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 855, in parse
+    p = _parse_sub(source, pattern, flags & SRE_FLAG_VERBOSE, 0)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 416, in _parse_sub
+    not nested and not items))
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 768, in _parse
+    source.tell() - start)
+sre_constants.error: missing ), unterminated subpattern at position 0
+
+Puisi Pencari Jembatan - Adri Sanda - Hari Puisi Indonesia.txt
+Traceback (most recent call last):
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 339, in main5
+    final_cleaning(file_name)
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 316, in final_cleaning
+    mess_splited[3] = re.sub(place + ', ', '', mess_splited[3])
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 191, in sub
+    return _compile(pattern, flags).sub(repl, string, count)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 301, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_compile.py", line 562, in compile
+    p = sre_parse.parse(p, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 855, in parse
+    p = _parse_sub(source, pattern, flags & SRE_FLAG_VERBOSE, 0)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 416, in _parse_sub
+    not nested and not items))
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 768, in _parse
+    source.tell() - start)
+sre_constants.error: missing ), unterminated subpattern at position 0
+
+Puisi Percakapan Angin dan Jendela - Alizar Tanjung - Hari Puisi Indonesia.txt
+Traceback (most recent call last):
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 339, in main5
+    final_cleaning(file_name)
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 316, in final_cleaning
+    mess_splited[3] = re.sub(place + ', ', '', mess_splited[3])
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 191, in sub
+    return _compile(pattern, flags).sub(repl, string, count)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 301, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_compile.py", line 562, in compile
+    p = sre_parse.parse(p, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 855, in parse
+    p = _parse_sub(source, pattern, flags & SRE_FLAG_VERBOSE, 0)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 416, in _parse_sub
+    not nested and not items))
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 768, in _parse
+    source.tell() - start)
+sre_constants.error: missing ), unterminated subpattern at position 0
+
+Puisi Rahasia Masa - Radhar Panca Dahana - Hari Puisi Indonesia.txt
+Traceback (most recent call last):
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 339, in main5
+    final_cleaning(file_name)
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 316, in final_cleaning
+    mess_splited[3] = re.sub(place + ', ', '', mess_splited[3])
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 191, in sub
+    return _compile(pattern, flags).sub(repl, string, count)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 301, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_compile.py", line 562, in compile
+    p = sre_parse.parse(p, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 855, in parse
+    p = _parse_sub(source, pattern, flags & SRE_FLAG_VERBOSE, 0)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 416, in _parse_sub
+    not nested and not items))
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 768, in _parse
+    source.tell() - start)
+sre_constants.error: missing ), unterminated subpattern at position 10 (line 2, column 2)
+
+Puisi Sang Penyair - Saini K.M. - Hari Puisi Indonesia.txt
+Traceback (most recent call last):
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 339, in main5
+    final_cleaning(file_name)
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 316, in final_cleaning
+    mess_splited[3] = re.sub(place + ', ', '', mess_splited[3])
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 191, in sub
+    return _compile(pattern, flags).sub(repl, string, count)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 301, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_compile.py", line 562, in compile
+    p = sre_parse.parse(p, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 855, in parse
+    p = _parse_sub(source, pattern, flags & SRE_FLAG_VERBOSE, 0)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 416, in _parse_sub
+    not nested and not items))
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 768, in _parse
+    source.tell() - start)
+sre_constants.error: missing ), unterminated subpattern at position 20 (line 2, column 2)
+
+Puisi Sebab Dikau - Amir Hamzah (1911-1946) - Hari Puisi Indonesia.txt
+Traceback (most recent call last):
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 339, in main5
+    final_cleaning(file_name)
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 316, in final_cleaning
+    mess_splited[3] = re.sub(place + ', ', '', mess_splited[3])
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 191, in sub
+    return _compile(pattern, flags).sub(repl, string, count)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 301, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_compile.py", line 562, in compile
+    p = sre_parse.parse(p, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 855, in parse
+    p = _parse_sub(source, pattern, flags & SRE_FLAG_VERBOSE, 0)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 416, in _parse_sub
+    not nested and not items))
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 768, in _parse
+    source.tell() - start)
+sre_constants.error: missing ), unterminated subpattern at position 39 (line 2, column 1)
+
+Puisi Seindah Ini - Sutan Takdir Alisjahbana (1908-1994) - Hari Puisi Indonesia.txt
+Traceback (most recent call last):
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 339, in main5
+    final_cleaning(file_name)
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 316, in final_cleaning
+    mess_splited[3] = re.sub(place + ', ', '', mess_splited[3])
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 191, in sub
+    return _compile(pattern, flags).sub(repl, string, count)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 301, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_compile.py", line 562, in compile
+    p = sre_parse.parse(p, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 855, in parse
+    p = _parse_sub(source, pattern, flags & SRE_FLAG_VERBOSE, 0)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 416, in _parse_sub
+    not nested and not items))
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 616, in _parse
+    source.tell() - here + len(this))
+sre_constants.error: nothing to repeat at position 0
+
+Puisi Seorang Insinyur di Puncak Bukit - Saini KM - Hari Puisi Indonesia.txt
+Traceback (most recent call last):
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 339, in main5
+    final_cleaning(file_name)
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 316, in final_cleaning
+    mess_splited[3] = re.sub(place + ', ', '', mess_splited[3])
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 191, in sub
+    return _compile(pattern, flags).sub(repl, string, count)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 301, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_compile.py", line 562, in compile
+    p = sre_parse.parse(p, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 855, in parse
+    p = _parse_sub(source, pattern, flags & SRE_FLAG_VERBOSE, 0)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 416, in _parse_sub
+    not nested and not items))
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 768, in _parse
+    source.tell() - start)
+sre_constants.error: missing ), unterminated subpattern at position 20 (line 2, column 2)
+
+Puisi Seperti Apa Rasanya Jatuh dari Cinta - Benny Arnas (l. 1983) - Hari Puisi Indonesia.txt
+Traceback (most recent call last):
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 339, in main5
+    final_cleaning(file_name)
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 316, in final_cleaning
+    mess_splited[3] = re.sub(place + ', ', '', mess_splited[3])
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 191, in sub
+    return _compile(pattern, flags).sub(repl, string, count)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 301, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_compile.py", line 562, in compile
+    p = sre_parse.parse(p, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 855, in parse
+    p = _parse_sub(source, pattern, flags & SRE_FLAG_VERBOSE, 0)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 416, in _parse_sub
+    not nested and not items))
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 768, in _parse
+    source.tell() - start)
+sre_constants.error: missing ), unterminated subpattern at position 0
+
+Puisi Suluk Awang-Uwung, 2 - Kuntowijoyo (1943-2005) - Hari Puisi Indonesia.txt
+Traceback (most recent call last):
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 339, in main5
+    final_cleaning(file_name)
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 316, in final_cleaning
+    mess_splited[3] = re.sub(place + ', ', '', mess_splited[3])
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 191, in sub
+    return _compile(pattern, flags).sub(repl, string, count)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 301, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_compile.py", line 562, in compile
+    p = sre_parse.parse(p, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 855, in parse
+    p = _parse_sub(source, pattern, flags & SRE_FLAG_VERBOSE, 0)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 416, in _parse_sub
+    not nested and not items))
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 768, in _parse
+    source.tell() - start)
+sre_constants.error: missing ), unterminated subpattern at position 19 (line 2, column 1)
+
+Puisi Sydney - Linus Suryadi AG (1951-1999) - Hari Puisi Indonesia.txt
+Traceback (most recent call last):
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 339, in main5
+    final_cleaning(file_name)
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 316, in final_cleaning
+    mess_splited[3] = re.sub(place + ', ', '', mess_splited[3])
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 191, in sub
+    return _compile(pattern, flags).sub(repl, string, count)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 301, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_compile.py", line 562, in compile
+    p = sre_parse.parse(p, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 855, in parse
+    p = _parse_sub(source, pattern, flags & SRE_FLAG_VERBOSE, 0)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 416, in _parse_sub
+    not nested and not items))
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 768, in _parse
+    source.tell() - start)
+sre_constants.error: missing ), unterminated subpattern at position 17 (line 2, column 2)
+
+Puisi Via Dolorosa - Gerson Poyk - Hari Puisi Indonesia.txt
+Traceback (most recent call last):
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 339, in main5
+    final_cleaning(file_name)
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 316, in final_cleaning
+    mess_splited[3] = re.sub(place + ', ', '', mess_splited[3])
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 191, in sub
+    return _compile(pattern, flags).sub(repl, string, count)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 301, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_compile.py", line 562, in compile
+    p = sre_parse.parse(p, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 855, in parse
+    p = _parse_sub(source, pattern, flags & SRE_FLAG_VERBOSE, 0)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 416, in _parse_sub
+    not nested and not items))
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 768, in _parse
+    source.tell() - start)
+sre_constants.error: missing ), unterminated subpattern at position 19 (line 2, column 2)
+
+Puisi Vina Dad Mon Para Moya - Dino F Umahuk - Hari Puisi Indonesia.txt
+Traceback (most recent call last):
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 339, in main5
+    final_cleaning(file_name)
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 316, in final_cleaning
+    mess_splited[3] = re.sub(place + ', ', '', mess_splited[3])
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 191, in sub
+    return _compile(pattern, flags).sub(repl, string, count)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\re.py", line 301, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_compile.py", line 562, in compile
+    p = sre_parse.parse(p, flags)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 855, in parse
+    p = _parse_sub(source, pattern, flags & SRE_FLAG_VERBOSE, 0)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 416, in _parse_sub
+    not nested and not items))
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\sre_parse.py", line 768, in _parse
+    source.tell() - start)
+sre_constants.error: missing ), unterminated subpattern at position 25 (line 2, column 2)
+

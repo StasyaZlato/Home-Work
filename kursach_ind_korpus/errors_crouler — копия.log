@@ -1,0 +1,192 @@
+http://www.haripuisi.com/arsip/3746
+Traceback (most recent call last):
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 218, in main3
+    haripuisi_download_poems(url)
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 196, in haripuisi_download_poems
+    page_poem = down.del_html(page_poem)
+  File "C:\Users\User\Documents\progs2\download_module.py", line 17, in del_html
+    html_text = html.unescape(html_text)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\html\__init__.py", line 130, in unescape
+    if '&' not in s:
+TypeError: argument of type 'NoneType' is not iterable
+
+http://www.haripuisi.com/arsip/3651
+Traceback (most recent call last):
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 218, in main3
+    haripuisi_download_poems(url)
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 196, in haripuisi_download_poems
+    page_poem = down.del_html(page_poem)
+  File "C:\Users\User\Documents\progs2\download_module.py", line 17, in del_html
+    html_text = html.unescape(html_text)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\html\__init__.py", line 130, in unescape
+    if '&' not in s:
+TypeError: argument of type 'NoneType' is not iterable
+
+http://www.haripuisi.com/arsip/3686
+Traceback (most recent call last):
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 218, in main3
+    haripuisi_download_poems(url)
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 196, in haripuisi_download_poems
+    page_poem = down.del_html(page_poem)
+  File "C:\Users\User\Documents\progs2\download_module.py", line 17, in del_html
+    html_text = html.unescape(html_text)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\html\__init__.py", line 130, in unescape
+    if '&' not in s:
+TypeError: argument of type 'NoneType' is not iterable
+
+http://www.haripuisi.com/arsip/3518
+Traceback (most recent call last):
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 218, in main3
+    haripuisi_download_poems(url)
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 196, in haripuisi_download_poems
+    page_poem = down.del_html(page_poem)
+  File "C:\Users\User\Documents\progs2\download_module.py", line 17, in del_html
+    html_text = html.unescape(html_text)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\html\__init__.py", line 130, in unescape
+    if '&' not in s:
+TypeError: argument of type 'NoneType' is not iterable
+
+http://www.haripuisi.com/arsip/3285
+Traceback (most recent call last):
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 218, in main3
+    haripuisi_download_poems(url)
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 196, in haripuisi_download_poems
+    page_poem = down.del_html(page_poem)
+  File "C:\Users\User\Documents\progs2\download_module.py", line 17, in del_html
+    html_text = html.unescape(html_text)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\html\__init__.py", line 130, in unescape
+    if '&' not in s:
+TypeError: argument of type 'NoneType' is not iterable
+
+http://www.haripuisi.com/arsip/3051
+Traceback (most recent call last):
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 218, in main3
+    haripuisi_download_poems(url)
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 196, in haripuisi_download_poems
+    page_poem = down.del_html(page_poem)
+  File "C:\Users\User\Documents\progs2\download_module.py", line 17, in del_html
+    html_text = html.unescape(html_text)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\html\__init__.py", line 130, in unescape
+    if '&' not in s:
+TypeError: argument of type 'NoneType' is not iterable
+
+http://www.haripuisi.com/arsip/2632
+Traceback (most recent call last):
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 218, in main3
+    haripuisi_download_poems(url)
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 196, in haripuisi_download_poems
+    page_poem = down.del_html(page_poem)
+  File "C:\Users\User\Documents\progs2\download_module.py", line 17, in del_html
+    html_text = html.unescape(html_text)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\html\__init__.py", line 130, in unescape
+    if '&' not in s:
+TypeError: argument of type 'NoneType' is not iterable
+
+http://www.haripuisi.com/arsip/2467
+Traceback (most recent call last):
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 218, in main3
+    haripuisi_download_poems(url)
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 196, in haripuisi_download_poems
+    page_poem = down.del_html(page_poem)
+  File "C:\Users\User\Documents\progs2\download_module.py", line 17, in del_html
+    html_text = html.unescape(html_text)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\html\__init__.py", line 130, in unescape
+    if '&' not in s:
+TypeError: argument of type 'NoneType' is not iterable
+
+http://www.haripuisi.com/arsip/2255
+Traceback (most recent call last):
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 218, in main3
+    haripuisi_download_poems(url)
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 196, in haripuisi_download_poems
+    page_poem = down.del_html(page_poem)
+  File "C:\Users\User\Documents\progs2\download_module.py", line 17, in del_html
+    html_text = html.unescape(html_text)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\html\__init__.py", line 130, in unescape
+    if '&' not in s:
+TypeError: argument of type 'NoneType' is not iterable
+
+http://www.haripuisi.com/arsip/2203
+Traceback (most recent call last):
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 218, in main3
+    haripuisi_download_poems(url)
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 196, in haripuisi_download_poems
+    page_poem = down.del_html(page_poem)
+  File "C:\Users\User\Documents\progs2\download_module.py", line 17, in del_html
+    html_text = html.unescape(html_text)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\html\__init__.py", line 130, in unescape
+    if '&' not in s:
+TypeError: argument of type 'NoneType' is not iterable
+
+http://www.haripuisi.com/arsip/1973
+Traceback (most recent call last):
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 218, in main3
+    haripuisi_download_poems(url)
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 196, in haripuisi_download_poems
+    page_poem = down.del_html(page_poem)
+  File "C:\Users\User\Documents\progs2\download_module.py", line 17, in del_html
+    html_text = html.unescape(html_text)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\html\__init__.py", line 130, in unescape
+    if '&' not in s:
+TypeError: argument of type 'NoneType' is not iterable
+
+http://www.haripuisi.com/arsip/1756
+Traceback (most recent call last):
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 218, in main3
+    haripuisi_download_poems(url)
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 196, in haripuisi_download_poems
+    page_poem = down.del_html(page_poem)
+  File "C:\Users\User\Documents\progs2\download_module.py", line 17, in del_html
+    html_text = html.unescape(html_text)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\html\__init__.py", line 130, in unescape
+    if '&' not in s:
+TypeError: argument of type 'NoneType' is not iterable
+
+http://www.haripuisi.com/arsip/1471
+Traceback (most recent call last):
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 218, in main3
+    haripuisi_download_poems(url)
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 196, in haripuisi_download_poems
+    page_poem = down.del_html(page_poem)
+  File "C:\Users\User\Documents\progs2\download_module.py", line 17, in del_html
+    html_text = html.unescape(html_text)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\html\__init__.py", line 130, in unescape
+    if '&' not in s:
+TypeError: argument of type 'NoneType' is not iterable
+
+http://www.haripuisi.com/arsip/1171
+Traceback (most recent call last):
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 218, in main3
+    haripuisi_download_poems(url)
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 196, in haripuisi_download_poems
+    page_poem = down.del_html(page_poem)
+  File "C:\Users\User\Documents\progs2\download_module.py", line 17, in del_html
+    html_text = html.unescape(html_text)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\html\__init__.py", line 130, in unescape
+    if '&' not in s:
+TypeError: argument of type 'NoneType' is not iterable
+
+http://www.haripuisi.com/arsip/763
+Traceback (most recent call last):
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 218, in main3
+    haripuisi_download_poems(url)
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 196, in haripuisi_download_poems
+    page_poem = down.del_html(page_poem)
+  File "C:\Users\User\Documents\progs2\download_module.py", line 17, in del_html
+    html_text = html.unescape(html_text)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\html\__init__.py", line 130, in unescape
+    if '&' not in s:
+TypeError: argument of type 'NoneType' is not iterable
+
+http://www.haripuisi.com/arsip/312
+Traceback (most recent call last):
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 218, in main3
+    haripuisi_download_poems(url)
+  File "C:/Users/User/Documents/progs2/crouler2.py", line 196, in haripuisi_download_poems
+    page_poem = down.del_html(page_poem)
+  File "C:\Users\User\Documents\progs2\download_module.py", line 17, in del_html
+    html_text = html.unescape(html_text)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python36-32\lib\html\__init__.py", line 130, in unescape
+    if '&' not in s:
+TypeError: argument of type 'NoneType' is not iterable
+
