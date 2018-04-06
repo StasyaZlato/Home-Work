@@ -168,8 +168,10 @@ def main(dirname):
             infa = abdul_hadi_infa(file_name)
             insert_into_bd(infa)
 
+
 main('Mustofa Bisri')
 main('Abdul Hadi WM')
+
 
 # ...и тут тоже
 def main1():
@@ -397,6 +399,7 @@ def sth():
 
 # 21:48. Заслуженная конфета съедена, молоко за вредность выпито (бедные мои глазки...), ГоТоВ к ТрУдУ и ОбОрОнЕ
 
+
 # начнем, пожалуй, с авторов. (Прямо как вступление к докладу на конференцию прозвучало...)
 # если конкретнее, нам надо проверить соответствие имеющихся и новых имен - может, другие сокращения, etc
 def infa_haripuisi():
@@ -470,6 +473,7 @@ def infa_haripuisi():
         infa.append(dict)
     author2.sort()
     # под комментами - не черновик, а просто те куски, которые нормально сработали во время многочисленных проверок
+    # уже не под комментами, да
     with open('author1.txt', 'w', encoding='utf-8') as f:
         for i in author1:
             f.write(i[0] + '\n')
@@ -481,9 +485,7 @@ def infa_haripuisi():
         print(i)
         url = '---'
         c.execute('INSERT OR IGNORE INTO authors (author, url) VALUES (?, ?)', [i, url])
-    # id = 838
     for inf in infa:
-        # print(inf)
         try:
             c.execute('SELECT poem_name FROM poems_info WHERE author = (?)', [inf['Author']])
             existed = []
@@ -492,30 +494,12 @@ def infa_haripuisi():
             if inf['Name'].strip().capitalize() not in existed:
                 c.execute('INSERT INTO poems_info (poem_name, poem_url, author, year) VALUES (?, ?, ?, ?)',
                           [inf['Name'].capitalize(), inf['URL'], inf['Author'], inf['Year']])
-                # id += 1
                 c.execute('INSERT INTO poems (poem_text, poem_name) VALUES (?, ?)', [inf['Poem text'], inf['Name']])
                 conn.commit()
-                # print('В базу данных внесены изменения')
             else:
                 print(inf['Name'] + ' - Такое стихотворение уже существует')
         except Exception:
             print('Упс! ' + str(inf))
 
 
-
-
 infa_haripuisi()
-
-
-# ааааааааааа все нахрен уехало спасити-памагити
-
-
-
-
-
-
-
-
-
-
-

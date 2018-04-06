@@ -10,6 +10,7 @@ def download(pageUrl):
         return html
     except:
         print('Error at ', pageUrl)
+        return None
 
 
 def del_html(html_text):
