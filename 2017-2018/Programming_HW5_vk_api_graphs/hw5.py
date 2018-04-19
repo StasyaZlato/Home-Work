@@ -289,6 +289,7 @@ def graph(data, name_x="posts", name_y="comments"):
     print('Данные для построения графика сформированы...')
     sns.jointplot(x=name_x, y=name_y, kind="reg", color='green', data=df)
     print('Количество точек для графика: ' + str(len(data_np)))
+    plt.savefig(name_x+'_'+name_y+'.png', format='png')
     return
 
 
@@ -488,6 +489,7 @@ def graph_cities(i, y_ax='av_com'):
     ax = sns.factorplot("x", "y", data=df, kind="bar", palette="Greens", size=6, aspect=2, legend_out=False)
     ax.set_axis_labels("city", y_ax)
     ax.set_xticklabels(rotation=90)
+    plt.savefig('city_'+y_ax+'.png', format='png')
     return
 
 
