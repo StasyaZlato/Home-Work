@@ -289,6 +289,7 @@ def graph(data, name_x="posts", name_y="comments"):
     print('Данные для построения графика сформированы...')
     sns.jointplot(x=name_x, y=name_y, kind="reg", color='green', data=df)
     print('Количество точек для графика: ' + str(len(data_np)))
+    plt.tight_layout()
     plt.savefig(name_x+'_'+name_y+'.png', format='png')
     return
 
@@ -489,6 +490,7 @@ def graph_cities(i, y_ax='av_com'):
     ax = sns.factorplot("x", "y", data=df, kind="bar", palette="Greens", size=6, aspect=2, legend_out=False)
     ax.set_axis_labels("city", y_ax)
     ax.set_xticklabels(rotation=90)
+    plt.tight_layout()
     plt.savefig('city_'+y_ax+'.png', format='png')
     return
 
@@ -523,7 +525,7 @@ def main():
     graph(i[1], name_x="age", name_y="av_post")
     print('График зависимости длины поста от возраста готов.')
     i = make_data_age_or_city(col='city_title', table='cities')
-    # # не удивляйтесь, пожалуйста, возрастам вроде 150 - некоторые люди очень любят прикалываться.
+    # не удивляйтесь, пожалуйста, возрастам вроде 150 - некоторые люди очень любят прикалываться.
     graph_cities(i[0])
     print('Количество точек для графика: ' + str(len(i[0])))
     print('Столбчатая диаграмма длины комментария от города готова.')
