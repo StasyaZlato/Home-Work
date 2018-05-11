@@ -11,8 +11,12 @@ STICKERS = []
 
 
 bot = telebot.TeleBot(conf.TOKEN)
+
+
 bot.remove_webhook()
-# bot.set_webhook(url=WEBHOOK_URL_BASE+WEBHOOK_URL_PATH)
+bot.set_webhook(url=WEBHOOK_URL_BASE+WEBHOOK_URL_PATH)
+
+
 app = flask.Flask(__name__)
 
 
@@ -37,6 +41,17 @@ def answer_stickers(message):
     STICKERS.append(message.sticker.file_id)
     bot.send_sticker(user, choice(STICKERS))
 
+    
+@app.route(WEBHOOK_URL_PATH, methods=['POST'])
+def webhook():
+    if flask.request.headers.get('content-type') == 'application/json':
+        json_string = flask.request.get_data().decode('utf-8')
+        update = telebot.types.Update.de_json(json_string)
+        bot.process_new_updates([update])
+        return ''
+    else:
+        flask.abort(403)
 
-if __name__ == '__main__':
-    bot.polling(none_stop=True)
+
+#if __name__ == '__main__':
+#    bot.polling(none_stop=True)
