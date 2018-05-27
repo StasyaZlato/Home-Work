@@ -27,11 +27,11 @@ def making_graph(sem_pole):
     data = data_for_graph(sem_pole)
     for i in data:
         graph.add_edge(i[0], i[1], weight=float(i[2]))
-    # pos = nx.spring_layout(graph)
     labels = {i: i for i in sem_pole}
     nx.draw_circular(graph, node_color='#66CCCC', edge_color='#003333', labels=labels)
     plt.axis('off')
     nx.write_gexf(graph, 'graph_file.gexf')
+    plt.savefig('graph.png')
     plt.show()
     return
 
