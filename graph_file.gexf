@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <meta>
+      <creator>NetworkX 2.1</creator>
+      <lastmodified>27/05/2018</lastmodified>
+    </meta>
+    <nodes>
+      <node id="красный_ADJ" label="красный_ADJ" />
+      <node id="пурпурный_ADJ" label="пурпурный_ADJ" />
+      <node id="лиловый_ADJ" label="лиловый_ADJ" />
+      <node id="розовый_ADJ" label="розовый_ADJ" />
+      <node id="малиновый_ADJ" label="малиновый_ADJ" />
+      <node id="розоватый_ADJ" label="розоватый_ADJ" />
+      <node id="алый_ADJ" label="алый_ADJ" />
+      <node id="бордовый_ADJ" label="бордовый_ADJ" />
+      <node id="багровый_ADJ" label="багровый_ADJ" />
+      <node id="фиолетовый_ADJ" label="фиолетовый_ADJ" />
+      <node id="коралловый_ADJ" label="коралловый_ADJ" />
+      <node id="лавандовый_ADJ" label="лавандовый_ADJ" />
+    </nodes>
+    <edges>
+      <edge id="0" source="красный_ADJ" target="малиновый_ADJ" weight="0.5724604006123695" />
+      <edge id="1" source="красный_ADJ" target="алый_ADJ" weight="0.5161605761081822" />
+      <edge id="2" source="красный_ADJ" target="бордовый_ADJ" weight="0.5276670312052727" />
+      <edge id="3" source="пурпурный_ADJ" target="лиловый_ADJ" weight="0.5849892830085847" />
+      <edge id="4" source="пурпурный_ADJ" target="розовый_ADJ" weight="0.5241350841726486" />
+      <edge id="5" source="пурпурный_ADJ" target="малиновый_ADJ" weight="0.5240150624009399" />
+      <edge id="6" source="пурпурный_ADJ" target="алый_ADJ" weight="0.5529365218500955" />
+      <edge id="7" source="пурпурный_ADJ" target="бордовый_ADJ" weight="0.5986298109338952" />
+      <edge id="8" source="пурпурный_ADJ" target="фиолетовый_ADJ" weight="0.667185802851666" />
+      <edge id="9" source="лиловый_ADJ" target="розовый_ADJ" weight="0.7567807363375016" />
+      <edge id="10" source="лиловый_ADJ" target="малиновый_ADJ" weight="0.6397255439369511" />
+      <edge id="11" source="лиловый_ADJ" target="розоватый_ADJ" weight="0.6490275528970464" />
+      <edge id="12" source="лиловый_ADJ" target="алый_ADJ" weight="0.5729478413133436" />
+      <edge id="13" source="лиловый_ADJ" target="бордовый_ADJ" weight="0.66350477744506" />
+      <edge id="14" source="лиловый_ADJ" target="багровый_ADJ" weight="0.6686376284314894" />
+      <edge id="15" source="лиловый_ADJ" target="фиолетовый_ADJ" weight="0.7583603684707866" />
+      <edge id="16" source="розовый_ADJ" target="малиновый_ADJ" weight="0.6122146061105667" />
+      <edge id="17" source="розовый_ADJ" target="розоватый_ADJ" weight="0.7302217033751213" />
+      <edge id="18" source="розовый_ADJ" target="алый_ADJ" weight="0.5666603878699431" />
+      <edge id="19" source="розовый_ADJ" target="бордовый_ADJ" weight="0.6396189363772384" />
+      <edge id="20" source="розовый_ADJ" target="багровый_ADJ" weight="0.578652905855995" />
+      <edge id="21" source="розовый_ADJ" target="фиолетовый_ADJ" weight="0.7156571449211507" />
+      <edge id="22" source="розовый_ADJ" target="лавандовый_ADJ" weight="0.5597646285972534" />
+      <edge id="23" source="малиновый_ADJ" target="розоватый_ADJ" weight="0.5131540015293354" />
+      <edge id="24" source="малиновый_ADJ" target="алый_ADJ" weight="0.5966564888008914" />
+      <edge id="25" source="малиновый_ADJ" target="бордовый_ADJ" weight="0.6460423804623816" />
+      <edge id="26" source="малиновый_ADJ" target="багровый_ADJ" weight="0.5114966389699529" />
+      <edge id="27" source="малиновый_ADJ" target="фиолетовый_ADJ" weight="0.6058846622921069" />
+      <edge id="28" source="розоватый_ADJ" target="бордовый_ADJ" weight="0.6017689588696296" />
+      <edge id="29" source="розоватый_ADJ" target="багровый_ADJ" weight="0.5655321996219935" />
+      <edge id="30" source="розоватый_ADJ" target="фиолетовый_ADJ" weight="0.6600748913542348" />
+      <edge id="31" source="розоватый_ADJ" target="лавандовый_ADJ" weight="0.5189908495861384" />
+      <edge id="32" source="алый_ADJ" target="бордовый_ADJ" weight="0.5497368303223369" />
+      <edge id="33" source="алый_ADJ" target="багровый_ADJ" weight="0.5461984209163595" />
+      <edge id="34" source="алый_ADJ" target="фиолетовый_ADJ" weight="0.5072302535771601" />
+      <edge id="35" source="бордовый_ADJ" target="фиолетовый_ADJ" weight="0.7106876253119253" />
+      <edge id="36" source="багровый_ADJ" target="фиолетовый_ADJ" weight="0.5010548735349747" />
+      <edge id="37" source="фиолетовый_ADJ" target="лавандовый_ADJ" weight="0.5155956658966543" />
+    </edges>
+  </graph>
+</gexf>
