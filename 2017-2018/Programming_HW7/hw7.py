@@ -18,7 +18,7 @@ def searching_for_cos(sem_pole):
 
 
 '''Еще одна бессмысленная домашка, настолько загружающая оперативку и ноутбук в целом, 
-и следующую переустановку винды оплачивать будете вы.'''
+и следующую (уже третью за учебный год) переустановку винды оплачивать будете вы.'''
 
 
 def making_graph(sem_pole):
@@ -62,7 +62,6 @@ def radius(graph):
     rads = []
     line = ''
     for i in components:
-        # rads.append(nx.radius(i))
         line = line + 'Компонента связности №' + str(components.index(i)+1) + ' имеет радиус ' + str(nx.radius(i)) + '\n'
     return 'Всего в графе {} компонент связности. {}'.format(str(num), line)
 
@@ -96,7 +95,6 @@ def main():
                 'коралловый_ADJ',
                 'лавандовый_ADJ']
     # searching_for_cos(sem_pole)
-    # data_for_graph(sem_pole)
     making_graph(sem_pole)
     taking_info()
 
