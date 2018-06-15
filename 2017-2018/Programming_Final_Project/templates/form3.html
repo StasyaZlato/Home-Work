@@ -1,0 +1,23 @@
+{% extends 'layout.html' %}
+{% block content %}
+<form>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-4">
+                <h3>Question {{ i }}</h3>
+                <hr>
+                <p>{{ quest }}</p>
+                <input name="quest" id="1">
+                {% if comment != '' %}
+                <p>{{ comment }}</p>
+                {% endif %}
+                <hr>
+                <button type="submit" class="btn btn-primary" id="submit" >Выбрать</button>
+            </div>
+            {% if index == 1 or index == 11 %}
+            <div class="col-lg-4"><img src="static/{{ index }}.jpg"></div>
+            {% endif %}
+        </div>
+    </div>
+</form>
+{% endblock %}

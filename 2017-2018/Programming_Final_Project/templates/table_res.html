@@ -1,0 +1,41 @@
+{% extends 'layout.html' %}
+{% block content %}
+<details>
+    <summary>
+        <font size="5"><b>Полный список вопросов</b></font>
+    </summary>
+    <ol>
+        {% for quest in quests %}
+        <li> {{ quest }} </li>
+        {% endfor %}
+    </ol>
+</details>
+<style>
+    .table-hover tbody tr:hover td, .table-hover tbody tr:hover th {
+  background-color: #99CCFF;
+}
+</style>
+<table class="table table-striped table-hover table-responsive table-sm" style="margin-bottom: 10px">
+    <thead  style="background-color: #33CCFF">
+        <tr>
+            {% for i in cols_names %}
+                <th scope="col"> {{ i }} </th>
+            {% endfor %}
+        </tr>
+    </thead>
+    <tbody>
+    {% for row in rows %}
+        <tr>
+            <th scope="row"  style="background-color: #33CCFF"> {{ row[0] }} </th>
+            {% for el in row[1:] %}
+                {% if el == n %}
+                    <td> - </td>
+                {% else %}
+                    <td> {{ el }} </td>
+                {% endif %}
+            {% endfor %}
+        </tr>
+    {% endfor %}
+    </tbody>
+</table>
+{% endblock %}

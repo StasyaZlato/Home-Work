@@ -1,0 +1,21 @@
+{% extends 'layout.html' %}
+{% block content %}
+<form>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-4">
+                <h3>Question 42</h3>
+                <hr>
+                <p>{{ quest }}</p>
+                <input name="quest" id="1">
+                {% if comment != '' %}
+                <p>{{ comment }}</p>
+                {% endif %}
+                <hr>
+                <button type="submit" class="btn btn-primary" id="submit" >Закончить</button>
+            </div>
+            <!--<div class="col-lg-4"><img src="static/1.jpg"></div>-->
+        </div>
+    </div>
+</form>
+{% endblock %}
