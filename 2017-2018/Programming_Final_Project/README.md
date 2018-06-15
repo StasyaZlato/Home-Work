@@ -1,4 +1,6 @@
-# Сайт работает [тут](http://colour-questionary-project.herokuapp.com) (http://colour-questionary-project.herokuapp.com)
+# Сайт работает [тут](http://colour-questionary-project.herokuapp.com) 
+****
+(да-да, тут http://colour-questionary-project.herokuapp.com)
 ****
 Данные можно сохранить к себе по кнопочке. Анкетку надо пройти до конца, иначе ничего не отобразится на страничке итогов. 
 ***
