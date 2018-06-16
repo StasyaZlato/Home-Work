@@ -1,7 +1,7 @@
 # UPDATE!!!!
-## Теперь сайт работает [тут](http://burunghantu.pythonanywhere.com/results)
+## Теперь сайт работает [тут](http://burunghantu.pythonanywhere.com)
 ****
-(вот тут http://burunghantu.pythonanywhere.com/results)
+(вот тут http://burunghantu.pythonanywhere.com)
 ***
 ### Почему?
 > (с) *Хорошее дело heroku не назовут.*
